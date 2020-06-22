@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: 'Overreacted',
-    author: 'Dan Abramov',
-    description: 'Personal blog by Dan Abramov. I explain with words and code.',
-    siteUrl: 'https://overreacted.io',
+    title: 'P`s Blog',
+    author: 'Princiya Sequeira',
+    description: 'Personal blog by Princiya Sequeira',
+    siteUrl: 'http://princiya.com/blog',
     social: {
-      twitter: '@dan_abramov',
+      twitter: '@princi_ya',
     },
   },
-  pathPrefix: '/',
+  pathPrefix: '/blog',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -56,7 +56,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-130227707-1`,
+        trackingId: ``,
       },
     },
     {
@@ -126,7 +126,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: "Dan Abramov's Overreacted Blog RSS Feed",
+            title: "P's Blog RSS Feed",
           },
         ],
       },

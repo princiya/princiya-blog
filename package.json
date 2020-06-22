@@ -1,12 +1,11 @@
 {
-  "name": "overreacted",
+  "name": "Prilog",
   "private": true,
-  "engines": {"node": "12.x"},
-  "description": "Overreacted",
+  "description": "Personal blog from princiya.com",
   "version": "1.0.0",
-  "author": "Dan Abramov <dan.abramov@me.com>",
+  "author": "Princiya Sequeira",
   "bugs": {
-    "url": "https://github.com/gaearon/overreacted.io/issues"
+    "url": "https://github.com/princiya/blog/issues"
   },
   "dependencies": {
     "gatsby": "^2.0.76",
@@ -48,17 +47,16 @@
     "glob": "^7.1.3",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://overreacted.io",
+  "homepage": "http://princiya.com/blog",
   "license": "MIT",
   "scripts": {
-    "dev": "gatsby develop",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
     "format": "prettier --write '{gatsby-*.js,src/**/*.{js,jsx,json,css}}'",
     "develop": "gatsby develop",
     "start": "npm run develop",
     "build": "rm -rf public && rm -rf .cache && gatsby build",
     "now-build": "gatsby build",
-    "deploy": "yarn build && cp now.json public/ && cd public && now alias $(now) overreacted.io",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "dry": "yarn build && cp now.json public/ && cd public && now",
     "js-to-jsx": "node src/utils/js-to-jsx"
   },
