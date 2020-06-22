@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: '2020-06-22'
+date: '2020-03-09'
 spoiler: Setting up a Gatsby Blog
 cta: 'gatsby'
 ---
@@ -16,3 +16,5 @@ In the past, I've tried Jekyll and Hugo static site generators but was not happy
 I really like Gatsby, given my React experience, and I am finally happy with a static site generator.
 
 So here I am, with a new digital garden of my own.
+
+[this](/hello-world/)
