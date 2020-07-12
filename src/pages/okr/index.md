@@ -32,4 +32,3 @@ cta: 'leadership'
 
 
 
-- **Short term goal (6 months)** —> 

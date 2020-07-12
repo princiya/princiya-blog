@@ -125,7 +125,7 @@ module.exports = {
                 }
               }
             `,
-            output: '/rss.xml',
+            output: '/blog/rss.xml',
             title: "P's Blog RSS Feed",
           },
         ],
@@ -165,8 +165,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Overreacted`,
-        short_name: `Overreacted`,
+        name: `P's Blog`,
+        short_name: `P's Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#ffa7c4`,
