@@ -37,3 +37,30 @@ We will use [Pact](https://pact.io) as the contract test framework.
 - The consumer and provider are both under active development
 - Contract tests execute faster than the integration tests and will tell which versions of our applications can be deployed safely together
 - We can find out before we deploy whether or not our applications will work together, i.e. this version of FE against a given version of BE; and there is no need to wait for slow e2e tests
+
+## Contract vs Integration tests
+
+I first heard the term contract testing only last month mainly when we were trying to figure out how to have better API tests and that the BE changes become more visible to us.
+
+Integration tests or end to end tests (offcourse these two are not same) require the application to be setup, or run beforehand to enable the tests themselves to run. This is the biggest key difference between integration and contract tests.
+
+For example:
+Imagine you are planning to buy / rent a house. First you will see the house itself. If it interests you then you will sign the contract. The contract will then detail what is agreed between you and the other person selling / renting the place. This contract will then serve as the basis. If anything needs to change, then you need to update the contract itself.
+
+Replace the house with the application. You are the consumer, the owner of the house is the provider.
+
+> First you will see the house itself.
+
+You will build the application, run unit tests, and test the application locally.
+
+> If it interests you then you will sign the contract.
+
+The contract tests are run with what is agreed between the consumer and the provider.
+
+You didn't have to move into the house to sign the contract. But the contract was the first agreement before moving into the house.
+
+It's the same with deploying the application itself to production or staging environment. The consumer contract tests can be tested against a mock provider.
+
+Whereas for the integration tests to be run, the application first needs to be deployed.
+
+Let me know what your thoughts are.
