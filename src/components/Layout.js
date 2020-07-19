@@ -21,54 +21,38 @@ class Layout extends React.Component {
     const { location, title } = this.props;
     const rootPath = `${__PATH_PREFIX__}/`;
 
-    if (location.pathname === rootPath) {
-      return (
-        <h1
+    return (
+      <h1
+        style={{
+          ...scale(0.75),
+          marginBottom: 0,
+          marginTop: 0,
+        }}
+      >
+        <Link
           style={{
-            ...scale(0.75),
-            marginBottom: 0,
-            marginTop: 0,
+            boxShadow: 'none',
+            textDecoration: 'none',
+            color: 'var(--textLink)',
           }}
+          to={'/'}
         >
-          <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'var(--textTitle)',
-            }}
-            to={'/'}
-          >
-            {title}
-          </Link>
-        </h1>
-      );
-    } else {
-      return (
-        <h3
-          style={{
-            fontFamily: 'Montserrat, sans-serif',
-            marginTop: 0,
-            marginBottom: 0,
-            height: 42, // because
-            lineHeight: '2.625rem',
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'rgb(255, 167, 196)',
-            }}
-            to={'/'}
-          >
-            {title}
-          </Link>
-        </h3>
-      );
-    }
+          {title}
+        </Link>
+      </h1>
+    );
   }
   render() {
-    const { children } = this.props;
+    const { children, maxWidth = false } = this.props;
+    const bodyStyle = {
+      marginLeft: 'auto',
+      marginRight: 'auto',
+      padding: `2.625rem ${rhythm(3 / 4)}`,
+    };
+
+    if (maxWidth === true) {
+      bodyStyle.maxWidth = rhythm(24);
+    }
 
     return (
       <div
@@ -87,14 +71,7 @@ class Layout extends React.Component {
             },
           ]}
         />
-        <div
-          style={{
-            marginLeft: 'auto',
-            marginRight: 'auto',
-            maxWidth: rhythm(24),
-            padding: `2.625rem ${rhythm(3 / 4)}`,
-          }}
-        >
+        <div style={bodyStyle}>
           <header
             style={{
               display: 'flex',

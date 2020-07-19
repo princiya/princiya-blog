@@ -1,6 +1,7 @@
 import React from 'react';
 import profilePic from '../assets/profile-pic.jpeg';
 import { rhythm } from '../utils/typography';
+import Footer from './Footer';
 
 class Bio extends React.Component {
   render() {
@@ -8,6 +9,7 @@ class Bio extends React.Component {
       <div
         style={{
           display: 'flex',
+          alignItems: 'center',
           marginBottom: rhythm(2),
         }}
       >
@@ -19,12 +21,16 @@ class Bio extends React.Component {
             marginBottom: 0,
             width: rhythm(2),
             backgroundSize: 'contain',
+            borderRadius: '8px',
           }}
         />
-        <p style={{ maxWidth: 310 }}>
-          Personal blog by{' '}
-          <a href="https://twitter.com/princi_ya">Princiya Sequeira</a>.
-        </p>
+        <div>
+          <p style={{ maxWidth: 310, marginBottom: 0 }}>
+            Personal blog by <a href="http://princiya.com">Princiya Sequeira</a>
+            .
+          </p>
+          <Footer marginTop={false} />
+        </div>
       </div>
     );
   }

@@ -141,7 +141,7 @@ class BlogPostTemplate extends React.Component {
     )}`;
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={this.props.location} title={siteTitle} maxWidth={true}>
         <SEO
           lang={lang}
           title={post.frontmatter.title}
@@ -207,7 +207,7 @@ class BlogPostTemplate extends React.Component {
               style={{
                 boxShadow: 'none',
                 textDecoration: 'none',
-                color: 'var(--pink)',
+                color: 'var(--textLink)',
               }}
               to={'/'}
             >
