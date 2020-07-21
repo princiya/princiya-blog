@@ -17,4 +17,14 @@ I really like Gatsby, given my React experience, and I am finally happy with a s
 
 So here I am, with a new digital garden of my own.
 
+The blog theme is based from [Dan Abramov's](https://github.com/gaearon/overreacted.io) personal [blog](https://overreacted.io/) with small tweaks.
+
+## The `this` bug
+
+There seems to be a bug when you create your first blog post, Gatsby will complain saying ``. Luckily I searched on the internet and found a hack. If it is your only post, then you need to add the following into your blog page:
+
+`[this](<blop-page-name>)`. If you look at Github, then this first post has a `this` keyword with the name of the blog page.
+
+Have fun with Gatsby!
+
 [this](/hello-world/)
