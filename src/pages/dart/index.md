@@ -5,8 +5,6 @@ spoiler: So I tried Dart today for the first time
 cta: 'dart'
 ---
 
-# Dart
-
 Today I tried [Flutter](https://flutter.dev) for the first time. Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 
 And [Dart](https://dart.dev) is the programming language used to code Flutter apps.
