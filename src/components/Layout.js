@@ -43,12 +43,17 @@ class Layout extends React.Component {
     );
   }
   render() {
-    const { children, maxWidth = false } = this.props;
+    const { children, maxWidth = false, margin = 'auto' } = this.props;
     const bodyStyle = {
-      marginLeft: 'auto',
-      marginRight: 'auto',
+      marginLeft: '8vw',
+      marginRight: '8vw',
       padding: `2.625rem ${rhythm(3 / 4)}`,
     };
+
+    if (margin === 'auto') {
+      bodyStyle.marginLeft = 'auto';
+      bodyStyle.marginRight = 'auto';
+    }
 
     if (maxWidth === true) {
       bodyStyle.maxWidth = rhythm(24);
