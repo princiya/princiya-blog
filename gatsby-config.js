@@ -190,5 +190,11 @@ module.exports = {
       },
     },
     `gatsby-plugin-catch-links`,
+    {
+      resolve: 'gatsby-transformer-remark',
+      options: {
+        plugins: ['@weknow/gatsby-remark-twitter'],
+      },
+    },
   ],
 };
