@@ -33,6 +33,20 @@ During my mind-mapping activity I realised I wanted a similar thing about female
 
 ## How do I want?
 
-When I got to the `HOW` part, it made more clear to me about the earlier `WHAT` and the `WHY` topics.
+When I got to the `HOW` part, it made more clear to me about the earlier `WHAT` and the `WHY` topics. I started analysing similar activities from the technical and non-technical space. For example:
+- Monica Lent's [blogging for devs](https://bloggingfordevs.com/blog/)
+- Entertainment shows which I love to binge watch; for example: The Kapil Sharma Show
+  - [Kapil Sharma](https://en.wikipedia.org/wiki/Kapil_Sharma_(comedian)) is an Indian standup comedian who is known for his witty jokes and excellent comedy timings
+- There are other examples too, but for now, let's stick to these two
+- One thing that is common here is that both of them know their domain pretty well and are able to generate content and keep the audience engaged
+- When I started to ask myself how do I want to create a closed space or answer in detail the `WHAT` and the `WHY` topics, it made sense to learn the subject matter and get better so that at some point (say in one year from now) I could lead the discussions myself or produce more content around these topics
+
+## What have I found so far?
+
+I have joined the below slack groups, and I am reading lots of articles by scouting through their old messages. I try to read ~3 articles per day.
+
+https://twitter.com/Jupiterrrr/status/1295116583661166594
+
+https://twitter.com/kenza_iraki/status/1295059930593075206
 
 
