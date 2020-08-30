@@ -13,8 +13,6 @@ https://twitter.com/princi_ya/status/900247719985524737
 
 In 2017, I was one of the 39 participants selected for Outreachy's summer internship. You can read my excitement [here](https://princiya777.wordpress.com/2017/05/05/outreachy-suspense-unfolds/) and all the Outreachy blog post series [here](https://princiya777.wordpress.com/category/outreachy/).
 
-![My outreachy application was selected in 2017](./outreachy-results.png)
-
 Since then, I get a lot of direct messages on Twitter from prospect applicants when a new round of Outreachy has opened and this year I thought I will jot it down as a blogpost so that it can serve many.
 
 > Initial applications for Outreachy Dec 2020 to Mar 2021 internships are due on Sep 20 at 4pm UTC!
@@ -29,9 +27,7 @@ https://twitter.com/princi_ya/status/963490655765921792
 
 In 2015, I had heard about Outreachy for the first time at a local meetup in Bangalore, India. I was keen on contributing to opensource and this internship seemed just about right. The fact that it was a paid internship made it more appealing. With no prior opensource contribution experience, I was excited in applying for this internship. But when the results were announced I wasn't selected. Here's why and how I learned from my failed attempt and succeeded the second time.
 
-![There is always a second chance](./second-chance.png)
-
-<div>Icons made by <a href="https://www.flaticon.com/authors/roundicons" title="Roundicons">Roundicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+> There is always a second chance!
 
 ### I think I failed because -
 
