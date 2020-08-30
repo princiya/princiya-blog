@@ -18,6 +18,14 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `http://princiya.com/blog`,
+      },
+    },
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
@@ -25,6 +33,7 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 590,
+              wrapperStyle: `border: 1px solid #efefef`,
             },
           },
           {
@@ -48,11 +57,10 @@ module.exports = {
               target: '_blank',
             },
           },
+          '@weknow/gatsby-remark-twitter',
         ],
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
@@ -190,11 +198,5 @@ module.exports = {
       },
     },
     `gatsby-plugin-catch-links`,
-    {
-      resolve: 'gatsby-transformer-remark',
-      options: {
-        plugins: ['@weknow/gatsby-remark-twitter'],
-      },
-    },
   ],
 };
