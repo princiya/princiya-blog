@@ -14,3 +14,7 @@ cta: 'leadership'
 ## Performance improvement plan
 
 PIP
+
+## Pre-mortem
+
+https://www.atlassian.com/team-playbook/plays/pre-mortem
