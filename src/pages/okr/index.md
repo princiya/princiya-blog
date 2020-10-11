@@ -1,8 +1,9 @@
 ---
-title: OKRs
+title: OKRs for a personal career path
 date: '2020-07-11'
-spoiler: Objectives and key results
-cta: 'leadership'
+spoiler: Objectives and key results can help you achieve your career goals
+cta: 'OKR'
+tags: ["leadership", "mentorship"]
 ---
 
 # Context

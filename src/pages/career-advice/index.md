@@ -1,8 +1,9 @@
 ---
-title: Career advice
+title: Career advice for freshers
 date: '2020-07-12'
-spoiler: Lessons from my younger self
-cta: 'career'
+spoiler: Career advice for freshers
+cta: 'Advice'
+tags: ["advice", "mentorship"]
 ---
 
 Many a times I come across Twitter posts which ask -

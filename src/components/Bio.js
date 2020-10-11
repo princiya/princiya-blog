@@ -29,6 +29,15 @@ class Bio extends React.Component {
             Personal blog by <a href="http://princiya.com">Princiya Sequeira</a>
             .
           </p>
+          <p>
+            I blog about my journey into a technical leadership role and how I
+            manage the balance between leading technical teams, mentoring
+            juniors, hiring and interview best practices, scaling
+            infrastructures and securing them.
+          </p>
+          <a href="/tags" rel="noopener noreferrer">
+            See all blog categories
+          </a>
           <Footer marginTop={false} />
         </div>
       </div>

@@ -1,11 +1,10 @@
 ---
-title: Helping guide for every new tech lead
+title: Are you a new tech lead?
 date: '2020-08-23'
-spoiler: Are you a new tech lead? Are you trying to find tech lead resources?
-cta: 'leadership'
+spoiler: Are you trying to find tech lead resources and don't know where to start? In this post I talk about what have I found so far
+cta: 'Leadership'
+tags: ["leadership"]
 ---
-
-Quest for tech lead resources
 
 Last week I asked on twitter for communities or groups that female leaders in tech were a part of.
 
@@ -48,5 +47,11 @@ I have joined the below slack groups, and I am reading lots of articles by scout
 https://twitter.com/Jupiterrrr/status/1295116583661166594
 
 https://twitter.com/kenza_iraki/status/1295059930593075206
+
+I also found this interesting newsletter from [Patrick Kua](https://levelup.patkua.com/).
+
+This github repository on [leading and managing](https://github.com/LappleApple/awesome-leading-and-managing) is in my browser bookmarks.
+
+You can follow my blog where I try to document what I learn in this space.
 
 

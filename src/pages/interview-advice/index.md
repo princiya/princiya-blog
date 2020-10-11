@@ -3,7 +3,12 @@ title: Interview advice
 date: '2020-06-24'
 spoiler: General interview tips
 cta: 'interview'
+tags: ["draft"]
 ---
+
+## DRAFT POST
+
+This post is not complete! You are reading a draft version
 
 - **Tell me about yourself** —> Mention what you want them to hear or know about you; your learnings, accomplishments etc. 
   - Keep a list of accomplishments ready

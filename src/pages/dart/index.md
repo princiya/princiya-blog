@@ -1,8 +1,9 @@
 ---
-title: Dart
+title: Flutter
 date: '2020-07-04'
-spoiler: So I tried Dart today for the first time
-cta: 'dart'
+spoiler: So I tried Flutter today for the first time
+cta: 'Flutter'
+tags: ["technical"]
 ---
 
 Today I tried [Flutter](https://flutter.dev) for the first time. Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.

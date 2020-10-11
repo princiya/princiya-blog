@@ -1,13 +1,13 @@
-import { Link, graphql } from 'gatsby';
-import { formatPostDate, formatReadingTime } from '../utils/helpers';
+import { graphql, Link } from 'gatsby';
+import React from 'react';
+import { get, kebabCase } from 'lodash';
 
 import Bio from '../components/Bio';
 import Footer from '../components/Footer';
 import Layout from '../components/Layout';
 import Panel from '../components/Panel';
-import React from 'react';
 import SEO from '../components/SEO';
-import get from 'lodash/get';
+import BlogItems from '../components/BlogItems';
 import { rhythm } from '../utils/typography';
 
 import './blog.css';
@@ -39,44 +39,27 @@ class BlogIndexTemplate extends React.Component {
               .
             </Panel>
           )}
-          <div className="blog-items">
-            {posts.map(({ node }) => {
-              const title = get(node, 'frontmatter.title') || node.fields.slug;
-              return (
-                <article key={node.fields.slug} className="blog-item">
-                  <div className="blog-item__content">
-                    <header style={{ zIndex: 1 }}>
-                      <h3
-                        style={{
-                          fontFamily: 'Montserrat, sans-serif',
-                          fontSize: rhythm(1),
-                          marginBottom: rhythm(1 / 4),
-                        }}
-                      >
-                        <Link
-                          style={{ boxShadow: 'none' }}
-                          to={node.fields.slug}
-                          rel="bookmark"
-                        >
-                          {title}
-                        </Link>
-                      </h3>
-                      <small>
-                        {formatPostDate(node.frontmatter.date, langKey)}
-                        {` • ${formatReadingTime(node.timeToRead)}`}
-                      </small>
-                    </header>
-                    <p
-                      dangerouslySetInnerHTML={{
-                        __html: node.frontmatter.spoiler,
-                      }}
-                      style={{ zIndex: 1 }}
-                    />
-                  </div>
-                </article>
-              );
+          <div>
+            <span>Featured categories: &nbsp;</span>
+            {this.props.data.allMarkdownRemark.group.map(tag => {
+              const featuredTags = ['leadership', 'technical', 'mentorship'];
+
+              if (featuredTags.includes(tag.fieldValue)) {
+                return (
+                  <Link
+                    key={tag.fieldValue}
+                    to={`/tags/${kebabCase(tag.fieldValue)}/`}
+                    className="tagLabel"
+                  >
+                    {tag.fieldValue} ({tag.totalCount})
+                  </Link>
+                );
+              }
+
+              return null;
             })}
           </div>
+          <BlogItems posts={posts} langKey={this.props.pageContext.langKey} />
         </main>
         <Footer />
       </Layout>
@@ -98,6 +81,10 @@ export const pageQuery = graphql`
       filter: { fields: { langKey: { eq: $langKey } } }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
+      group(field: frontmatter___tags) {
+        fieldValue
+        totalCount
+      }
       edges {
         node {
           fields {
@@ -108,6 +95,7 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
+            tags
             spoiler
           }
         }

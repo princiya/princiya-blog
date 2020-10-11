@@ -3,9 +3,8 @@ title: Hello World
 date: '2020-03-09'
 spoiler: Setting up a Gatsby Blog
 cta: 'gatsby'
+tags: ["gatsby"]
 ---
-
-# Hello World
 
 I recently subsribed to [Monica Lent's](https://bloggingfordevs.com/) newsletter to get better with blogging, writing content and mainly learning and getting better with SEO.
 
@@ -17,7 +16,7 @@ I really like Gatsby, given my React experience, and I am finally happy with a s
 
 So here I am, with a new digital garden of my own.
 
-The blog theme is based from [Dan Abramov's](https://github.com/gaearon/overreacted.io) personal [blog](https://overreacted.io/) with small tweaks. The CSS is inspired from [modernCSS.dev](https://moderncss.dev/).
+The blog theme is based from [Dan Abramov's](https://github.com/gaearon/overreacted.io) personal [blog](https://overreacted.io/) with tweaks to have tags. The CSS is inspired from [modernCSS.dev](https://moderncss.dev/).
 
 ## The `this` bug
 

@@ -3,7 +3,7 @@
   justify-items: center;
   padding-left: 0;
   grid-gap: 2em;
-  grid-template-columns: repeat(auto-fit, minmax(30ch, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(30ch, 30ch));
   list-style: none;
 }
 
@@ -60,4 +60,15 @@
   background-color: var(--bg);
   content: '';
   position: absolute;
+}
+
+.tagLabel {
+  display: inline-block;
+  border-radius: 8px;
+  padding: 5px 15px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  background-color: var(--tag-background);
+  color: var(--tag-text);
+  font-size: 0.8rem;
 }

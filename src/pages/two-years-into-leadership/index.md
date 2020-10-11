@@ -2,7 +2,8 @@
 title: Two year work anniversary
 date: '2020-07-02'
 spoiler: It's official, I now have 2 years work experience as a leader
-cta: 'leadership'
+cta: 'Work anniversary'
+tags: ["leadership"]
 ---
 
 July 01, 2020 is my two year work anniversary with [Curalie GmbH](https://curalie.de). It's been great two years until now, I have enjoyed working here every single day (there have been very few blue days) and I look forward to the upcoming challenges.

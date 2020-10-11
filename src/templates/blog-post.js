@@ -8,6 +8,7 @@ import Layout from '../components/Layout';
 import SEO from '../components/SEO';
 import Signup from '../components/Signup';
 import Panel from '../components/Panel';
+import TagLabels from '../components/TagLabels';
 import { formatPostDate, formatReadingTime } from '../utils/helpers';
 import { rhythm, scale } from '../utils/typography';
 import {
@@ -173,6 +174,7 @@ class BlogPostTemplate extends React.Component {
                   lang={lang}
                 />
               )}
+              <TagLabels tags={post.frontmatter.tags || []} />
             </header>
             <div dangerouslySetInnerHTML={{ __html: html }} />
             <footer>
@@ -267,6 +269,7 @@ export const pageQuery = graphql`
       timeToRead
       frontmatter {
         title
+        tags
         date(formatString: "MMMM DD, YYYY")
         spoiler
         cta

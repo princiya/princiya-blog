@@ -2,7 +2,8 @@
 title: How to ace your Outreachy application
 date: '2020-08-29'
 spoiler: Lessons from a past Outreachy alumna
-cta: 'opensource'
+cta: 'Outreachy'
+tags: ["opensource", "advice"]
 ---
 
 ## What is Outreachy
