@@ -35,7 +35,7 @@ class Bio extends React.Component {
             juniors, hiring and interview best practices, scaling
             infrastructures and securing them.
           </p>
-          <a href="/tags" rel="noopener noreferrer">
+          <a href="http://princiya.com/blog/tags" rel="noopener noreferrer">
             See all blog categories
           </a>
           <Footer marginTop={false} />
