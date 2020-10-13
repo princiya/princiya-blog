@@ -50,7 +50,7 @@ In this post I will talk about 4 effective patterns to bridge the communication 
 
 - Keep others informed on what you are doing. Use public channels on your team's messaging app and avoid 1:1 conversations when discussing important things, so that others too can follow along.
 
-**Example #1**: A best way to update others is by documenting tasks. This also helps in sharing knowledge and enabling more than one person, other than yourself, to do what you can do. This helps a lot if you are a small team or a startup. I wrote a recent [post](../page-data/fix-openssl-python-aws) on how it took me 1.5 days to solve a particular task. This problem could have been solved if the knowledge was shared from the beginning on how to perform the same task which was normally done by another person.
+**Example #1**: A best way to update others is by documenting tasks. This also helps in sharing knowledge and enabling more than one person, other than yourself, to do what you can do. This helps a lot if you are a small team or a startup. I wrote a recent [post](../fix-openssl-python-aws) on how it took me 1.5 days to solve a particular task. This problem could have been solved if the knowledge was shared from the beginning on how to perform the same task which was normally done by another person.
 
 **Example #2**: If you solved an issue differently or encountered problems while addressing an issue, write a comment on the ticket or code so that others don't run into the same problem. As developers we like stackoverflow because someone would have already encountered a problem that we run into.
 
