@@ -133,7 +133,7 @@ module.exports = {
                 }
               }
             `,
-            output: '/blog/rss.xml',
+            output: '/rss.xml',
             title: "P's Blog RSS Feed",
           },
         ],

@@ -25,7 +25,11 @@ const Footer = ({ marginTop = true }) => (
       github
     </a>{' '}
     &bull;{' '}
-    <a href="/blog/rss.xml" target="_blank" rel="noopener noreferrer">
+    <a
+      href="http://princiya.com/blog/rss.xml"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
       rss
     </a>
   </footer>
