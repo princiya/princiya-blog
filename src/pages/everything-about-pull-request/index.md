@@ -1,6 +1,6 @@
 ---
 title: It's time to find out which pull request label fits you
-date: '2020-10-05'
+date: '2020-10-16'
 spoiler: Everything you should know about a pull request
 cta: 'Pull request'
 tags: ["mentorship", "technical"]
