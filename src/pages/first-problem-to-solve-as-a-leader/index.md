@@ -56,7 +56,7 @@ In this post I will talk about 4 effective patterns to bridge the communication 
 
 **Example #3**: Document your processes. If you realise you are repeating something twice then see if you can document to avoid repeating again. This will save effort for yourself and also helps others to learn something faster without you having to explain.  
 
-## Pattern #3 - Appreciate each other
+## Pattern #3 - Appreciating each other
 
 We are all humans and can always crave appreciation in one form or the other. An exhausting workload can encourage you to complain about the bad things, and we often overlook some of the good things that our colleagues do. If you do not support a work culture of respect and appreciation, then it's quite easy to lose motivation in your daily work.
 
@@ -72,7 +72,7 @@ Below are a few more examples to appreciate each other:
 
 We started an `#appreciation` slack channel at work to give kudos to each other.
 
-## Pattern #4 - Build trust
+## Pattern #4 - Building trust
 
 By employing the above 3 patterns, you are creating a foundation for trust across your team.
 
