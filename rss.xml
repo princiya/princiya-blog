@@ -1,4 +1,465 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[P's Blog RSS Feed]]></title><description><![CDATA[Personal blog by Princiya Sequeira]]></description><link>http://princiya.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 16 Oct 2020 11:01:44 GMT</lastBuildDate><item><title><![CDATA[It's time to find out which pull request label fits you]]></title><description><![CDATA[Everything you should know about a pull request]]></description><link>http://princiya.com/blog/everything-about-pull-request/</link><guid isPermaLink="false">http://princiya.com/blog/everything-about-pull-request/</guid><pubDate>Fri, 16 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;17 types of people you will see in a pull request.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[P's Blog RSS Feed]]></title><description><![CDATA[Personal blog by Princiya Sequeira]]></description><link>http://princiya.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 19 Oct 2020 12:41:15 GMT</lastBuildDate><item><title><![CDATA[7 tips to get your opensource contributions right]]></title><description><![CDATA[The good and the bad about opensource contributions]]></description><link>http://princiya.com/blog/7-tips-for-opensource-contributions/</link><guid isPermaLink="false">http://princiya.com/blog/7-tips-for-opensource-contributions/</guid><pubDate>Fri, 16 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;After learning &lt;code class=&quot;language-text&quot;&gt;git&lt;/code&gt; for the first time in 2015, I was expecting to contribute more to opensource.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;http://princiya.com/blog/blog/static/ce1227d24bbab54cdede347dd51c9277/70d1f/expectation.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAEbklEQVQ4y41UC0ybVRS+LbR0faxQGXRtsROVOnCEx4abCSCPSALIsopxEROZCNnLETM1GTDnnAmJxswNWNgENRMZ2yRLkDgJmZNOGKOlD9q/9L22o7RQSMqK2agZ13tv18pcFr3JyT33nO9+97z+H4D/WGq1MqrPzXlKFxfnzrpc9vfWYsZG/6DhfVShCBsu9vVEnVM6FXA5LcBiNoBr14aAzWYiYK1WdcRqNcFAYAEuLPig3WVjIfNTSGTYX15RQXDg5tgIgBAS3ed105FOHNi2cj8Yg3W32/ECigoqFNeh3W6GGo2yYzUUypbvO7hnZ+PhN5aDwa3yXbtiH0ktQoTXgf17GWt9SuV40syMc8jrvbOK9nZsW4VQduOjA2bbB+9a7weDRYQDBQQ6O9sR2QNChlItXgrMX7275NcuBxcVFrO+JScnmx8hpihdds+PP2yLBlGV+7m/KGM2cj6+LYMOKIOGkKGaiRx201+IFBopLbTbpuHMHQc06NVbsH/B46Tj/VUAaN11NUVpaWnlUonk91Sx+E+RSNSPXFzCOn4z3Bmfz82xWqiJWY8T+udnoHfWCdEDLp1OKcX+1k+aYsqOt5I6HSrJr3laKh0WJCaeAUJJQmJSclvB1pwh2PtlOJuamt2k+Jcv9Qp8Xlfjgt/ThvYWz4xDDP7n+rCsqLC/sjApcmZIJBIcMvNfuBeZTOabNBqtjMFglHM4nOp4Pr/w5axMnkgk5nA5HB5r3TruRkEC+yGeBAbi0EIXuMLkZG5JSRG/6rVKfn19HZvL5T6Lyeh0+nYEy0OSiQRHjevOQtfYWBhMJluYEM9N4nHjACJ6LHw2mx2LgI/MlYWi9rjt9u98bvfb14eHs/Y1NOCoYgUCQSyLxSJ4JKRxgMVk4mJuQvIMg8kQRUiW/P4oodlg0AXm5iCl1UKLwRCyGo2qwStXOE+qqWBj0gZ5yiZpLeCyZU0Ph/xk9zdRgM1o/MVltS47zOblu34/JrYfbWoiuKsDA7hsRMDB2ndIzoeOtDSdO3WmI0KQqhom4CmVipyr5XIWiihBp1JlOi2Ww2a9fjcZ7lCIdqm3F9wLBEDv+fPhy/dKc0vVpekr5z593SfQj30vpEYqsH2DYYTUxKjVPnFc8CeLyGOqKiv/Mc6/ktEF6ytg9+nGUJri5wcS23gDtotNozEXxm8QzEB/Pw2urJAHEEEXSr/HSlFb1pL39/WFleDzgFVQeGLspfxTUCirnV4fR0YECOJT6BGwXq0m+vTUVJ7dZIIGjQbqJydDqPuDaK/s7OgIj0txXnP4L5NxUQryB7/m556A63m8ZmxKFKZGR2dqcpIMrU6p3Omy2cLdpijo93ig1+WCvw0NyaKhZhWfJF9IasVP74sLvoLpspRv8Tn5uSL6jtwUgqmvq4vAYyZGR7e7bbb9ntu3J0LBIHSYTL9Gf4G8HV2g7Ytaks5nx/bKmz9+q/3y6ZJjF46CeGzra5VGH07fvPmxpmgnJqo1t27lkObpdPS/ASvM+18ol73PAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Pull request expectation&quot;
+        title=&quot;&quot;
+        src=&quot;http://princiya.com/blog/blog/static/ce1227d24bbab54cdede347dd51c9277/799d3/expectation.png&quot;
+        srcset=&quot;/blog/static/ce1227d24bbab54cdede347dd51c9277/00d96/expectation.png 148w,
+/blog/static/ce1227d24bbab54cdede347dd51c9277/0b23c/expectation.png 295w,
+/blog/static/ce1227d24bbab54cdede347dd51c9277/799d3/expectation.png 590w,
+/blog/static/ce1227d24bbab54cdede347dd51c9277/70d1f/expectation.png 640w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;But the reality turned out to be different.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;http://princiya.com/blog/blog/static/60969b24baff09aa330bdda6643ad25b/70d1f/reality.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAEl0lEQVQ4y4VUCUybVRx/Pb7S9istdLZAFTMsuLFBxw4SIgiIGygSlBUNmWwh6JRAcGQs8WBo8JqaJTPjyBbUISEbOiRMIRyTYxyFdb3pRe92QGEcY4woY8me7/ugFXHRl/y/93//4/c/3v97APzPstnMfn5mZvLg3Jz34tSU++3/dPqpucnP67QK4HZZgGVCD3p7u4FMNkQh5MPDNz50OCxweXkROp1WiBYLifkYAHEbrhQWkwnAqOwGQMr1DLweKuJJAEK2unqfRvAej2On2+2AfX3XodlsgGaTvp6QZ7x57Oun0jJEBB+ZkUX5R5Y+IGIVFb2DbdbJ5aNCVGb35KTrkU6rrCVkleKQiIGTRdD2UWk+cXYW5VFrPqsC4MKFGgT2gASz201pS3dnO5fvzWnuL88P2m2m00lJiTwfsMmo29t6rfUAwd8z6iTw1yvwwc+XzhHnhnwpRlZq0KtJMP24SuRx2x56p93QMjEOHXYz2vVwZLg/lmyHUU2W33WqOBA50vZF74ySSqLh/nCRjcILfs7XRzA2OugrGddqbsnNJh1cXPDC2ZnbUKOWuxoavgsn9J9UVtCJvfP4kaNxu6I1wpDQOyz+ti6+6MlSUVjY2tMRETn+Hh0+/BoZ/VR5Gd9qMZyYn5uqRhdUgQJs3zoRYhbGwbncnOCgoNSEsCdwQobxgvIL09N+WyjOi/LZYaGhoRy0M7b40wQCQTCFQsnAMCwLx/HsZ6N3CX1KFovFDOIGcgn+q+18VnggziYVAWghB45QKOC8kJrCk0pzuJmZL3EjxWKcRqNxECUhs1REiUQQRFREbCaTycYYDDYXx1EyFDagY4zHDjqKTEfGdDabTS8pKiKNbtvtBV63+weH2Vww2NsbV15WRmRD5/P5dEZAAF3A49KDcDZt/WooFB6NShUjNopKpYp8g42IGHRQV11NUd28qZtyOqFBrYYGjWZtQq9XtLe14Y/NKJCBCVEaKRgz4GUQIogZ3vhzNi+jRtOtlsv/uCWTrSzOzECNXG4/XlhIjty1lhaibSSBk29IyXF463RVXs3Z85/6AC61tnCtBsMrTosl3P84eDxMVHKcx2YrR7o8spLVVUrb1avgz6UlcLmxcd3w0fMSsSJD4q6vOjIVbBj7Bkxcj5xXaQ7qVCqoHBu7a9JqZSjDOvnIiGRr5sQva9bpaK9LpX8Lp1N2l8Fj6fD7s6Vwx2D7CrAPxC9odCfmvF5o1GqhYnQUoguByPFdwt6i1zegLJtQkNjN4C3Nzeib+5Dsw4HkM40xibVQGJVvQMdnZu+sbLMajKVuq/V9VF6b3WSy9HR0hCF+j9VohHqUPQqwhuTtOqUy62Jt7fqD8mL8BxuvzC90kNzzMUdSAVkMasHW0vq6u8kbRSCvahUK+HtnJ+zv6YEIDKKRgsP9/Tv8xvGZ35Loe3ObymLTK2H2od1VxPnLM+cCvC4HffPTRgz22NBQwrhKVTzU1yefdrmItnT5n0BOQj1QXtlDOrTWJsd01O3Plv0oOfTFUUDe/uXPRWBkYACgUsF7JSX/GifUz9xxpXIfyRsM1L8AvF0q/D6Prn0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Pull request reality&quot;
+        title=&quot;&quot;
+        src=&quot;http://princiya.com/blog/blog/static/60969b24baff09aa330bdda6643ad25b/799d3/reality.png&quot;
+        srcset=&quot;/blog/static/60969b24baff09aa330bdda6643ad25b/00d96/reality.png 148w,
+/blog/static/60969b24baff09aa330bdda6643ad25b/0b23c/reality.png 295w,
+/blog/static/60969b24baff09aa330bdda6643ad25b/799d3/reality.png 590w,
+/blog/static/60969b24baff09aa330bdda6643ad25b/70d1f/reality.png 640w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;In this post, I will talk about the expectation and reality of opensource contributions from the perspective of the contributor, maintainer, and 7 tips on how to get them right.&lt;/p&gt;
+&lt;h2 id=&quot;the-first-time-opensource-contributor-experience&quot;&gt;&lt;a href=&quot;#the-first-time-opensource-contributor-experience&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The first-time opensource contributor experience&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;My &lt;a href=&quot;https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+author%3Aprinciya+is%3Aclosed&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;first pull request&lt;/a&gt; was to the Firefox devtools debugger project in February 2017.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;First time pull request contributions can be very intimidating, and so was the case with me. Hoping to land my first-time contribution, I started observing 2016’s Hacktoberbest. But I was lost with the plenty of opensource projects to choose from. In 2015, I had a &lt;a href=&quot;../ace-your-outreachy-application/#not-every-attempt-is-successful&quot;&gt;first failed attempt&lt;/a&gt;, but I was very determined in 2016. The entire October went with selecting projects until I settled down with the dev tools debugger project. It took another 3 months of observation into the project before I was confident of claiming the first issue. After the first pull request, I started to feel comfortable.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;http://princiya.com/blog/blog/static/aae1dffd51ca1b2e99e429372bedf61a/70d1f/first-time.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAEfElEQVQ4y5VUC1BUVRg+995ln7AwmLDa7k48JFEKxzV2eCQDaKyVPE3Y0cIcSGpVnLBBHQFDSZ1x1DHIrLHCIWUMtkLBYhocXiqZ8Uhy38vusg+WZXkLpHY697IXI22m/pn/3v9xzne+85//HACQKJVKUFdXB2QyGWhoaABNTU2gplYJRGIxRuYxDItAuoK0o6RS7O49NaBF32+WDQ6PlNqcrg1UoLO9DfxTIIRgdGKKmH0EcWSToF5IGWTucp0SGE0WnLT7zZbl/RYrHJ28D7VGk/30mY85FEDTlXrieOVZFuV81YyD/ygZ52tYV9tv7e5TaxXXW9rCqeCPm+eY/nyjY9uh/Dxlz09NO3/5XRVuGrCW6PrNF9H2NtEAap2BrdEbG1Vafcfw1PSWTKlkw77MlCo63/29EgBbazNVJ2jVC6E8aQrmp8mnIVxptgxAVBeo1hs66Alr163HzDbHd7MP/4Qml9s5eLmqBFZVQHjfHUTmW46X4aAzlE9c2i4PxNkcYU6Y2B69NKARANZio8MZpdbpE40Wqw85GLHFaGCzwZiIahtWlrst61CqDEaGBCkW1OLt+Jj9S0WiLsz/mX0+gYL3lgUFtf0a6u3zxGE9mKBAa5Jj4sLEwku+/v5qwOKcCxQIWp4VCs/+a7HfTE5afUGeGgk2lmGyaCmTQRAMLpfLYLDZjGB/PyI3OWmRWCSWCwICXvZMYSdErfm0LS87lvK4LFYwjuMygiASGQzG6ygUiZQI8PPlejGZXDab/Vg5HC7KsejFeTyuH2rUaNQa8ahnIqggAhIgQCmB46uQLWExmSuX+PF5DBKMxULrLVRvRJfH4/mgnzeTyfRGc17ECCIe4MQyEuxpjY2tlkjIZiY4HA4DgSxQDto+mYuJjfMqP1LO9jT/Yyk9cfKptSRvzP+R89UXMdB+89b8xAH74Ha3a7h+yD16BvWfgIy13eycX/1K4w/o7poIlVZL3aY+reE5u83+gcPuKOhVawXzLO5VX6AGDI2M3UA+HBufnOns1Ujo/OFjp4FWr32CkXN0ogJ6xDYyfoAKfpiZMXd3U99d8s0XtZI/9OblerPlwLDb2WwbdCqytr5D0Dvo6e3yNdlcaXd0D0NI/+pdXYTKMLB31OlKb+287UsXivp9m/Na/d5TRcdI22axHoRwnFrZbHNm0Yx0ZlcyGZsZ6YZjj+BbhZLQrYf35LxP5zUOp4d63IpX3fIEmFt9AvI1tynqXRp9rMnm/LpbNRBPnzwAn2B2q3H/6Lh9xKrSfO6ODzN+VH0E8k09FeSY9KId6Fs7xzB6feVJkfQo5IvW7CH9a9fvhE9ODs9OTzkeDI3N5P29dtnVkGrsXa8UlbyUeAz6vJBykPTD1xbjID2qYP4UF8ed+i0kIqGVagFlzyK7pe+oy6GZ1Vsc18i+S0nL8EJMPe/lHBF+zLkacUSaYX61/M/KwRaPvWOnQlFSuK6g+0s+h84Lg1dJmEwG+SZmoNv0PBl7I3szXlxcSgHnKXZvKty1sbijkkU9Jn8BuKvyiSkpTgIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Expectation vs Reality of first-time contribution&quot;
+        title=&quot;&quot;
+        src=&quot;http://princiya.com/blog/blog/static/aae1dffd51ca1b2e99e429372bedf61a/799d3/first-time.png&quot;
+        srcset=&quot;/blog/static/aae1dffd51ca1b2e99e429372bedf61a/00d96/first-time.png 148w,
+/blog/static/aae1dffd51ca1b2e99e429372bedf61a/0b23c/first-time.png 295w,
+/blog/static/aae1dffd51ca1b2e99e429372bedf61a/799d3/first-time.png 590w,
+/blog/static/aae1dffd51ca1b2e99e429372bedf61a/70d1f/first-time.png 640w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The devtools debugger community did a great job of onboarding new contributors&lt;/li&gt;
+&lt;li&gt;They had a good documentation&lt;/li&gt;
+&lt;li&gt;The maintainers were available on slack for further questions and discussions&lt;/li&gt;
+&lt;li&gt;Most important, they had a good code of conduct&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;tip-1&quot;&gt;&lt;a href=&quot;#tip-1&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #1&lt;/h3&gt;
+&lt;p&gt;When you are building an opensource community, appreciate your first-time contributors, encourage them, and offer pair-programming support.&lt;/p&gt;
+&lt;h3 id=&quot;tip-2&quot;&gt;&lt;a href=&quot;#tip-2&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #2&lt;/h3&gt;
+&lt;p&gt;Don’t treat any question as stupid. Remember, this can be the very first time that the contributor is even attempting to ask a question in a public forum.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Since the maintainers were very supportive, I ended up having a great first-time contribution experience.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;tip-3&quot;&gt;&lt;a href=&quot;#tip-3&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #3&lt;/h3&gt;
+&lt;p&gt;Avoid nit-picking for first-time contributors.&lt;/p&gt;
+&lt;p&gt;Not everyone is a native English language speaker. Hence you can ignore the grammatical errors while naming variables or functions. Also, avoid using abbreviations as much as possible.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;http://princiya.com/blog/blog/static/57b3b2cba871dd684d264973f0c44555/70d1f/nit-pick.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADyUlEQVQ4y5VUe0xTVxg/9xaYxEh5FFyFEkzcHGC2uUTmMyQq20SIbMZNMUazP0YYJovu4dtEIWhNMDHxGWd8bDExM0Y3BY2yohIUFG4pLbS9vb33cvuCAraAIC+P5xx7Sx/+45ec3O98r/Pd7/c7B4AQ8fQNBHUIIVVesZ0ObLMpAOaDCPENj1D4+3JsPNxx7vwFIDpcRO+0sOksL+aF+qnF+R/GrlmfjPVnbfpvLJx9vyA5M/De+8JPRR4Eqo9qwcj4ZAzWOVHSDo68gm5v/4W6urup2Hbwh+8uny3btgvrJrP1Buoeik63nxO6P8E2lhfCi6aoVIC1vzVabPaPUSCHDoAWu7AU2/xXzjATf53RYb1Jp9Pw3Y5KxmB8gIp/im0dneboLrE4e7zEwTvdSUZTZ4Gr7pYS73cUrr6/adHCYUVi8qLIHP/L0ehCu/fsBf3+IaKzLc0yEOCXgvzqOZmZzExlop6elbBTrVYLCxfkbsS++LzltGQykQZ6B3zRRdGwAfoVov9edYQEpikTNMrExOWfZaiT8D4mKWVZ+derjsHK7QSg2o1rSdx/tXfBe0u6Wh3zXgkIjLe/jMCxCd0Kt+QAHyUrqdS0NDpVpSKdpM+eTReUVVCwm6eetjKUlbWRnKHRMdD4pDm6qMxFWZ7r2+l2PUNhksu2Hp4PQ9Th6ZUvQkSHnJ0EWjl+juBwrX9uMM4K9f/j89IX+1wk5t6D+nhDpzlT9tkDsw8Tyd2jIIj1v9g6NgVhW7tBHIQwZ8NP5RtqTp4tCaFWDiK/Z2BwGCJm1OOLRIqK0nSx5tY2TE6i36vXxYuS8/LQxBQUDYaKA9+XNJ3Yu+Na8GCHS2NmuUdoMYguh2W7TRCju0QBwfnch1DVV7jkztS6bHj0zx99aWzrqMbU8Me7AL11uzaCg4w+OFSWsy/mJFchGfiK+ddNZVuhdv+vk3OvXWLUxoY12N5qs+WgWWfL+bwUMcMuqy1YEF36Bjwfh8fTor3RkqX64rg5K+8cVGVs6Y8DIB/FxaKYYWOXBT0QrioZYabDOF3wUGUVQK8LFaDOAqtd0KEk0cwKcwHYHBe38nZN0pfV8IMZcQdIssGoN1ms8NXka+jq7VsWQJqOmkUo37y+oVgAEkhQ1trrNZp8Lfw8V3MV70+d/3smugi/oWLHEJgqbEMgTfPz/4ePwejElAwMzQUoAOEdErRvV+nPu3eWnLp5+qtD/2oVKZGN8JIzGindo8bgHPE1LCouJt0pFDG56FOEVjFa87Ct6NtSSpAcChSv6OgyhxV9AyTJ9UgNdmETAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Avoid nit-picking for first-time contribution&quot;
+        title=&quot;&quot;
+        src=&quot;http://princiya.com/blog/blog/static/57b3b2cba871dd684d264973f0c44555/799d3/nit-pick.png&quot;
+        srcset=&quot;/blog/static/57b3b2cba871dd684d264973f0c44555/00d96/nit-pick.png 148w,
+/blog/static/57b3b2cba871dd684d264973f0c44555/0b23c/nit-pick.png 295w,
+/blog/static/57b3b2cba871dd684d264973f0c44555/799d3/nit-pick.png 590w,
+/blog/static/57b3b2cba871dd684d264973f0c44555/70d1f/nit-pick.png 640w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;As for the horrible experience considered, my first nightmare was when someone commented on an issue I tried to help with a negative comment.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;http://princiya.com/blog/blog/static/66c4df0b98c827b680f65ca8247e29ce/d1c96/github.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 98.96507115135836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABYlAAAWJQFJUiTwAAAC4ElEQVQ4y3VU247jNhTz/39KgWLbn1igQIE+bC/bom12Z+IZ3y3Jtiz5xpLKZDsTZBwwSmSZOoekleGda9+3hG27IMSIyc8YiWGaYQbP0XPlwQ+/jyM9l61c7D1vjhPhYblQi+0UYMYLemKYuW45EmZinNe0/tj3RPSN8POnn/F4fkTZjShbi7xsMPiIuB2I646FCHGDS5tNcETdDYlQFR/HDeE0DgghoqoqokTTGdQ9yRuLojZ4eO4TahNQ28gxouFoJ1Y8hyTHG8IQOLkfeCpq5EWL07lJBOfS4LEwKNoBvQvwcccU9tSu1m8sbFlW6Pm3hPPMtjbu7NGaEcaNqRXrpiT+/qLRvSuZ9YpQyK4Ttm/R9z3i4pH/veLxL8pQ52gpwUg3I6vRxhrVqhtGbupIOL/ZJBunCQ/nJ1hjYYxLCzsa1HYOp3/+QNUaNKy8aHri8rtsHXUe0NmJGOGYCJmmGGXODfjl02+omw5FWaFpe2YtYOJGlCpV11mfjGqMIsU8zhGeRi5MgjAve9JY6ciWZUkBnqml8ijIdcd21nVFUTX48pAjf65Q1i31DVB2de9WX81lElLi6ubVKV2Rb4b+T175G1E17TeIWBsVL6OMnOOaMprdOnclnen0x48/4cMPH/Dd9z/i19//vFTBvCTQoBSbuCSjNCd5sqvdr6FrYFVPeYF/vzyw3QIdTZO7gh6+ZPF/iFQGv1uh4rTzt1qsaZRMk2G9dTCEpZnKqyTRJgv1m24Jr2TSM9CshZVIo4pkxg4pGj3HjvHSK6p5QRv6sCTyO4RsQXHJT/CmSW9LlF4kF3TvFmtq+XJq3a1w44MzDw21UNPJ8utXFKcT2udn2K7H0Bv4YcBMnTV6Hn1KgmS6T0g9IluWNtJN4Z/o4EjtXF3D8mSqz2ciT/9d26Y37H1CaqhgD+loC8zkkrIq4SOh1i/iXHAN9V3C19heFinkGq/QWzWO4xtYazkf8B/RHw9i4ksXxwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Negative reaction received on Github&quot;
+        title=&quot;&quot;
+        src=&quot;http://princiya.com/blog/blog/static/66c4df0b98c827b680f65ca8247e29ce/799d3/github.png&quot;
+        srcset=&quot;/blog/static/66c4df0b98c827b680f65ca8247e29ce/00d96/github.png 148w,
+/blog/static/66c4df0b98c827b680f65ca8247e29ce/0b23c/github.png 295w,
+/blog/static/66c4df0b98c827b680f65ca8247e29ce/799d3/github.png 590w,
+/blog/static/66c4df0b98c827b680f65ca8247e29ce/2a3d6/github.png 885w,
+/blog/static/66c4df0b98c827b680f65ca8247e29ce/ae92f/github.png 1180w,
+/blog/static/66c4df0b98c827b680f65ca8247e29ce/d1c96/github.png 1546w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Why do you still use this ugly hack instead of just installing xxxxxxxxxx?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;What was bad about this comment, you may ask. Firstly, you cannot expect everyone to be at the same level as you in the opensource world. Obviously, I didn’t know why the person referred it to be a hack and using &lt;code class=&quot;language-text&quot;&gt;ugly&lt;/code&gt; alongside made it even worse.&lt;/p&gt;
+&lt;h3 id=&quot;tip-4&quot;&gt;&lt;a href=&quot;#tip-4&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #4&lt;/h3&gt;
+&lt;p&gt;Treat every contributor with respect.&lt;/p&gt;
+&lt;h3 id=&quot;tip-5&quot;&gt;&lt;a href=&quot;#tip-5&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #5&lt;/h3&gt;
+&lt;p&gt;When you offer to give suggestions, write an explanation why you think they are relevant. From the above example, it would have been very helpful for me to know what was hacky about my solution.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Another example I can recall of a bad experience is when I added &lt;code class=&quot;language-text&quot;&gt;+1&lt;/code&gt; to an already reported issue. I was a bit disappointed as to why the maintainer had downvoted my comment. I brought this point with another maintainer, and he explained why this was not a good practice.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;http://princiya.com/blog/blog/static/1c93440237c568558debc49eea58fc1f/3ae72/bad-issue-example.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 57.66738660907127%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAABX0lEQVQoz42S2U7DMBBF8/8fyCMPtA3NVtvxvl7GDqSoKiWRjmRPxnfWji8LhvmGeWEQUjVWqbEqjZgyQkxwPv5NiLDOQyqDQOdOco6PS4/TuUf/OexcryOGcSZxhUTCkYRjesYW1PvQ7l0uBZyLhhACjHEwwSCtpDOjqAHtI79C4IFmw49LQVeVjZLQSsE5h5iphMlBvusWsQpWe855f/SKzlPdK2XCbgzrKmGcBT8LjG8LjLGw1jWq4H9iTXAeR8xMtGEwITekhKNMfUj3xlMl1j2B7Np6iFWhJtfV6NdhwkwZVofWfKIOIudyp7yA/qecWxU0FGCREUwRmoz3HteOHeTXUOpaSENpu7gjjYcJGS6WQ1jyre9CIsFhHHAaBC4jQz9xTFxjFgarTdC0MUdQLoPTwQQSLCXR2ghobdrqJFqVvdxykO+yay+7FGn3gt47UXuYjgziYSjbYAq+AFT0q5IhRmMyAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Example of a badly reported issue&quot;
+        title=&quot;&quot;
+        src=&quot;http://princiya.com/blog/blog/static/1c93440237c568558debc49eea58fc1f/799d3/bad-issue-example.png&quot;
+        srcset=&quot;/blog/static/1c93440237c568558debc49eea58fc1f/00d96/bad-issue-example.png 148w,
+/blog/static/1c93440237c568558debc49eea58fc1f/0b23c/bad-issue-example.png 295w,
+/blog/static/1c93440237c568558debc49eea58fc1f/799d3/bad-issue-example.png 590w,
+/blog/static/1c93440237c568558debc49eea58fc1f/2a3d6/bad-issue-example.png 885w,
+/blog/static/1c93440237c568558debc49eea58fc1f/ae92f/bad-issue-example.png 1180w,
+/blog/static/1c93440237c568558debc49eea58fc1f/3ae72/bad-issue-example.png 1852w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3 id=&quot;tip-6&quot;&gt;&lt;a href=&quot;#tip-6&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #6&lt;/h3&gt;
+&lt;p&gt;It helps a maintainer when you explain in detail. In the example above, what would have helped the maintainer was me being able to replicate the issue, write detailed steps, and help them debug the issue rather than write &lt;code class=&quot;language-text&quot;&gt;+1&lt;/code&gt; as a comment.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The following incident happened to a repository I have been maintaining. There is no point venting your frustration in an issue comment unless you are offering to be helpful.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;http://princiya.com/blog/blog/static/430272608116af395130a6a55f68da8a/fac82/lightbeam-bad-example.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 93.36550060313631%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAACXBIWXMAABYlAAAWJQFJUiTwAAACgklEQVQ4y61UWbLiMAzk/jejuMIDwhLIQvbESxY06s4Cbz7ma1KlkqzYcqtlaRekpVRNJ1GcSl7WlKJqNrvpjFjfi3X9R9MeuHaqy7rlmbo1snu/32KM1YCxJEkqsUr6etHOslzKspKq1sBNS103DaWsKkpRltyXF6X0fS870c8YI2H4kOczklgDx3EizyhiUAQsimLWehgaB8dpknEcfwnAMaBzfjlU8tZc7Twv6MPtafqSV5bRj7V1jocnDTox8MT1V0DHQxSkm6afNYK9ss1HCvRSpl43tEEFYuBjQK8p4EehPGR5Tj1LQY0g4LnrOvnXtyHstJK3e8i04iShRFE8a+UUdqOI2ralXgvUbChr/vsg9DOHTjVskA7xftZIB7xBY4+1drbhVxtFhe6HYamyLm73u9xud7lcrnJVfVfE8AWXiwTBRcLHk/8heAWtpr8hVLRA6ddnA7gIhM3nYA5wOge0IT/HE33H05kC3xE+PUMA15ucdT8KtXGIA0ADvlBpIMIGUICCIK1PilYaBbGmCkHBsGZAax0D4SGj2iC9XshHWjNnv7lbuV7XkK9OsXIPQ3bKQ5FBh48HuwfVxxsER2unVGvb8UnNPghQspdxM1qN7aaH+Uw0JaD4ruaKEBl9VxcahcWrIEIZ8WAn+R/f7nA4KF+t9qn2sMLGuGpVoCv1O73V9wPHFORvuzNOx1fD/cZ62e33e+Wj1o5IOBMzHQqJ9i58RlMbtPHH6T1PF9XrGhqDAbS0y8x0a8rgAbxlmCjayxAQD3+7PIeOyLvliRj6KjNI497S+XmmTjrClgFrtCAxexmVm4vh2W7Y+CmC/SqQk86NKpMYP7IowzDKH5lXtElyE17XAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Example of a bad comment for Lightbeam&quot;
+        title=&quot;&quot;
+        src=&quot;http://princiya.com/blog/blog/static/430272608116af395130a6a55f68da8a/799d3/lightbeam-bad-example.png&quot;
+        srcset=&quot;/blog/static/430272608116af395130a6a55f68da8a/00d96/lightbeam-bad-example.png 148w,
+/blog/static/430272608116af395130a6a55f68da8a/0b23c/lightbeam-bad-example.png 295w,
+/blog/static/430272608116af395130a6a55f68da8a/799d3/lightbeam-bad-example.png 590w,
+/blog/static/430272608116af395130a6a55f68da8a/2a3d6/lightbeam-bad-example.png 885w,
+/blog/static/430272608116af395130a6a55f68da8a/ae92f/lightbeam-bad-example.png 1180w,
+/blog/static/430272608116af395130a6a55f68da8a/fac82/lightbeam-bad-example.png 1658w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3 id=&quot;tip-7&quot;&gt;&lt;a href=&quot;#tip-7&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #7&lt;/h3&gt;
+&lt;p&gt;Treat maintainers with respect too. In general, keep all the comments respectful!&lt;/p&gt;
+&lt;p&gt;Remember that most of the opensource contributions happen for free of cost. Be respectful of the contributors’ and maintainers’ blood, energy, and sweat.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Can you recall your first-time experience of creating a pull request or opening an issue to an opensource project? What is the one thing you can recall about what went well or a horrible experience you have had?&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;http://princiya.com/blog/7-tips-for-opensource-contributions/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Tone of talking]]></title><description><![CDATA[4 effective patterns to bridge the communication gap]]></description><link>http://princiya.com/blog/tone-of-talking/</link><guid isPermaLink="false">http://princiya.com/blog/tone-of-talking/</guid><pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As of October 1, 2020, I officially have the title &lt;code class=&quot;language-text&quot;&gt;Head of Engineering (Frontend)&lt;/code&gt; where I lead and manage the Web and Mobile application development teams. I am incredibly proud of this accomplishment of mine 👩‍💻 👩‍💻 👩‍💻. You can read my journey into technical leadership &lt;a href=&quot;http://princiya.com/blog/blog/tags/leadership&quot;&gt;here&lt;/a&gt;. While I have been in the lead role for 2 years now, one thing you would often hear me saying is:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Coding is easy, but managing people is hard 🤦‍♀️.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If I were to write a book on leadership, then Chapter 1 would be:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The problem is people and the solution is people!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;what-makes-dealing-with-people-hard&quot;&gt;&lt;a href=&quot;#what-makes-dealing-with-people-hard&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What makes dealing with people hard&lt;/h2&gt;
+&lt;p&gt;Because people are used to being people, a.k.a &lt;code class=&quot;language-text&quot;&gt;humans&lt;/code&gt;. We all have our own problems, fears, hopes and dreams. This is true, no matter who you are or what you do.&lt;/p&gt;
+&lt;h2 id=&quot;what-can-we-do-about-it&quot;&gt;&lt;a href=&quot;#what-can-we-do-about-it&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What can we do about it&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Show empathy to people! 💯 Encourage open communication amongst people to bridge the communication gap.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When I was a kid, I was always used to saying, &lt;code class=&quot;language-text&quot;&gt;I want to be a good human being&lt;/code&gt; whenever I was asked what I aspired to be as I grew up. I can only recall that I had read about this somewhere, and ever since, I have been very fond of this sentence.&lt;/p&gt;
+&lt;p&gt;Now, as a leader, I always try to be empathetic and supportive, and cannot stress enough on the power of open communication between teams and peers.&lt;/p&gt;
+&lt;p&gt;In this post I will talk about 4 effective patterns to bridge the communication gap within your team.&lt;/p&gt;
+&lt;h2 id=&quot;pattern-1---tone-of-talking&quot;&gt;&lt;a href=&quot;#pattern-1---tone-of-talking&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pattern #1 - Tone of talking&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Do not just ask a question, but also the reason behind the question when it is a slack message.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: &lt;code class=&quot;language-text&quot;&gt;“Did you do this, I am asking because I am looking into the same thing now and have some follow up questions”&lt;/code&gt; This helps in reducing the receiver’s stress rather than &lt;code class=&quot;language-text&quot;&gt;&amp;quot;Hey, did you do this?&amp;quot;&lt;/code&gt; and the receiver having to wonder what the message could be about until they get to talk to the sender.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use emojis or a smile to have a pleasant feel for any conversation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;: &lt;code class=&quot;language-text&quot;&gt;&amp;quot;I don&amp;#39;t understand this&amp;quot;&lt;/code&gt; vs &lt;code class=&quot;language-text&quot;&gt;&amp;quot;🙈 I don&amp;#39;t understand this&amp;quot;&lt;/code&gt;. The former can appear to be yelling at a person while the latter is a milder version of saying that you do not understand something.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;: You might be in between meetings, or constantly receiving messages on Slack. Due to the workload, you might be too tired to realize that you are sending a negative tone. During this context, an emoji or a smile can greatly reduce the level of stress.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When talking to the team, use generic terms to include everyone. Remember to address the teamwork and not take credit onto yourself or highlight your individual approach to someone.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;: &lt;code class=&quot;language-text&quot;&gt;&amp;quot;We prefer to use a code linter&amp;quot;&lt;/code&gt; instead of &lt;code class=&quot;language-text&quot;&gt;&amp;quot;I like to use a code linter&amp;quot;&lt;/code&gt;. Or &lt;code class=&quot;language-text&quot;&gt;&amp;quot;In this component we have used this logic and it works great&amp;quot;&lt;/code&gt; instead of &lt;code class=&quot;language-text&quot;&gt;&amp;quot;I was the one to write this logic and it works great&amp;quot;&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;: When reviewing pull requests, use &lt;code class=&quot;language-text&quot;&gt;&amp;quot;Let’s do it like this&amp;quot;&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;&amp;quot;Can you please do this instead?&amp;quot;&lt;/code&gt; rather than &lt;code class=&quot;language-text&quot;&gt;Do it like this&lt;/code&gt;. Use of emojis also is highly encouraged to maintain a calm tone while reviewing difficult or lengthy pull requests.&lt;/p&gt;
+&lt;p&gt;My favorite: &lt;code class=&quot;language-text&quot;&gt;What do you think&lt;/code&gt;?&lt;/p&gt;
+&lt;p&gt;Kris example —&gt; english word mis-communication&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;http://princiya.com/blog/tone-of-talking/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[5 habits to build trust]]></title><description><![CDATA[4 effective patterns to bridge the communication gap]]></description><link>http://princiya.com/blog/5-habits-to-build-trust/</link><guid isPermaLink="false">http://princiya.com/blog/5-habits-to-build-trust/</guid><pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;pattern-4---build-trust&quot;&gt;&lt;a href=&quot;#pattern-4---build-trust&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pattern #4 - Build trust&lt;/h2&gt;
+&lt;p&gt;By employing the above 3 patterns, you are creating a foundation for trust across your team.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;: When you employ a nice tone for talking, you are being empathetic and valuing others feelings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;: When you learn to share knowledge, you are investing time in others.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example #3&lt;/strong&gt;: When you appreciate others, you are letting others know that you care about them being part of your team.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It is trust that transforms group of people into a team.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.pinterest.com/pin/58617232619985088/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;strong&gt;The first thing I had to learn when I started leading a team was to delegate tasks to others, and to do this, I had to trust them to be able to finish the task.&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trust and communication go hand in hand. When a child is born it immediately trusts its parents without even knowing what trust is and starts to learn and grow up. Trust is important in any kind of relationship, and so is trust important in everything that we do.&lt;/p&gt;
+&lt;p&gt;The first thing I had to learn when I started leading a team was to delegate tasks to others, and to do this I had to trust them to be able to finish the task.&lt;/p&gt;
+&lt;p&gt;It is very important that your team trusts you and vice-versa. Below are some of the habits which I have observed to be effective in letting your team trust you both as a leader and as an individual:&lt;/p&gt;
+&lt;p&gt;Below are some of the habits which I have observed to be effective in letting your team trust you both as a leader and as an individual:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stick to your commitments, however small they are. Even if it were talking to someone and saying &lt;code class=&quot;language-text&quot;&gt;&amp;quot;hey, we should get lunch together sometime! 🍲&amp;quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Don’t procrastinate things; there can never be a better time than doing it now&lt;/li&gt;
+&lt;li&gt;When someone asks you a question, post updates or follow up with conversations in a timely manner before the other person asks you the second time&lt;/li&gt;
+&lt;li&gt;Be a listener, not just wanting everyone to listen to you. Let others lead, enable them to.&lt;/li&gt;
+&lt;li&gt;Apologise your mistakes in public to your team. It is ok to do mistakes but it is your behaviour to improve that matters to the team. Beginners especially will then learn that everyone can make mistakes and there is room for error. Remember, we are all humans!&lt;/li&gt;
+&lt;li&gt;Be consistent in all of these things mentioned above.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Consistency is the key to earn or lose trust!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you consistently do all the things mentioned above, then it is easy to build and earn trust; the opposite is true when you consistently fail on all of the above.&lt;/p&gt;
+&lt;p&gt;What communication patterns have you employed in your team or what was the first problem that mattered to you to solve as a leader? Do let me know. Thank you for reading. 🐱‍👓&lt;/p&gt;
+&lt;p&gt;Trust pilot, aircraft
+Trust employer is going to pay&lt;/p&gt;
+&lt;p&gt;let others speak. Rudiger example.&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;http://princiya.com/blog/5-habits-to-build-trust/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[The first problem to solve as a leader]]></title><description><![CDATA[4 effective patterns to bridge the communication gap]]></description><link>http://princiya.com/blog/first-problem-to-solve-as-a-leader/</link><guid isPermaLink="false">http://princiya.com/blog/first-problem-to-solve-as-a-leader/</guid><pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;The problem is people and the solution is people!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As of October 1, 2020, I officially have the title &lt;code class=&quot;language-text&quot;&gt;Head of Engineering (Frontend)&lt;/code&gt; where I lead and manage the Web and Mobile application development teams. I am incredibly proud of this accomplishment of mine 👩‍💻 👩‍💻 👩‍💻. You can read my journey into technical leadership &lt;a href=&quot;http://princiya.com/blog/blog/tags/leadership&quot;&gt;here&lt;/a&gt;. While I have been in the lead role for 2 years now, one thing you would often hear me saying is:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Coding is easy, but managing people is hard 🤦‍♀️.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;what-makes-dealing-with-people-hard&quot;&gt;&lt;a href=&quot;#what-makes-dealing-with-people-hard&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What makes dealing with people hard&lt;/h2&gt;
+&lt;p&gt;Because people are used to being people, a.k.a &lt;code class=&quot;language-text&quot;&gt;humans&lt;/code&gt;. We all have our own problems, fears, hopes and dreams. This is true, no matter who you are or what you do.&lt;/p&gt;
+&lt;h2 id=&quot;what-can-we-do-about-it&quot;&gt;&lt;a href=&quot;#what-can-we-do-about-it&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What can we do about it&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Show empathy to people! 💯 Encourage open communication amongst people to bridge the communication gap.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When I was a kid, I was always used to saying, &lt;code class=&quot;language-text&quot;&gt;I want to be a good human being&lt;/code&gt; whenever I was asked what I aspired to be as I grew up. I can only recall that I had read about this somewhere, and ever since, I have been very fond of this sentence.&lt;/p&gt;
+&lt;p&gt;Now, as a leader, I always try to be empathetic and supportive, and cannot stress enough on the power of open communication between teams and peers.&lt;/p&gt;
+&lt;p&gt;In this post I will talk about 4 effective patterns to bridge the communication gap within your team.&lt;/p&gt;
+&lt;h2 id=&quot;pattern-1---tone-of-talking&quot;&gt;&lt;a href=&quot;#pattern-1---tone-of-talking&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pattern #1 - Tone of talking&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Do not just ask a question, but also the reason behind the question when it is a slack message.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: &lt;code class=&quot;language-text&quot;&gt;“Did you do this, I am asking because I am looking into the same thing now and have some follow up questions”&lt;/code&gt; This helps in reducing the receiver’s stress rather than &lt;code class=&quot;language-text&quot;&gt;&amp;quot;Hey, did you do this?&amp;quot;&lt;/code&gt; and the receiver having to wonder what the message could be about until they get to talk to the sender.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use emojis or a smile to have a pleasant feel for any conversation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;: &lt;code class=&quot;language-text&quot;&gt;&amp;quot;I don&amp;#39;t understand this&amp;quot;&lt;/code&gt; vs &lt;code class=&quot;language-text&quot;&gt;&amp;quot;🙈 I don&amp;#39;t understand this&amp;quot;&lt;/code&gt;. The former can appear to be yelling at a person while the latter is a milder version of saying that you do not understand something.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;: You might be in between meetings, or constantly receiving messages on Slack. Due to the workload, you might be too tired to realize that you are sending a negative tone. During this context, an emoji or a smile can greatly reduce the level of stress.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When talking to the team, use generic terms to include everyone. Remember to address the teamwork and not take credit onto yourself or highlight your individual approach to someone.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;: &lt;code class=&quot;language-text&quot;&gt;&amp;quot;We prefer to use a code linter&amp;quot;&lt;/code&gt; instead of &lt;code class=&quot;language-text&quot;&gt;&amp;quot;I like to use a code linter&amp;quot;&lt;/code&gt;. Or &lt;code class=&quot;language-text&quot;&gt;&amp;quot;In this component we have used this logic and it works great&amp;quot;&lt;/code&gt; instead of &lt;code class=&quot;language-text&quot;&gt;&amp;quot;I was the one to write this logic and it works great&amp;quot;&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;: When reviewing pull requests, use &lt;code class=&quot;language-text&quot;&gt;&amp;quot;Let’s do it like this&amp;quot;&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;&amp;quot;Can you please do this instead?&amp;quot;&lt;/code&gt; rather than &lt;code class=&quot;language-text&quot;&gt;Do it like this&lt;/code&gt;. Use of emojis also is highly encouraged to maintain a calm tone while reviewing difficult or lengthy pull requests.&lt;/p&gt;
+&lt;h2 id=&quot;pattern-2---sharing-knowledge&quot;&gt;&lt;a href=&quot;#pattern-2---sharing-knowledge&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pattern #2 - Sharing knowledge&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Keep others informed on what you are doing. Use public channels on your team’s messaging app and avoid 1:1 conversations when discussing important things, so that others too can follow along.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;: A best way to update others is by documenting tasks. This also helps in sharing knowledge and enabling more than one person, other than yourself, to do what you can do. This helps a lot if you are a small team or a startup. I wrote a recent &lt;a href=&quot;../fix-openssl-python-aws&quot;&gt;post&lt;/a&gt; on how it took me 1.5 days to solve a particular task. This problem could have been solved if the knowledge was shared from the beginning on how to perform the same task which was normally done by another person.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;: If you solved an issue differently or encountered problems while addressing an issue, write a comment on the ticket or code so that others don’t run into the same problem. As developers we like stackoverflow because someone would have already encountered a problem that we run into.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example #3&lt;/strong&gt;: Document your processes. If you realise you are repeating something twice then see if you can document to avoid repeating again. This will save effort for yourself and also helps others to learn something faster without you having to explain.  &lt;/p&gt;
+&lt;h2 id=&quot;pattern-3---appreciating-each-other&quot;&gt;&lt;a href=&quot;#pattern-3---appreciating-each-other&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pattern #3 - Appreciating each other&lt;/h2&gt;
+&lt;p&gt;We are all humans and can always crave appreciation in one form or the other. An exhausting workload can encourage you to complain about the bad things, and we often overlook some of the good things that our colleagues do. If you do not support a work culture of respect and appreciation, then it’s quite easy to lose motivation in your daily work.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: Let’s say your colleague creates a code pull request. It’s easy to point out at the obvious mistakes, but how often do you try to appreciate the same person in their code pull requests? Appreciating work might seem trivial, but developers will never fail to point out a missing semi-colon or a wrong code syntax.&lt;/p&gt;
+&lt;p&gt;Below are a few more examples to appreciate each other:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Like/comment when someone posts something useful in team channels or be prompt to reply&lt;/li&gt;
+&lt;li&gt;Appreciate in the team channels what you found interesting, or a good practice your colleague did&lt;/li&gt;
+&lt;li&gt;Write encouraging messages, especially for juniors or new hires. They will value your team culture&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Appreciate and respect junior/seniors,  men/women alike. We are all humans and deserve equal appreciation and respect! 🌟&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We started an &lt;code class=&quot;language-text&quot;&gt;#appreciation&lt;/code&gt; slack channel at work to give kudos to each other.&lt;/p&gt;
+&lt;h2 id=&quot;pattern-4---building-trust&quot;&gt;&lt;a href=&quot;#pattern-4---building-trust&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pattern #4 - Building trust&lt;/h2&gt;
+&lt;p&gt;By employing the above 3 patterns, you are creating a foundation for trust across your team.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When you employ a nice &lt;strong&gt;tone of talking&lt;/strong&gt;, you are being empathetic and valuing others feelings&lt;/li&gt;
+&lt;li&gt;When you learn to &lt;strong&gt;share knowledge&lt;/strong&gt;, you are investing time in others&lt;/li&gt;
+&lt;li&gt;When you &lt;strong&gt;appreciate others&lt;/strong&gt;, you are letting others know that you care about them being part of your team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Trust plays a key role in bridging the communication gap. When the team trusts you and vice-versa, it is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Easier to talk to each other&lt;/li&gt;
+&lt;li&gt;Close the communication gap, if any&lt;/li&gt;
+&lt;li&gt;Work gets done faster&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It is trust that transforms group of people into a team.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.pinterest.com/pin/58617232619985088/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;:The first thing I had to learn when I started leading a team was to delegate tasks to others. To achieve this, I had to trust them to be able to finish the task. The task delegation helped me concentrate on other important tasks, and I was able to bring greater value to the team.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;: Trusting in each other means you, as a team, speak and understand the same terminology and be able to bridge the communication gap better.&lt;/p&gt;
+&lt;p&gt;What communication patterns have you employed in your team or what was the first problem that mattered to you to solve as a leader? Do let me know. Thank you for reading. 🐱‍👓&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;http://princiya.com/blog/first-problem-to-solve-as-a-leader/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Review pull requests]]></title><description><![CDATA[Compassionate yet effective code reviews]]></description><link>http://princiya.com/blog/review-pull-request/</link><guid isPermaLink="false">http://princiya.com/blog/review-pull-request/</guid><pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;While reviewing pull requests, use team specific options like &lt;code class=&quot;language-text&quot;&gt;&amp;quot;Let’s do it like this&amp;quot;&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;&amp;quot;Can you please do this instead?&amp;quot;&lt;/code&gt; rather than &lt;code class=&quot;language-text&quot;&gt;Do it like this&lt;/code&gt;. Use of emojis also is highly encouraged to maintain a calm tone while reviewing difficult or lengthy pull requests.&lt;/p&gt;
+&lt;p&gt;Write an explanation why you think your changes are necessary. You need to tell the person why your solution / suggestion should be considered and not have them wondering why their problem solving approach cannot be considered. It’s very important to keep this in mind when you have juniors in your team.&lt;/p&gt;
+&lt;p&gt;Encourage everyone to participate in PR reviews. Some need more time to participate and review, especially if they are beginners; if needed include this effort in ticket estimations or story points.&lt;/p&gt;
+&lt;h2 id=&quot;pattern-2---sharing-knowledge&quot;&gt;&lt;a href=&quot;#pattern-2---sharing-knowledge&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pattern #2 - Sharing knowledge&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Keep others informed on what you are doing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;: A best way to update others is by documenting tasks. This also helps in sharing knowledge and enabling more than one person, other than yourself, to do what you can do. This helps a lot if you are a small team or a startup. I wrote a recent &lt;a href=&quot;../page-data/fix-openssl-python-aws&quot;&gt;post&lt;/a&gt; on how it took me 1.5 days to solve a particular task. This problem could have been solved if the knowledge was shared from the beginning on how to perform the same task which was normally done by another person.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;: If you solved an issue differently or encountered problems while addressing an issue, write a comment on the ticket or code so that others don’t run into the same problem. As developers we like stackoverflow because someone would have already encountered a problem that we run into.&lt;/p&gt;
+&lt;h2 id=&quot;appreciate-each-other&quot;&gt;&lt;a href=&quot;#appreciate-each-other&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Appreciate each other&lt;/h2&gt;
+&lt;p&gt;We are all humans and can always crave for appreciation in one form or the other.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Appreciate your peers for their efforts in pull requests, leave encouraging messages especially for juniors or new hires. They will value your team culture.&lt;/li&gt;
+&lt;li&gt;Like / comment when someone posts something useful in team channels or be prompt to reply&lt;/li&gt;
+&lt;li&gt;Appreciate in the team channels what you found interesting, or a good practice someone did&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Appreciate junior / seniors,  men / women alike. We are all humans and like appreciation! 🌟&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I found this nice article on &lt;a href=&quot;https://www.applauz.me/resources/the-power-of-gratitude-at-work&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Power of gratitude at work&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;examples&quot;&gt;&lt;a href=&quot;#examples&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Examples&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Whom did you appreciated  today / this week? Go and do it now, if you haven’t already&lt;/li&gt;
+&lt;li&gt;Who appreciated you today / this week? Show them gratitude&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;why-did-i-want-to-get-into-opensource&quot;&gt;&lt;a href=&quot;#why-did-i-want-to-get-into-opensource&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Why did I want to get into opensource?&lt;/h2&gt;
+&lt;p&gt;As I recall today, it does seem funny, but I wanted to get into opensource to have more green boxes in my &lt;a href=&quot;https://github.com/princiya&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Github profile&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./github-graph.gif&quot; alt=&quot;Github contribution graph&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;background&quot;&gt;&lt;a href=&quot;#background&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Background&lt;/h3&gt;
+&lt;p&gt;I was first introduced to &lt;code class=&quot;language-text&quot;&gt;git&lt;/code&gt; in &lt;strong&gt;2015&lt;/strong&gt; via a workshop conducted by &lt;a href=&quot;https://www.meetup.com/Women-Who-Code-Bangalore/events/219909262/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;WomenWhoCode Bangalore&lt;/a&gt;. Back then, we were using [TortoiseSVN],(&lt;a href=&quot;https://tortoisesvn.net/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://tortoisesvn.net/&lt;/a&gt;) a subversion client for version control at my workplace. One &lt;a href=&quot;https://www.perforce.com/blog/vcs/git-vs-svn-what-difference&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;key difference&lt;/a&gt; between &lt;code class=&quot;language-text&quot;&gt;git&lt;/code&gt; vs &lt;code class=&quot;language-text&quot;&gt;svn&lt;/code&gt; is that while &lt;code class=&quot;language-text&quot;&gt;git&lt;/code&gt; is distributed, &lt;code class=&quot;language-text&quot;&gt;svn&lt;/code&gt; is centralized, thereby making the pull request experience &lt;a href=&quot;https://stackoverflow.com/questions/11899782/can-svn-pull-request-same-as-git&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;different&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;the-present&quot;&gt;&lt;a href=&quot;#the-present&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The present&lt;/h3&gt;
+&lt;p&gt;Fast forward into the present year 2020, I maintain &lt;a href=&quot;https://github.com/princiya/lightbeam-we&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Lighbteam&lt;/a&gt;. Lightbeam is a web browser extension which visualises the first and third party trackers as you browse the internet.&lt;/p&gt;
+&lt;p&gt;17 types of people you will see in a pull request.&lt;/p&gt;
 &lt;h2 id=&quot;1-for-the-perfect-world&quot;&gt;&lt;a href=&quot;#1-for-the-perfect-world&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;#1 For the perfect world&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;That person to open a pull request with neat explanation, screenshot attached, if applicable and have a great test coverage&lt;/li&gt;
@@ -72,172 +533,7 @@
 &lt;li&gt;That person who doesn’t care about reviewing other’s pull requests at all.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Which person are you?&lt;/p&gt;
-                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;http://princiya.com/blog/everything-about-pull-request/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
-              </content:encoded></item><item><title><![CDATA[Tone of talking]]></title><description><![CDATA[4 effective patterns to bridge the communication gap]]></description><link>http://princiya.com/blog/tone-of-talking/</link><guid isPermaLink="false">http://princiya.com/blog/tone-of-talking/</guid><pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As of October 1, 2020, I officially have the title &lt;code class=&quot;language-text&quot;&gt;Head of Engineering (Frontend)&lt;/code&gt; where I lead and manage the Web and Mobile application development teams. I am incredibly proud of this accomplishment of mine 👩‍💻 👩‍💻 👩‍💻. You can read my journey into technical leadership &lt;a href=&quot;http://princiya.com/blog/blog/tags/leadership&quot;&gt;here&lt;/a&gt;. While I have been in the lead role for 2 years now, one thing you would often hear me saying is:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Coding is easy, but managing people is hard 🤦‍♀️.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;If I were to write a book on leadership, then Chapter 1 would be:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The problem is people and the solution is people!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;what-makes-dealing-with-people-hard&quot;&gt;&lt;a href=&quot;#what-makes-dealing-with-people-hard&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What makes dealing with people hard&lt;/h2&gt;
-&lt;p&gt;Because people are used to being people, a.k.a &lt;code class=&quot;language-text&quot;&gt;humans&lt;/code&gt;. We all have our own problems, fears, hopes and dreams. This is true, no matter who you are or what you do.&lt;/p&gt;
-&lt;h2 id=&quot;what-can-we-do-about-it&quot;&gt;&lt;a href=&quot;#what-can-we-do-about-it&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What can we do about it&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Show empathy to people! 💯 Encourage open communication amongst people to bridge the communication gap.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;When I was a kid, I was always used to saying, &lt;code class=&quot;language-text&quot;&gt;I want to be a good human being&lt;/code&gt; whenever I was asked what I aspired to be as I grew up. I can only recall that I had read about this somewhere, and ever since, I have been very fond of this sentence.&lt;/p&gt;
-&lt;p&gt;Now, as a leader, I always try to be empathetic and supportive, and cannot stress enough on the power of open communication between teams and peers.&lt;/p&gt;
-&lt;p&gt;In this post I will talk about 4 effective patterns to bridge the communication gap within your team.&lt;/p&gt;
-&lt;h2 id=&quot;pattern-1---tone-of-talking&quot;&gt;&lt;a href=&quot;#pattern-1---tone-of-talking&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pattern #1 - Tone of talking&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Do not just ask a question, but also the reason behind the question when it is a slack message.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: &lt;code class=&quot;language-text&quot;&gt;“Did you do this, I am asking because I am looking into the same thing now and have some follow up questions”&lt;/code&gt; This helps in reducing the receiver’s stress rather than &lt;code class=&quot;language-text&quot;&gt;&amp;quot;Hey, did you do this?&amp;quot;&lt;/code&gt; and the receiver having to wonder what the message could be about until they get to talk to the sender.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Use emojis or a smile to have a pleasant feel for any conversation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;: &lt;code class=&quot;language-text&quot;&gt;&amp;quot;I don&amp;#39;t understand this&amp;quot;&lt;/code&gt; vs &lt;code class=&quot;language-text&quot;&gt;&amp;quot;🙈 I don&amp;#39;t understand this&amp;quot;&lt;/code&gt;. The former can appear to be yelling at a person while the latter is a milder version of saying that you do not understand something.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;: You might be in between meetings, or constantly receiving messages on Slack. Due to the workload, you might be too tired to realize that you are sending a negative tone. During this context, an emoji or a smile can greatly reduce the level of stress.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;When talking to the team, use generic terms to include everyone. Remember to address the teamwork and not take credit onto yourself or highlight your individual approach to someone.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;: &lt;code class=&quot;language-text&quot;&gt;&amp;quot;We prefer to use a code linter&amp;quot;&lt;/code&gt; instead of &lt;code class=&quot;language-text&quot;&gt;&amp;quot;I like to use a code linter&amp;quot;&lt;/code&gt;. Or &lt;code class=&quot;language-text&quot;&gt;&amp;quot;In this component we have used this logic and it works great&amp;quot;&lt;/code&gt; instead of &lt;code class=&quot;language-text&quot;&gt;&amp;quot;I was the one to write this logic and it works great&amp;quot;&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;: When reviewing pull requests, use &lt;code class=&quot;language-text&quot;&gt;&amp;quot;Let’s do it like this&amp;quot;&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;&amp;quot;Can you please do this instead?&amp;quot;&lt;/code&gt; rather than &lt;code class=&quot;language-text&quot;&gt;Do it like this&lt;/code&gt;. Use of emojis also is highly encouraged to maintain a calm tone while reviewing difficult or lengthy pull requests.&lt;/p&gt;
-&lt;p&gt;My favorite: &lt;code class=&quot;language-text&quot;&gt;What do you think&lt;/code&gt;?&lt;/p&gt;
-&lt;p&gt;Kris example —&gt; english word mis-communication&lt;/p&gt;
-                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;http://princiya.com/blog/tone-of-talking/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
-              </content:encoded></item><item><title><![CDATA[Review pull requests]]></title><description><![CDATA[Compassionate yet effective code reviews]]></description><link>http://princiya.com/blog/review-pull-request/</link><guid isPermaLink="false">http://princiya.com/blog/review-pull-request/</guid><pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;While reviewing pull requests, use team specific options like &lt;code class=&quot;language-text&quot;&gt;&amp;quot;Let’s do it like this&amp;quot;&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;&amp;quot;Can you please do this instead?&amp;quot;&lt;/code&gt; rather than &lt;code class=&quot;language-text&quot;&gt;Do it like this&lt;/code&gt;. Use of emojis also is highly encouraged to maintain a calm tone while reviewing difficult or lengthy pull requests.&lt;/p&gt;
-&lt;p&gt;Write an explanation why you think your changes are necessary. You need to tell the person why your solution / suggestion should be considered and not have them wondering why their problem solving approach cannot be considered. It’s very important to keep this in mind when you have juniors in your team.&lt;/p&gt;
-&lt;p&gt;Encourage everyone to participate in PR reviews. Some need more time to participate and review, especially if they are beginners; if needed include this effort in ticket estimations or story points.&lt;/p&gt;
-&lt;h2 id=&quot;pattern-2---sharing-knowledge&quot;&gt;&lt;a href=&quot;#pattern-2---sharing-knowledge&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pattern #2 - Sharing knowledge&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Keep others informed on what you are doing.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;: A best way to update others is by documenting tasks. This also helps in sharing knowledge and enabling more than one person, other than yourself, to do what you can do. This helps a lot if you are a small team or a startup. I wrote a recent &lt;a href=&quot;../page-data/fix-openssl-python-aws&quot;&gt;post&lt;/a&gt; on how it took me 1.5 days to solve a particular task. This problem could have been solved if the knowledge was shared from the beginning on how to perform the same task which was normally done by another person.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;: If you solved an issue differently or encountered problems while addressing an issue, write a comment on the ticket or code so that others don’t run into the same problem. As developers we like stackoverflow because someone would have already encountered a problem that we run into.&lt;/p&gt;
-&lt;h2 id=&quot;appreciate-each-other&quot;&gt;&lt;a href=&quot;#appreciate-each-other&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Appreciate each other&lt;/h2&gt;
-&lt;p&gt;We are all humans and can always crave for appreciation in one form or the other.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Appreciate your peers for their efforts in pull requests, leave encouraging messages especially for juniors or new hires. They will value your team culture.&lt;/li&gt;
-&lt;li&gt;Like / comment when someone posts something useful in team channels or be prompt to reply&lt;/li&gt;
-&lt;li&gt;Appreciate in the team channels what you found interesting, or a good practice someone did&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Appreciate junior / seniors,  men / women alike. We are all humans and like appreciation! 🌟&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I found this nice article on &lt;a href=&quot;https://www.applauz.me/resources/the-power-of-gratitude-at-work&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Power of gratitude at work&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&quot;examples&quot;&gt;&lt;a href=&quot;#examples&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Examples&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Whom did you appreciated  today / this week? Go and do it now, if you haven’t already&lt;/li&gt;
-&lt;li&gt;Who appreciated you today / this week? Show them gratitude&lt;/li&gt;
-&lt;/ul&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;http://princiya.com/blog/review-pull-request/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
-              </content:encoded></item><item><title><![CDATA[5 habits to build trust]]></title><description><![CDATA[4 effective patterns to bridge the communication gap]]></description><link>http://princiya.com/blog/5-habits-to-build-trust/</link><guid isPermaLink="false">http://princiya.com/blog/5-habits-to-build-trust/</guid><pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;pattern-4---build-trust&quot;&gt;&lt;a href=&quot;#pattern-4---build-trust&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pattern #4 - Build trust&lt;/h2&gt;
-&lt;p&gt;By employing the above 3 patterns, you are creating a foundation for trust across your team.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;: When you employ a nice tone for talking, you are being empathetic and valuing others feelings.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;: When you learn to share knowledge, you are investing time in others.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example #3&lt;/strong&gt;: When you appreciate others, you are letting others know that you care about them being part of your team.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;It is trust that transforms group of people into a team.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.pinterest.com/pin/58617232619985088/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;strong&gt;The first thing I had to learn when I started leading a team was to delegate tasks to others, and to do this, I had to trust them to be able to finish the task.&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Trust and communication go hand in hand. When a child is born it immediately trusts its parents without even knowing what trust is and starts to learn and grow up. Trust is important in any kind of relationship, and so is trust important in everything that we do.&lt;/p&gt;
-&lt;p&gt;The first thing I had to learn when I started leading a team was to delegate tasks to others, and to do this I had to trust them to be able to finish the task.&lt;/p&gt;
-&lt;p&gt;It is very important that your team trusts you and vice-versa. Below are some of the habits which I have observed to be effective in letting your team trust you both as a leader and as an individual:&lt;/p&gt;
-&lt;p&gt;Below are some of the habits which I have observed to be effective in letting your team trust you both as a leader and as an individual:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Stick to your commitments, however small they are. Even if it were talking to someone and saying &lt;code class=&quot;language-text&quot;&gt;&amp;quot;hey, we should get lunch together sometime! 🍲&amp;quot;&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Don’t procrastinate things; there can never be a better time than doing it now&lt;/li&gt;
-&lt;li&gt;When someone asks you a question, post updates or follow up with conversations in a timely manner before the other person asks you the second time&lt;/li&gt;
-&lt;li&gt;Be a listener, not just wanting everyone to listen to you. Let others lead, enable them to.&lt;/li&gt;
-&lt;li&gt;Apologise your mistakes in public to your team. It is ok to do mistakes but it is your behaviour to improve that matters to the team. Beginners especially will then learn that everyone can make mistakes and there is room for error. Remember, we are all humans!&lt;/li&gt;
-&lt;li&gt;Be consistent in all of these things mentioned above.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Consistency is the key to earn or lose trust!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;If you consistently do all the things mentioned above, then it is easy to build and earn trust; the opposite is true when you consistently fail on all of the above.&lt;/p&gt;
-&lt;p&gt;What communication patterns have you employed in your team or what was the first problem that mattered to you to solve as a leader? Do let me know. Thank you for reading. 🐱‍👓&lt;/p&gt;
-&lt;p&gt;Trust pilot, aircraft
-Trust employer is going to pay&lt;/p&gt;
-&lt;p&gt;let others speak. Rudiger example.&lt;/p&gt;
-                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;http://princiya.com/blog/5-habits-to-build-trust/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
-              </content:encoded></item><item><title><![CDATA[The first problem to solve as a leader]]></title><description><![CDATA[4 effective patterns to bridge the communication gap]]></description><link>http://princiya.com/blog/first-problem-to-solve-as-a-leader/</link><guid isPermaLink="false">http://princiya.com/blog/first-problem-to-solve-as-a-leader/</guid><pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As of October 1, 2020, I officially have the title &lt;code class=&quot;language-text&quot;&gt;Head of Engineering (Frontend)&lt;/code&gt; where I lead and manage the Web and Mobile application development teams. I am incredibly proud of this accomplishment of mine 👩‍💻 👩‍💻 👩‍💻. You can read my journey into technical leadership &lt;a href=&quot;http://princiya.com/blog/blog/tags/leadership&quot;&gt;here&lt;/a&gt;. While I have been in the lead role for 2 years now, one thing you would often hear me saying is:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Coding is easy, but managing people is hard 🤦‍♀️.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;If I were to write a book on leadership, then Chapter 1 would be:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The problem is people and the solution is people!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;what-makes-dealing-with-people-hard&quot;&gt;&lt;a href=&quot;#what-makes-dealing-with-people-hard&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What makes dealing with people hard&lt;/h2&gt;
-&lt;p&gt;Because people are used to being people, a.k.a &lt;code class=&quot;language-text&quot;&gt;humans&lt;/code&gt;. We all have our own problems, fears, hopes and dreams. This is true, no matter who you are or what you do.&lt;/p&gt;
-&lt;h2 id=&quot;what-can-we-do-about-it&quot;&gt;&lt;a href=&quot;#what-can-we-do-about-it&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What can we do about it&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Show empathy to people! 💯 Encourage open communication amongst people to bridge the communication gap.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;When I was a kid, I was always used to saying, &lt;code class=&quot;language-text&quot;&gt;I want to be a good human being&lt;/code&gt; whenever I was asked what I aspired to be as I grew up. I can only recall that I had read about this somewhere, and ever since, I have been very fond of this sentence.&lt;/p&gt;
-&lt;p&gt;Now, as a leader, I always try to be empathetic and supportive, and cannot stress enough on the power of open communication between teams and peers.&lt;/p&gt;
-&lt;p&gt;In this post I will talk about 4 effective patterns to bridge the communication gap within your team.&lt;/p&gt;
-&lt;h2 id=&quot;pattern-1---tone-of-talking&quot;&gt;&lt;a href=&quot;#pattern-1---tone-of-talking&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pattern #1 - Tone of talking&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Do not just ask a question, but also the reason behind the question when it is a slack message.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: &lt;code class=&quot;language-text&quot;&gt;“Did you do this, I am asking because I am looking into the same thing now and have some follow up questions”&lt;/code&gt; This helps in reducing the receiver’s stress rather than &lt;code class=&quot;language-text&quot;&gt;&amp;quot;Hey, did you do this?&amp;quot;&lt;/code&gt; and the receiver having to wonder what the message could be about until they get to talk to the sender.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Use emojis or a smile to have a pleasant feel for any conversation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;: &lt;code class=&quot;language-text&quot;&gt;&amp;quot;I don&amp;#39;t understand this&amp;quot;&lt;/code&gt; vs &lt;code class=&quot;language-text&quot;&gt;&amp;quot;🙈 I don&amp;#39;t understand this&amp;quot;&lt;/code&gt;. The former can appear to be yelling at a person while the latter is a milder version of saying that you do not understand something.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;: You might be in between meetings, or constantly receiving messages on Slack. Due to the workload, you might be too tired to realize that you are sending a negative tone. During this context, an emoji or a smile can greatly reduce the level of stress.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;When talking to the team, use generic terms to include everyone. Remember to address the teamwork and not take credit onto yourself or highlight your individual approach to someone.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;: &lt;code class=&quot;language-text&quot;&gt;&amp;quot;We prefer to use a code linter&amp;quot;&lt;/code&gt; instead of &lt;code class=&quot;language-text&quot;&gt;&amp;quot;I like to use a code linter&amp;quot;&lt;/code&gt;. Or &lt;code class=&quot;language-text&quot;&gt;&amp;quot;In this component we have used this logic and it works great&amp;quot;&lt;/code&gt; instead of &lt;code class=&quot;language-text&quot;&gt;&amp;quot;I was the one to write this logic and it works great&amp;quot;&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;: When reviewing pull requests, use &lt;code class=&quot;language-text&quot;&gt;&amp;quot;Let’s do it like this&amp;quot;&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;&amp;quot;Can you please do this instead?&amp;quot;&lt;/code&gt; rather than &lt;code class=&quot;language-text&quot;&gt;Do it like this&lt;/code&gt;. Use of emojis also is highly encouraged to maintain a calm tone while reviewing difficult or lengthy pull requests.&lt;/p&gt;
-&lt;h2 id=&quot;pattern-2---sharing-knowledge&quot;&gt;&lt;a href=&quot;#pattern-2---sharing-knowledge&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pattern #2 - Sharing knowledge&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Keep others informed on what you are doing. Use public channels on your team’s messaging app and avoid 1:1 conversations when discussing important things, so that others too can follow along.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;: A best way to update others is by documenting tasks. This also helps in sharing knowledge and enabling more than one person, other than yourself, to do what you can do. This helps a lot if you are a small team or a startup. I wrote a recent &lt;a href=&quot;../fix-openssl-python-aws&quot;&gt;post&lt;/a&gt; on how it took me 1.5 days to solve a particular task. This problem could have been solved if the knowledge was shared from the beginning on how to perform the same task which was normally done by another person.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;: If you solved an issue differently or encountered problems while addressing an issue, write a comment on the ticket or code so that others don’t run into the same problem. As developers we like stackoverflow because someone would have already encountered a problem that we run into.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example #3&lt;/strong&gt;: Document your processes. If you realise you are repeating something twice then see if you can document to avoid repeating again. This will save effort for yourself and also helps others to learn something faster without you having to explain.  &lt;/p&gt;
-&lt;h2 id=&quot;pattern-3---appreciating-each-other&quot;&gt;&lt;a href=&quot;#pattern-3---appreciating-each-other&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pattern #3 - Appreciating each other&lt;/h2&gt;
-&lt;p&gt;We are all humans and can always crave appreciation in one form or the other. An exhausting workload can encourage you to complain about the bad things, and we often overlook some of the good things that our colleagues do. If you do not support a work culture of respect and appreciation, then it’s quite easy to lose motivation in your daily work.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: Let’s say your colleague creates a code pull request. It’s easy to point out at the obvious mistakes, but how often do you try to appreciate the same person in their code pull requests? Appreciating work might seem trivial, but developers will never fail to point out a missing semi-colon or a wrong code syntax.&lt;/p&gt;
-&lt;p&gt;Below are a few more examples to appreciate each other:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Like/comment when someone posts something useful in team channels or be prompt to reply&lt;/li&gt;
-&lt;li&gt;Appreciate in the team channels what you found interesting, or a good practice your colleague did&lt;/li&gt;
-&lt;li&gt;Write encouraging messages, especially for juniors or new hires. They will value your team culture&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Appreciate and respect junior/seniors,  men/women alike. We are all humans and deserve equal appreciation and respect! 🌟&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;We started an &lt;code class=&quot;language-text&quot;&gt;#appreciation&lt;/code&gt; slack channel at work to give kudos to each other.&lt;/p&gt;
-&lt;h2 id=&quot;pattern-4---building-trust&quot;&gt;&lt;a href=&quot;#pattern-4---building-trust&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pattern #4 - Building trust&lt;/h2&gt;
-&lt;p&gt;By employing the above 3 patterns, you are creating a foundation for trust across your team.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;When you employ a nice &lt;strong&gt;tone of talking&lt;/strong&gt;, you are being empathetic and valuing others feelings&lt;/li&gt;
-&lt;li&gt;When you learn to &lt;strong&gt;share knowledge&lt;/strong&gt;, you are investing time in others&lt;/li&gt;
-&lt;li&gt;When you &lt;strong&gt;appreciate others&lt;/strong&gt;, you are letting others know that you care about them being part of your team.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Trust plays a key role in bridging the communication gap. When the team trusts you and vice-versa, it is:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Easier to talk to each other&lt;/li&gt;
-&lt;li&gt;Close the communication gap, if any&lt;/li&gt;
-&lt;li&gt;Work gets done faster&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;It is trust that transforms group of people into a team.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.pinterest.com/pin/58617232619985088/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;:The first thing I had to learn when I started leading a team was to delegate tasks to others. To achieve this, I had to trust them to be able to finish the task. The task delegation helped me concentrate on other important tasks, and I was able to bring greater value to the team.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;: Trusting in each other means you, as a team, speak and understand the same terminology and be able to bridge the communication gap better.&lt;/p&gt;
-&lt;p&gt;What communication patterns have you employed in your team or what was the first problem that mattered to you to solve as a leader? Do let me know. Thank you for reading. 🐱‍👓&lt;/p&gt;
-                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;http://princiya.com/blog/first-problem-to-solve-as-a-leader/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item><item><title><![CDATA[Managing pythons on MacOS]]></title><description><![CDATA[Handling different python versions on MacOS]]></description><link>http://princiya.com/blog/fix-openssl-python-aws/</link><guid isPermaLink="false">http://princiya.com/blog/fix-openssl-python-aws/</guid><pubDate>Tue, 29 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post is more of a personal notes. Recently, I had to run a script on my machine which until then was only run by one person in our office. The problem started with us having different &lt;a href=&quot;https://www.openssl.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;openssl&lt;/a&gt; versions. I had &lt;code class=&quot;language-text&quot;&gt;LibreSSL&lt;/code&gt; vs the other person had &lt;code class=&quot;language-text&quot;&gt;OpenSSL&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;This started creating one problem after the other. For example the script passed in &lt;code class=&quot;language-text&quot;&gt;pbkdf2&lt;/code&gt; argument into the &lt;code class=&quot;language-text&quot;&gt;openssl&lt;/code&gt; cipher and this wasn’t supported in &lt;code class=&quot;language-text&quot;&gt;LibreSSL&lt;/code&gt;&lt;a href=&quot;https://stackoverflow.com/questions/61938795/openssl-pbkdf2-option-no-longer-supported&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I updated &lt;code class=&quot;language-text&quot;&gt;openssl&lt;/code&gt; to the correct version to support the above mentioned &lt;code class=&quot;language-text&quot;&gt;pbkdf2&lt;/code&gt; cipher; the next error was the following &lt;code class=&quot;language-text&quot;&gt;Error: No available formula with the name &amp;quot;python@2&amp;quot;&lt;/code&gt;&lt;/p&gt;
