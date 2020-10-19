@@ -6,13 +6,11 @@ cta: 'People management'
 tags: ["leadership"]
 ---
 
+> The problem is people and the solution is people!
+
 As of October 1, 2020, I officially have the title `Head of Engineering (Frontend)` where I lead and manage the Web and Mobile application development teams. I am incredibly proud of this accomplishment of mine 👩‍💻 👩‍💻 👩‍💻. You can read my journey into technical leadership [here](/tags/leadership). While I have been in the lead role for 2 years now, one thing you would often hear me saying is:
 
 > Coding is easy, but managing people is hard 🤦‍♀️.
-
-If I were to write a book on leadership, then Chapter 1 would be:
-
-> The problem is people and the solution is people!
 
 ## What makes dealing with people hard
 
