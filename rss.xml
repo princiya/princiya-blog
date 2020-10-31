@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[P's Blog RSS Feed]]></title><description><![CDATA[Personal blog by Princiya Sequeira]]></description><link>http://princiya.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 19 Oct 2020 12:41:15 GMT</lastBuildDate><item><title><![CDATA[7 tips to get your opensource contributions right]]></title><description><![CDATA[The good and the bad about opensource contributions]]></description><link>http://princiya.com/blog/7-tips-for-opensource-contributions/</link><guid isPermaLink="false">http://princiya.com/blog/7-tips-for-opensource-contributions/</guid><pubDate>Fri, 16 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;After learning &lt;code class=&quot;language-text&quot;&gt;git&lt;/code&gt; for the first time in 2015, I was expecting to contribute more to opensource.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[P's Blog RSS Feed]]></title><description><![CDATA[Personal blog by Princiya Sequeira]]></description><link>http://princiya.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 31 Oct 2020 18:02:31 GMT</lastBuildDate><item><title><![CDATA[Reality of opensource contributions]]></title><description><![CDATA[7 real-world examples of opensource contribution experiences of being both a contributor and a maintainer.]]></description><link>http://princiya.com/blog/reality-of-opensource-contributions/</link><guid isPermaLink="false">http://princiya.com/blog/reality-of-opensource-contributions/</guid><pubDate>Fri, 16 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;After learning &lt;code class=&quot;language-text&quot;&gt;git&lt;/code&gt; for the first time in 2015, I was expecting to contribute more to opensource.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -68,98 +68,31 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;In this post, I will talk about the expectation and reality of opensource contributions from the perspective of the contributor, maintainer, and 7 tips on how to get them right.&lt;/p&gt;
-&lt;h2 id=&quot;the-first-time-opensource-contributor-experience&quot;&gt;&lt;a href=&quot;#the-first-time-opensource-contributor-experience&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The first-time opensource contributor experience&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;My &lt;a href=&quot;https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+author%3Aprinciya+is%3Aclosed&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;first pull request&lt;/a&gt; was to the Firefox devtools debugger project in February 2017.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;First time pull request contributions can be very intimidating, and so was the case with me. Hoping to land my first-time contribution, I started observing 2016’s Hacktoberbest. But I was lost with the plenty of opensource projects to choose from. In 2015, I had a &lt;a href=&quot;../ace-your-outreachy-application/#not-every-attempt-is-successful&quot;&gt;first failed attempt&lt;/a&gt;, but I was very determined in 2016. The entire October went with selecting projects until I settled down with the dev tools debugger project. It took another 3 months of observation into the project before I was confident of claiming the first issue. After the first pull request, I started to feel comfortable.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;http://princiya.com/blog/blog/static/aae1dffd51ca1b2e99e429372bedf61a/70d1f/first-time.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAEfElEQVQ4y5VUC1BUVRg+995ln7AwmLDa7k48JFEKxzV2eCQDaKyVPE3Y0cIcSGpVnLBBHQFDSZ1x1DHIrLHCIWUMtkLBYhocXiqZ8Uhy38vusg+WZXkLpHY697IXI22m/pn/3v9xzne+85//HACQKJVKUFdXB2QyGWhoaABNTU2gplYJRGIxRuYxDItAuoK0o6RS7O49NaBF32+WDQ6PlNqcrg1UoLO9DfxTIIRgdGKKmH0EcWSToF5IGWTucp0SGE0WnLT7zZbl/RYrHJ28D7VGk/30mY85FEDTlXrieOVZFuV81YyD/ygZ52tYV9tv7e5TaxXXW9rCqeCPm+eY/nyjY9uh/Dxlz09NO3/5XRVuGrCW6PrNF9H2NtEAap2BrdEbG1Vafcfw1PSWTKlkw77MlCo63/29EgBbazNVJ2jVC6E8aQrmp8mnIVxptgxAVBeo1hs66Alr163HzDbHd7MP/4Qml9s5eLmqBFZVQHjfHUTmW46X4aAzlE9c2i4PxNkcYU6Y2B69NKARANZio8MZpdbpE40Wqw85GLHFaGCzwZiIahtWlrst61CqDEaGBCkW1OLt+Jj9S0WiLsz/mX0+gYL3lgUFtf0a6u3zxGE9mKBAa5Jj4sLEwku+/v5qwOKcCxQIWp4VCs/+a7HfTE5afUGeGgk2lmGyaCmTQRAMLpfLYLDZjGB/PyI3OWmRWCSWCwICXvZMYSdErfm0LS87lvK4LFYwjuMygiASGQzG6ygUiZQI8PPlejGZXDab/Vg5HC7KsejFeTyuH2rUaNQa8ahnIqggAhIgQCmB46uQLWExmSuX+PF5DBKMxULrLVRvRJfH4/mgnzeTyfRGc17ECCIe4MQyEuxpjY2tlkjIZiY4HA4DgSxQDto+mYuJjfMqP1LO9jT/Yyk9cfKptSRvzP+R89UXMdB+89b8xAH74Ha3a7h+yD16BvWfgIy13eycX/1K4w/o7poIlVZL3aY+reE5u83+gcPuKOhVawXzLO5VX6AGDI2M3UA+HBufnOns1Ujo/OFjp4FWr32CkXN0ogJ6xDYyfoAKfpiZMXd3U99d8s0XtZI/9OblerPlwLDb2WwbdCqytr5D0Dvo6e3yNdlcaXd0D0NI/+pdXYTKMLB31OlKb+287UsXivp9m/Na/d5TRcdI22axHoRwnFrZbHNm0Yx0ZlcyGZsZ6YZjj+BbhZLQrYf35LxP5zUOp4d63IpX3fIEmFt9AvI1tynqXRp9rMnm/LpbNRBPnzwAn2B2q3H/6Lh9xKrSfO6ODzN+VH0E8k09FeSY9KId6Fs7xzB6feVJkfQo5IvW7CH9a9fvhE9ODs9OTzkeDI3N5P29dtnVkGrsXa8UlbyUeAz6vJBykPTD1xbjID2qYP4UF8ed+i0kIqGVagFlzyK7pe+oy6GZ1Vsc18i+S0nL8EJMPe/lHBF+zLkacUSaYX61/M/KwRaPvWOnQlFSuK6g+0s+h84Lg1dJmEwG+SZmoNv0PBl7I3szXlxcSgHnKXZvKty1sbijkkU9Jn8BuKvyiSkpTgIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Expectation vs Reality of first-time contribution&quot;
-        title=&quot;&quot;
-        src=&quot;http://princiya.com/blog/blog/static/aae1dffd51ca1b2e99e429372bedf61a/799d3/first-time.png&quot;
-        srcset=&quot;/blog/static/aae1dffd51ca1b2e99e429372bedf61a/00d96/first-time.png 148w,
-/blog/static/aae1dffd51ca1b2e99e429372bedf61a/0b23c/first-time.png 295w,
-/blog/static/aae1dffd51ca1b2e99e429372bedf61a/799d3/first-time.png 590w,
-/blog/static/aae1dffd51ca1b2e99e429372bedf61a/70d1f/first-time.png 640w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The devtools debugger community did a great job of onboarding new contributors&lt;/li&gt;
-&lt;li&gt;They had a good documentation&lt;/li&gt;
-&lt;li&gt;The maintainers were available on slack for further questions and discussions&lt;/li&gt;
-&lt;li&gt;Most important, they had a good code of conduct&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;tip-1&quot;&gt;&lt;a href=&quot;#tip-1&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #1&lt;/h3&gt;
-&lt;p&gt;When you are building an opensource community, appreciate your first-time contributors, encourage them, and offer pair-programming support.&lt;/p&gt;
-&lt;h3 id=&quot;tip-2&quot;&gt;&lt;a href=&quot;#tip-2&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #2&lt;/h3&gt;
-&lt;p&gt;Don’t treat any question as stupid. Remember, this can be the very first time that the contributor is even attempting to ask a question in a public forum.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Since the maintainers were very supportive, I ended up having a great first-time contribution experience.&lt;/p&gt;
-&lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;h3 id=&quot;tip-3&quot;&gt;&lt;a href=&quot;#tip-3&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #3&lt;/h3&gt;
-&lt;p&gt;Avoid nit-picking for first-time contributors.&lt;/p&gt;
-&lt;p&gt;Not everyone is a native English language speaker. Hence you can ignore the grammatical errors while naming variables or functions. Also, avoid using abbreviations as much as possible.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;http://princiya.com/blog/blog/static/57b3b2cba871dd684d264973f0c44555/70d1f/nit-pick.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADyUlEQVQ4y5VUe0xTVxg/9xaYxEh5FFyFEkzcHGC2uUTmMyQq20SIbMZNMUazP0YYJovu4dtEIWhNMDHxGWd8bDExM0Y3BY2yohIUFG4pLbS9vb33cvuCAraAIC+P5xx7Sx/+45ec3O98r/Pd7/c7B4AQ8fQNBHUIIVVesZ0ObLMpAOaDCPENj1D4+3JsPNxx7vwFIDpcRO+0sOksL+aF+qnF+R/GrlmfjPVnbfpvLJx9vyA5M/De+8JPRR4Eqo9qwcj4ZAzWOVHSDo68gm5v/4W6urup2Hbwh+8uny3btgvrJrP1Buoeik63nxO6P8E2lhfCi6aoVIC1vzVabPaPUSCHDoAWu7AU2/xXzjATf53RYb1Jp9Pw3Y5KxmB8gIp/im0dneboLrE4e7zEwTvdSUZTZ4Gr7pYS73cUrr6/adHCYUVi8qLIHP/L0ehCu/fsBf3+IaKzLc0yEOCXgvzqOZmZzExlop6elbBTrVYLCxfkbsS++LzltGQykQZ6B3zRRdGwAfoVov9edYQEpikTNMrExOWfZaiT8D4mKWVZ+derjsHK7QSg2o1rSdx/tXfBe0u6Wh3zXgkIjLe/jMCxCd0Kt+QAHyUrqdS0NDpVpSKdpM+eTReUVVCwm6eetjKUlbWRnKHRMdD4pDm6qMxFWZ7r2+l2PUNhksu2Hp4PQ9Th6ZUvQkSHnJ0EWjl+juBwrX9uMM4K9f/j89IX+1wk5t6D+nhDpzlT9tkDsw8Tyd2jIIj1v9g6NgVhW7tBHIQwZ8NP5RtqTp4tCaFWDiK/Z2BwGCJm1OOLRIqK0nSx5tY2TE6i36vXxYuS8/LQxBQUDYaKA9+XNJ3Yu+Na8GCHS2NmuUdoMYguh2W7TRCju0QBwfnch1DVV7jkztS6bHj0zx99aWzrqMbU8Me7AL11uzaCg4w+OFSWsy/mJFchGfiK+ddNZVuhdv+vk3OvXWLUxoY12N5qs+WgWWfL+bwUMcMuqy1YEF36Bjwfh8fTor3RkqX64rg5K+8cVGVs6Y8DIB/FxaKYYWOXBT0QrioZYabDOF3wUGUVQK8LFaDOAqtd0KEk0cwKcwHYHBe38nZN0pfV8IMZcQdIssGoN1ms8NXka+jq7VsWQJqOmkUo37y+oVgAEkhQ1trrNZp8Lfw8V3MV70+d/3smugi/oWLHEJgqbEMgTfPz/4ePwejElAwMzQUoAOEdErRvV+nPu3eWnLp5+qtD/2oVKZGN8JIzGindo8bgHPE1LCouJt0pFDG56FOEVjFa87Ct6NtSSpAcChSv6OgyhxV9AyTJ9UgNdmETAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Avoid nit-picking for first-time contribution&quot;
-        title=&quot;&quot;
-        src=&quot;http://princiya.com/blog/blog/static/57b3b2cba871dd684d264973f0c44555/799d3/nit-pick.png&quot;
-        srcset=&quot;/blog/static/57b3b2cba871dd684d264973f0c44555/00d96/nit-pick.png 148w,
-/blog/static/57b3b2cba871dd684d264973f0c44555/0b23c/nit-pick.png 295w,
-/blog/static/57b3b2cba871dd684d264973f0c44555/799d3/nit-pick.png 590w,
-/blog/static/57b3b2cba871dd684d264973f0c44555/70d1f/nit-pick.png 640w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;hr&gt;
+&lt;p&gt;In this post, I will talk about the expectation and reality of opensource contributions from my perspective of being both a contributor and a maintainer using 7 real-world examples.&lt;/p&gt;
+&lt;h2 id=&quot;time&quot;&gt;&lt;a href=&quot;#time&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Time&lt;/h2&gt;
+&lt;p&gt;Hoping to land my first-time contribution, I started observing 2016’s &lt;a href=&quot;https://hacktoberfest.digitalocean.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Hacktoberbest&lt;/a&gt;. But I was lost with the plenty of opensource projects to choose from. In 2015, I had a &lt;a href=&quot;../ace-your-outreachy-application/#not-every-attempt-is-successful&quot;&gt;first failed attempt&lt;/a&gt;, but I was very determined in 2016. The entire October went with selecting projects until I settled down with the dev tools debugger project. It took another 3 months of observation into the project before I was confident of claiming the first issue.&lt;/p&gt;
+&lt;h3 id=&quot;reality-1&quot;&gt;&lt;a href=&quot;#reality-1&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reality #1&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Although I was comfortable after my first pull request, finding the time to work on more contributions was constantly challenging.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;guilt&quot;&gt;&lt;a href=&quot;#guilt&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Guilt&lt;/h2&gt;
+&lt;p&gt;When not being able to find the time to work on opensource, there was the guilt factor for leaving a pull request open for more than 2 weeks, or claiming an issue to work on but not being able to commit to work on it.&lt;/p&gt;
+&lt;h3 id=&quot;reality-2&quot;&gt;&lt;a href=&quot;#reality-2&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reality #2&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You have to learn to say NO without feeling guilty.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;motivation&quot;&gt;&lt;a href=&quot;#motivation&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;When you have the motivation it is easy to find the time to work on something. As I recall today, it does seem funny, but I wanted to get into opensource to have more green boxes in my &lt;a href=&quot;https://github.com/princiya&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Github profile&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://princiya.com/blog/blog/9b7776d7e28e2c049f01d20e8a8227d0/github-graph.gif&quot; alt=&quot;Github contribution graph&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Today, I am happy with my opensource contribution graph.&lt;/p&gt;
+&lt;h3 id=&quot;reality-3&quot;&gt;&lt;a href=&quot;#reality-3&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reality #3&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;An all green github graph is just a myth! Whoever has one, did not escape the &lt;a href=&quot;https://opensource.com/article/20/3/burnout&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;burnout&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;imposter-syndrome&quot;&gt;&lt;a href=&quot;#imposter-syndrome&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Imposter Syndrome&lt;/h3&gt;
+&lt;p&gt;Whenever someone leaves a comment on an issue or a pull request I have been working on, I immediately get into the ‘prove-it-again’ bias mode and spend more time figuring out how to explain things in the best way. The feeling of wondering if my pull request is ok or me having explained something in the pull request is ok has not faded away but improved over the years.&lt;/p&gt;
+&lt;p&gt;Once I opened an issue and it was marked as duplicate. The imposter feeling kicked in and was preventing me from further exploring issues.&lt;/p&gt;
 &lt;p&gt;As for the horrible experience considered, my first nightmare was when someone commented on an issue I tried to help with a negative comment.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
@@ -201,12 +134,59 @@
 &lt;p&gt;Why do you still use this ugly hack instead of just installing xxxxxxxxxx?&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;What was bad about this comment, you may ask. Firstly, you cannot expect everyone to be at the same level as you in the opensource world. Obviously, I didn’t know why the person referred it to be a hack and using &lt;code class=&quot;language-text&quot;&gt;ugly&lt;/code&gt; alongside made it even worse.&lt;/p&gt;
-&lt;h3 id=&quot;tip-4&quot;&gt;&lt;a href=&quot;#tip-4&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #4&lt;/h3&gt;
-&lt;p&gt;Treat every contributor with respect.&lt;/p&gt;
-&lt;h3 id=&quot;tip-5&quot;&gt;&lt;a href=&quot;#tip-5&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #5&lt;/h3&gt;
-&lt;p&gt;When you offer to give suggestions, write an explanation why you think they are relevant. From the above example, it would have been very helpful for me to know what was hacky about my solution.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Another example I can recall of a bad experience is when I added &lt;code class=&quot;language-text&quot;&gt;+1&lt;/code&gt; to an already reported issue. I was a bit disappointed as to why the maintainer had downvoted my comment. I brought this point with another maintainer, and he explained why this was not a good practice.&lt;/p&gt;
+&lt;h3 id=&quot;reality-4&quot;&gt;&lt;a href=&quot;#reality-4&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reality #4&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I kept thinking about this person’s comment for a good number of days and it made me question my &lt;a href=&quot;https://princiya777.wordpress.com/2017/07/16/am-i-a-fraud/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;imposter&lt;/a&gt; once again.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; When you offer to give suggestions, write an explanation why you think they are relevant. From the above example, it would have been very helpful for me to know what was hacky about my solution.&lt;/p&gt;
+&lt;h2 id=&quot;5-diversity&quot;&gt;&lt;a href=&quot;#5-diversity&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;#5: Diversity&lt;/h2&gt;
+&lt;p&gt;Although there is a huge &lt;a href=&quot;https://princiya777.wordpress.com/2018/04/04/working-in-the-open/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;gender gap&lt;/a&gt; in opensource, the diversity count for opensource is definitely improving! Contributing to opensource means you are working in the open, the code is out for the public. Not everyone will be comfortable with this kind of way of working.&lt;/p&gt;
+&lt;p&gt;I still remember the days how I used to fret when I was sitting next to my boss during the initial weeks of my first job as a Programmer. I used to be constantly conscious during our pair programming sessions. As with anything else, with practice and time I got through this fear and anxiety.&lt;/p&gt;
+&lt;p&gt;The opensource community needs to be more sensitive to first time contributors, especially people from under-represented groups given that the imposter syndrome is prevalent.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Avoid nit-picking for first-time contributors.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;http://princiya.com/blog/blog/static/57b3b2cba871dd684d264973f0c44555/70d1f/nit-pick.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADyUlEQVQ4y5VUe0xTVxg/9xaYxEh5FFyFEkzcHGC2uUTmMyQq20SIbMZNMUazP0YYJovu4dtEIWhNMDHxGWd8bDExM0Y3BY2yohIUFG4pLbS9vb33cvuCAraAIC+P5xx7Sx/+45ec3O98r/Pd7/c7B4AQ8fQNBHUIIVVesZ0ObLMpAOaDCPENj1D4+3JsPNxx7vwFIDpcRO+0sOksL+aF+qnF+R/GrlmfjPVnbfpvLJx9vyA5M/De+8JPRR4Eqo9qwcj4ZAzWOVHSDo68gm5v/4W6urup2Hbwh+8uny3btgvrJrP1Buoeik63nxO6P8E2lhfCi6aoVIC1vzVabPaPUSCHDoAWu7AU2/xXzjATf53RYb1Jp9Pw3Y5KxmB8gIp/im0dneboLrE4e7zEwTvdSUZTZ4Gr7pYS73cUrr6/adHCYUVi8qLIHP/L0ehCu/fsBf3+IaKzLc0yEOCXgvzqOZmZzExlop6elbBTrVYLCxfkbsS++LzltGQykQZ6B3zRRdGwAfoVov9edYQEpikTNMrExOWfZaiT8D4mKWVZ+derjsHK7QSg2o1rSdx/tXfBe0u6Wh3zXgkIjLe/jMCxCd0Kt+QAHyUrqdS0NDpVpSKdpM+eTReUVVCwm6eetjKUlbWRnKHRMdD4pDm6qMxFWZ7r2+l2PUNhksu2Hp4PQ9Th6ZUvQkSHnJ0EWjl+juBwrX9uMM4K9f/j89IX+1wk5t6D+nhDpzlT9tkDsw8Tyd2jIIj1v9g6NgVhW7tBHIQwZ8NP5RtqTp4tCaFWDiK/Z2BwGCJm1OOLRIqK0nSx5tY2TE6i36vXxYuS8/LQxBQUDYaKA9+XNJ3Yu+Na8GCHS2NmuUdoMYguh2W7TRCju0QBwfnch1DVV7jkztS6bHj0zx99aWzrqMbU8Me7AL11uzaCg4w+OFSWsy/mJFchGfiK+ddNZVuhdv+vk3OvXWLUxoY12N5qs+WgWWfL+bwUMcMuqy1YEF36Bjwfh8fTor3RkqX64rg5K+8cVGVs6Y8DIB/FxaKYYWOXBT0QrioZYabDOF3wUGUVQK8LFaDOAqtd0KEk0cwKcwHYHBe38nZN0pfV8IMZcQdIssGoN1ms8NXka+jq7VsWQJqOmkUo37y+oVgAEkhQ1trrNZp8Lfw8V3MV70+d/3smugi/oWLHEJgqbEMgTfPz/4ePwejElAwMzQUoAOEdErRvV+nPu3eWnLp5+qtD/2oVKZGN8JIzGindo8bgHPE1LCouJt0pFDG56FOEVjFa87Ct6NtSSpAcChSv6OgyhxV9AyTJ9UgNdmETAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Avoid nit-picking for first-time contribution&quot;
+        title=&quot;&quot;
+        src=&quot;http://princiya.com/blog/blog/static/57b3b2cba871dd684d264973f0c44555/799d3/nit-pick.png&quot;
+        srcset=&quot;/blog/static/57b3b2cba871dd684d264973f0c44555/00d96/nit-pick.png 148w,
+/blog/static/57b3b2cba871dd684d264973f0c44555/0b23c/nit-pick.png 295w,
+/blog/static/57b3b2cba871dd684d264973f0c44555/799d3/nit-pick.png 590w,
+/blog/static/57b3b2cba871dd684d264973f0c44555/70d1f/nit-pick.png 640w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3 id=&quot;reality-5&quot;&gt;&lt;a href=&quot;#reality-5&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reality #5&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Not everyone is a native English language speaker.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hence you can ignore the grammatical errors while naming variables or functions. Also, avoid using abbreviations as much as possible to avoid nit-picking for first-time contributors.&lt;/p&gt;
+&lt;h3 id=&quot;free-work&quot;&gt;&lt;a href=&quot;#free-work&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Free work&lt;/h3&gt;
+&lt;p&gt;Another example I can recall of a bad experience is when I added &lt;code class=&quot;language-text&quot;&gt;+1&lt;/code&gt; to an already reported issue. I was a bit disappointed as to why the maintainer had downvoted my comment. I discussed this point with another maintainer, and he explained why this was not a good practice.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -243,10 +223,15 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;h3 id=&quot;tip-6&quot;&gt;&lt;a href=&quot;#tip-6&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #6&lt;/h3&gt;
-&lt;p&gt;It helps a maintainer when you explain in detail. In the example above, what would have helped the maintainer was me being able to replicate the issue, write detailed steps, and help them debug the issue rather than write &lt;code class=&quot;language-text&quot;&gt;+1&lt;/code&gt; as a comment.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;The following incident happened to a repository I have been maintaining. There is no point venting your frustration in an issue comment unless you are offering to be helpful.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; It helps a maintainer when you explain in detail. In the example above, what would have helped the maintainer was me being able to replicate the issue, write detailed steps, and help them debug the issue rather than write &lt;code class=&quot;language-text&quot;&gt;+1&lt;/code&gt; as a comment.&lt;/p&gt;
+&lt;h3 id=&quot;reality-6&quot;&gt;&lt;a href=&quot;#reality-6&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reality #6&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Most of the maintainers do a lot of the opensource work for free!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;While we have the best intentions to contribute to opensource, we need to be mindful of everyone’s time and try to do our bit to improve maintainers’ life rather than just complaining. Reporting issues certainly helps maintainers to get feedback, but a lot of incomplete issues will only make their life terrible.&lt;/p&gt;
+&lt;p&gt;At work, a colleague of mine was once complaining about how an opensource project, although very good, wasn’t up-to-date and was blaming the maintainers as to why they could not spend time maintaining it. I advised him to contribute to the project himself and thereby help the maintainers.&lt;/p&gt;
+&lt;h3 id=&quot;respect&quot;&gt;&lt;a href=&quot;#respect&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Respect&lt;/h3&gt;
+&lt;p&gt;The following incident happened to a repository I have been maintaining. There is no point venting your frustration unless you are offering to be helpful.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -283,12 +268,14 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;h3 id=&quot;tip-7&quot;&gt;&lt;a href=&quot;#tip-7&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #7&lt;/h3&gt;
-&lt;p&gt;Treat maintainers with respect too. In general, keep all the comments respectful!&lt;/p&gt;
+&lt;h3 id=&quot;reality-7&quot;&gt;&lt;a href=&quot;#reality-7&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reality #7&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Every contributor and maintainer deserves respect.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Remember that most of the opensource contributions happen for free of cost. Be respectful of the contributors’ and maintainers’ blood, energy, and sweat.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Can you recall your first-time experience of creating a pull request or opening an issue to an opensource project? What is the one thing you can recall about what went well or a horrible experience you have had?&lt;/p&gt;
-                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;http://princiya.com/blog/7-tips-for-opensource-contributions/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Notes&lt;/strong&gt;: The illustrations used in this post are from &lt;a href=&quot;https://blush.design/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;blush.design&lt;/a&gt; and the images were worked out using &lt;a href=&quot;https://vectr.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;vectr&lt;/a&gt;.&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;http://princiya.com/blog/reality-of-opensource-contributions/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item><item><title><![CDATA[Tone of talking]]></title><description><![CDATA[4 effective patterns to bridge the communication gap]]></description><link>http://princiya.com/blog/tone-of-talking/</link><guid isPermaLink="false">http://princiya.com/blog/tone-of-talking/</guid><pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As of October 1, 2020, I officially have the title &lt;code class=&quot;language-text&quot;&gt;Head of Engineering (Frontend)&lt;/code&gt; where I lead and manage the Web and Mobile application development teams. I am incredibly proud of this accomplishment of mine 👩‍💻 👩‍💻 👩‍💻. You can read my journey into technical leadership &lt;a href=&quot;http://princiya.com/blog/blog/tags/leadership&quot;&gt;here&lt;/a&gt;. While I have been in the lead role for 2 years now, one thing you would often hear me saying is:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Coding is easy, but managing people is hard 🤦‍♀️.&lt;/p&gt;
@@ -533,6 +520,59 @@ Trust employer is going to pay&lt;/p&gt;
 &lt;li&gt;That person who doesn’t care about reviewing other’s pull requests at all.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Which person are you?&lt;/p&gt;
+&lt;p&gt;After learning &lt;code class=&quot;language-text&quot;&gt;git&lt;/code&gt; for the first time in 2015, I was expecting to contribute more to opensource.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./expectation.png&quot; alt=&quot;Pull request expectation&quot;&gt;&lt;/p&gt;
+&lt;p&gt;But the reality turned out to be different.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./reality.png&quot; alt=&quot;Pull request reality&quot;&gt;&lt;/p&gt;
+&lt;p&gt;In this post, I will talk about the expectation and reality of opensource contributions from the perspective of the contributor, maintainer, and 7 tips on how to get them right.&lt;/p&gt;
+&lt;h2 id=&quot;the-first-time-opensource-contributor-experience&quot;&gt;&lt;a href=&quot;#the-first-time-opensource-contributor-experience&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The first-time opensource contributor experience&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;My &lt;a href=&quot;https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+author%3Aprinciya+is%3Aclosed&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;first pull request&lt;/a&gt; was to the Firefox devtools debugger project in February 2017.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;First time pull request contributions can be very intimidating, and so was the case with me. Hoping to land my first-time contribution, I started observing 2016’s Hacktoberbest. But I was lost with the plenty of opensource projects to choose from. In 2015, I had a &lt;a href=&quot;../ace-your-outreachy-application/#not-every-attempt-is-successful&quot;&gt;first failed attempt&lt;/a&gt;, but I was very determined in 2016. The entire October went with selecting projects until I settled down with the dev tools debugger project. It took another 3 months of observation into the project before I was confident of claiming the first issue. After the first pull request, I started to feel comfortable.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./first-time.png&quot; alt=&quot;Expectation vs Reality of first-time contribution&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The devtools debugger community did a great job of onboarding new contributors&lt;/li&gt;
+&lt;li&gt;They had a good documentation&lt;/li&gt;
+&lt;li&gt;The maintainers were available on slack for further questions and discussions&lt;/li&gt;
+&lt;li&gt;Most important, they had a good code of conduct&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;tip-1&quot;&gt;&lt;a href=&quot;#tip-1&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #1&lt;/h3&gt;
+&lt;p&gt;When you are building an opensource community, appreciate your first-time contributors, encourage them, and offer pair-programming support.&lt;/p&gt;
+&lt;h3 id=&quot;tip-2&quot;&gt;&lt;a href=&quot;#tip-2&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #2&lt;/h3&gt;
+&lt;p&gt;Don’t treat any question as stupid. Remember, this can be the very first time that the contributor is even attempting to ask a question in a public forum.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Since the maintainers were very supportive, I ended up having a great first-time contribution experience.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;tip-3&quot;&gt;&lt;a href=&quot;#tip-3&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #3&lt;/h3&gt;
+&lt;p&gt;Avoid nit-picking for first-time contributors.&lt;/p&gt;
+&lt;p&gt;Not everyone is a native English language speaker. Hence you can ignore the grammatical errors while naming variables or functions. Also, avoid using abbreviations as much as possible.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./nit-pick.png&quot; alt=&quot;Avoid nit-picking for first-time contribution&quot;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;As for the horrible experience considered, my first nightmare was when someone commented on an issue I tried to help with a negative comment.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./github.png&quot; alt=&quot;Negative reaction received on Github&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Why do you still use this ugly hack instead of just installing xxxxxxxxxx?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;What was bad about this comment, you may ask. Firstly, you cannot expect everyone to be at the same level as you in the opensource world. Obviously, I didn’t know why the person referred it to be a hack and using &lt;code class=&quot;language-text&quot;&gt;ugly&lt;/code&gt; alongside made it even worse.&lt;/p&gt;
+&lt;h3 id=&quot;tip-4&quot;&gt;&lt;a href=&quot;#tip-4&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #4&lt;/h3&gt;
+&lt;p&gt;Treat every contributor with respect.&lt;/p&gt;
+&lt;h3 id=&quot;tip-5&quot;&gt;&lt;a href=&quot;#tip-5&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #5&lt;/h3&gt;
+&lt;p&gt;When you offer to give suggestions, write an explanation why you think they are relevant. From the above example, it would have been very helpful for me to know what was hacky about my solution.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Another example I can recall of a bad experience is when I added &lt;code class=&quot;language-text&quot;&gt;+1&lt;/code&gt; to an already reported issue. I was a bit disappointed as to why the maintainer had downvoted my comment. I brought this point with another maintainer, and he explained why this was not a good practice.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./bad-issue-example.png&quot; alt=&quot;Example of a badly reported issue&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;tip-6&quot;&gt;&lt;a href=&quot;#tip-6&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #6&lt;/h3&gt;
+&lt;p&gt;It helps a maintainer when you explain in detail. In the example above, what would have helped the maintainer was me being able to replicate the issue, write detailed steps, and help them debug the issue rather than write &lt;code class=&quot;language-text&quot;&gt;+1&lt;/code&gt; as a comment.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The following incident happened to a repository I have been maintaining. There is no point venting your frustration in an issue comment unless you are offering to be helpful.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./lightbeam-bad-example.png&quot; alt=&quot;Example of a bad comment for Lightbeam&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;tip-7&quot;&gt;&lt;a href=&quot;#tip-7&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tip #7&lt;/h3&gt;
+&lt;p&gt;Treat maintainers with respect too. In general, keep all the comments respectful!&lt;/p&gt;
+&lt;p&gt;Remember that most of the opensource contributions happen for free of cost. Be respectful of the contributors’ and maintainers’ blood, energy, and sweat.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Can you recall your first-time experience of creating a pull request or opening an issue to an opensource project? What is the one thing you can recall about what went well or a horrible experience you have had?&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;http://princiya.com/blog/review-pull-request/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item><item><title><![CDATA[Managing pythons on MacOS]]></title><description><![CDATA[Handling different python versions on MacOS]]></description><link>http://princiya.com/blog/fix-openssl-python-aws/</link><guid isPermaLink="false">http://princiya.com/blog/fix-openssl-python-aws/</guid><pubDate>Tue, 29 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post is more of a personal notes. Recently, I had to run a script on my machine which until then was only run by one person in our office. The problem started with us having different &lt;a href=&quot;https://www.openssl.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;openssl&lt;/a&gt; versions. I had &lt;code class=&quot;language-text&quot;&gt;LibreSSL&lt;/code&gt; vs the other person had &lt;code class=&quot;language-text&quot;&gt;OpenSSL&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;This started creating one problem after the other. For example the script passed in &lt;code class=&quot;language-text&quot;&gt;pbkdf2&lt;/code&gt; argument into the &lt;code class=&quot;language-text&quot;&gt;openssl&lt;/code&gt; cipher and this wasn’t supported in &lt;code class=&quot;language-text&quot;&gt;LibreSSL&lt;/code&gt;&lt;a href=&quot;https://stackoverflow.com/questions/61938795/openssl-pbkdf2-option-no-longer-supported&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
