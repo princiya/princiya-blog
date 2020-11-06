@@ -1,4 +1,194 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[P's Blog RSS Feed]]></title><description><![CDATA[Personal blog by Princiya Sequeira]]></description><link>http://princiya.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 31 Oct 2020 18:02:31 GMT</lastBuildDate><item><title><![CDATA[Reality of opensource contributions]]></title><description><![CDATA[7 real-world examples of opensource contribution experiences of being both a contributor and a maintainer.]]></description><link>http://princiya.com/blog/reality-of-opensource-contributions/</link><guid isPermaLink="false">http://princiya.com/blog/reality-of-opensource-contributions/</guid><pubDate>Fri, 16 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;After learning &lt;code class=&quot;language-text&quot;&gt;git&lt;/code&gt; for the first time in 2015, I was expecting to contribute more to opensource.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[P's Blog RSS Feed]]></title><description><![CDATA[Personal blog by Princiya Sequeira]]></description><link>http://princiya.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 06 Nov 2020 17:21:59 GMT</lastBuildDate><item><title><![CDATA[Transition to a lead role]]></title><description><![CDATA[7 facts nobody told me.]]></description><link>http://princiya.com/blog/transition-notes/</link><guid isPermaLink="false">http://princiya.com/blog/transition-notes/</guid><pubDate>Fri, 06 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I had to lead the way when I expected something from my team.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For example&lt;/strong&gt;: If I wanted others to write tests, then first I had to write them and demonstrate that it’s a good practice to include tests in every pull request. Also
+Tests are your best friend.
+Having good number of tests in your codebase lets you onboard new people easily without having to worry about regressions.
+Those were the pre-corona times where the team was still not used to working remote, although we had a flexible work from home policy.
+Home office was difficult, or atleast was not ideal to decide to do home office the last minute, because there were now others waiting and me calling for a home office suddenly would mean they would be blocked.
+when taking holidays, inform multiple people
+Pivot person of contact
+Personal “productivity” had to be completely redefined. Enabling others to finish their tasks, or unblocking them was more important.
+Empathy has to be valued above output.
+Setting standards for your team starts with you (e.g., not sending emails after hours, etc)
+Sometime hard decisions - firing, being strict with managing
+Meetings get blocked&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lunch time meetings are favorite&lt;/li&gt;
+&lt;li&gt;teach concepts to two people at a time, other than you&lt;/li&gt;
+&lt;li&gt;don’t just delegate to one person&lt;/li&gt;
+&lt;li&gt;more accountable for mistakes.&lt;/li&gt;
+&lt;li&gt;setting example with your behaviour, etiquette&lt;/li&gt;
+&lt;li&gt;give credit to others wherever it’s due&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Habits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;clean emails&lt;/li&gt;
+&lt;li&gt;clean slack conversations&lt;/li&gt;
+&lt;li&gt;remember to follow up&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We are &lt;a href=&quot;https://curalie.com/en/jobs/software-engineer-frontend-react-react-native-f-m-x-mid-level-senior/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;hiring&lt;/a&gt;!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ana’s testimony &lt;a href=&quot;https://www.linkedin.com/feed/update/urn:li:activity:6676024962941255680/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.linkedin.com/feed/update/urn:li:activity:6676024962941255680/&lt;/a&gt;&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;http://princiya.com/blog/transition-notes/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Do not be a bottleneck in your team]]></title><description><![CDATA[Unlearn from doing everything yourself and learn to delegate.]]></description><link>http://princiya.com/blog/do-not-be-a-bottleneck/</link><guid isPermaLink="false">http://princiya.com/blog/do-not-be-a-bottleneck/</guid><pubDate>Fri, 06 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.71875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIDBAUG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdR6kcOc+H//xAAZEAADAQEBAAAAAAAAAAAAAAABAgMAIRL/2gAIAQEAAQUCA3M/GnQkVoQr0b1//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAECIDFB/9oACAEBAAY/AqSa4af/xAAaEAEBAAIDAAAAAAAAAAAAAAABABEhMUFx/9oACAEBAAE/ITC26tgMNsRcvxySMlL7f//aAAwDAQACAAMAAAAQn8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhYTFBUXGB/9oACAEBAAE/EL+nUAEseyXUlt41BaFeLjeAH6YYsWAtsXif/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Bottleneck&quot;
+        title=&quot;&quot;
+        src=&quot;http://princiya.com/blog/blog/static/0aad7fcfc280e5593575c17b64878989/88218/bottleneck.jpg&quot;
+        srcset=&quot;/blog/static/0aad7fcfc280e5593575c17b64878989/7237a/bottleneck.jpg 148w,
+/blog/static/0aad7fcfc280e5593575c17b64878989/0cfdf/bottleneck.jpg 295w,
+/blog/static/0aad7fcfc280e5593575c17b64878989/88218/bottleneck.jpg 590w,
+/blog/static/0aad7fcfc280e5593575c17b64878989/7459a/bottleneck.jpg 640w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
+&lt;p&gt;Are you the pivot person in your team, a.k.a the goto person for everyone’s problems and solutions? Do you feel you don’t get enough of your work done or over-working because you are constantly being called to resolve others issues? Does your unavailability mean your team is blocked?&lt;/p&gt;
+&lt;p&gt;If yes, then you are being the bottleneck in your team!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You can reverse being a bottleneck in your team by learning the art of delegation.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In this post I will talk about how I had to unlearn from doing everything myself and learn to delegate. &lt;em&gt;This is part 1 of the series where I summarise how the transition was for me from an individual contributor to a lead role.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 113.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAXABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIFAQT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHxXq2YbVEWHAf/xAAbEAEAAgIDAAAAAAAAAAAAAAABABECFAQhIv/aAAgBAQABBQI46zWmuysQSN3XeXon/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGxAAAgEFAAAAAAAAAAAAAAAAABAxAREhQWH/2gAIAQEABj8CJWSTRThZf//EAB8QAQACAQMFAAAAAAAAAAAAAAEAETFRYXEhQYGRof/aAAgBAQABPyFKr+RAWzqNSmw5ZhSnMHY9IsRDZrLAnfqR8T//2gAMAwEAAgADAAAAEMMIvv/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EACAQAQACAgEEAwAAAAAAAAAAAAEAESExQVFhgcFxkdH/2gAIAQEAAT8Q1hOvD5mD/NBkv7Ii4exR9w0KUB3rxKmi8hw+ahED9aR6hSpZNhOL3v8AZRcl0MJXmNXIKxQpP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Two birds&quot;
+        title=&quot;&quot;
+        src=&quot;http://princiya.com/blog/blog/static/2e78277de3ec1c3b00a71960076c1f4b/88218/two-birds.jpg&quot;
+        srcset=&quot;/blog/static/2e78277de3ec1c3b00a71960076c1f4b/7237a/two-birds.jpg 148w,
+/blog/static/2e78277de3ec1c3b00a71960076c1f4b/0cfdf/two-birds.jpg 295w,
+/blog/static/2e78277de3ec1c3b00a71960076c1f4b/88218/two-birds.jpg 590w,
+/blog/static/2e78277de3ec1c3b00a71960076c1f4b/7459a/two-birds.jpg 640w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
+&lt;div style=&quot;text-align: center; font-size: 0.6rem&quot;&gt;Photo by &lt;a href=&quot;https://unsplash.com/@hariprasad000?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Hari Nandakumar&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/t/nature?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;When I started at Curalie Gmbh in 2018, we were a 2 person Frontend team. After working a few months with freelancers and an external company, we hired a full-time third person into our team. This new hire had to report to me. I was really excited on being able to build a team and was looking forward to her first day. After she started I realised things at work were not the same anymore.&lt;/p&gt;
+&lt;p&gt;I knew I had to start all over again, this time I had to start with being a team lead. The first thing I had to learn was to &lt;strong&gt;delegate tasks&lt;/strong&gt; to her. By the time I completed my first year at Curalie, we hired two more additional frontend developers. We were then a team of 5! At the time of writing this blog post (November 2020) we are 12 in our frontend engineering team.&lt;/p&gt;
+&lt;h2 id=&quot;the-art-of-delegation&quot;&gt;&lt;a href=&quot;#the-art-of-delegation&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The art of delegation&lt;/h2&gt;
+&lt;p&gt;As I mentioned before, when we hired the third person into our team, I had to learn to delegate tasks to her, and to do so, I had to &lt;strong&gt;trust&lt;/strong&gt; in her to be able to do things.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The art of delegation was to get comfortable with someone else doing it in a different way than me.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This didn’t come to me naturally, and I was surprised how I was over-protective of the codebase and kept wondering how someone under my supervision would destroy it or not being able to write things correctly. This certainly improved over time and I was getting better at delegating work by breaking down Jira tickets into smaller sub-tasks.&lt;/p&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.5625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/2gAMAwEAAhADEAAAAdSgkLTnAv8A/8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIAEhEiMf/aAAgBAQABBQIc2hlaumas5Y//xAAWEQEBAQAAAAAAAAAAAAAAAAAAERL/2gAIAQMBAT8BjL//xAAXEQEAAwAAAAAAAAAAAAAAAAAAAQMR/9oACAECAQE/AdTY/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAEQEQIxQf/aAAgBAQAGPwI5Dpiyvcf/xAAZEAACAwEAAAAAAAAAAAAAAAABEQAhUTH/2gAIAQEAAT8hw7GRAKaRcRwOKMyWvkaUZCZ//9oADAMBAAIAAwAAABCMP//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFB/9oACAEDAQE/EKIU9P/EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8Q0MTkP//EABsQAQADAQEBAQAAAAAAAAAAAAEAESExQVHB/9oACAEBAAE/EAO4IxdqUqpbAhPgvrEKR03KiLoHLgSFEZUD+52WCHgDzZ//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Delegation&quot;
+        title=&quot;&quot;
+        src=&quot;http://princiya.com/blog/blog/static/b695192bcf1131ff0c90cff31ce00979/88218/birds-leading.jpg&quot;
+        srcset=&quot;/blog/static/b695192bcf1131ff0c90cff31ce00979/7237a/birds-leading.jpg 148w,
+/blog/static/b695192bcf1131ff0c90cff31ce00979/0cfdf/birds-leading.jpg 295w,
+/blog/static/b695192bcf1131ff0c90cff31ce00979/88218/birds-leading.jpg 590w,
+/blog/static/b695192bcf1131ff0c90cff31ce00979/7459a/birds-leading.jpg 640w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
+&lt;div style=&quot;text-align: center; font-size: 0.6rem&quot;&gt;Photo by &lt;a href=&quot;https://unsplash.com/@rayhennessy?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Ray Hennessy&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/t/nature?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/div&gt;
+&lt;h2 id=&quot;key-takeaways-from-delegation&quot;&gt;&lt;a href=&quot;#key-takeaways-from-delegation&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Key takeaways from delegation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;When working in a fast-paced startup, the team-lead is responsible to be a people manager alongside managing team’s technical duties, like write code, fix bugs, handle incoming customer support queries, etc. The key takeaway was &lt;strong&gt;I could not do everything&lt;/strong&gt;, although I loved doing everything or believed that I could do everything. I had to find the balance between &lt;strong&gt;managing priorities&lt;/strong&gt; vs doing things I loved. I had to love the things I did, instead. For example, learning to manage priorities: Given a 3-week sprint, moving people 1:1’s during the first week gave focus time during the 2nd, 3rd week on sprint goals and releases. Also, the 3rd week I had to keep buffer time to align with the QA, fix bugs and ensure a smooth release.&lt;/li&gt;
+&lt;li&gt;When delegating something to someone, &lt;strong&gt;maintaining a log&lt;/strong&gt;. This helped in being able to follow up or fill up their place when the delegate was on holiday or sick. For example: I always made a point to follow up on every pull request merged so that I could keep track of the changes made or atleast remember why, how, when something was changed. PS: I do have a good memory ;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Documenting processes&lt;/strong&gt;, a.k.a knowledge sharing sessions within the team. This helped in onboarding new people and enabled everyone in the team to be aligned with each others work. For example: Setting up an excel sheet to keep track of incoming job applicants and having email templates enabled me to delegate this task before my vacation.&lt;/li&gt;
+&lt;li&gt;Ensuring &lt;strong&gt;atleast 3 people were able to work on one particular thing&lt;/strong&gt;, including myself. Although the log helped in filling up my directs place, when it came to managing priorities it helped being able to delegate to the third person as a backup plan.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 58.4375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBAv/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/aAAwDAQACEAMQAAABo6nEGIaP/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAEQEQL/2gAIAQEAAQUC5HEbs//EABcRAAMBAAAAAAAAAAAAAAAAAAEDEBH/2gAIAQMBAT8BWNn/xAAXEQADAQAAAAAAAAAAAAAAAAABAhAR/9oACAECAQE/AXOT/8QAFhAAAwAAAAAAAAAAAAAAAAAAACAh/9oACAEBAAY/Air/AP/EABkQAQADAQEAAAAAAAAAAAAAAAEAETEhQf/aAAgBAQABPyGk4HKPjxld2NqGSEdn/9oADAMBAAIAAwAAABCjL//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxAW7Bl//8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EIxun//EABsQAQADAQADAAAAAAAAAAAAAAEAESExUXGR/9oACAEBAAE/ECqwjrjNAkPcSpem+VBYjNrBzIfJ+z//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Team&quot;
+        title=&quot;&quot;
+        src=&quot;http://princiya.com/blog/blog/static/28d6157d3af06f11f5c05ac0b63416d9/88218/birds-in-line.jpg&quot;
+        srcset=&quot;/blog/static/28d6157d3af06f11f5c05ac0b63416d9/7237a/birds-in-line.jpg 148w,
+/blog/static/28d6157d3af06f11f5c05ac0b63416d9/0cfdf/birds-in-line.jpg 295w,
+/blog/static/28d6157d3af06f11f5c05ac0b63416d9/88218/birds-in-line.jpg 590w,
+/blog/static/28d6157d3af06f11f5c05ac0b63416d9/7459a/birds-in-line.jpg 640w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
+&lt;div style=&quot;text-align: center; font-size: 0.6rem&quot;&gt;Photo by &lt;a href=&quot;https://unsplash.com/@iorni?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;iorni.com&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/birds?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/div&gt;
+&lt;h2 id=&quot;whats-next-after-delegation&quot;&gt;&lt;a href=&quot;#whats-next-after-delegation&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What’s next after delegation?&lt;/h2&gt;
+&lt;p&gt;After learning to delegate and getting better at it, the next challenging thing was finding the time to work on my tasks. Delegation meant that others were doing things, but this also meant they had frequent queries and I had to be there to unblock them. In the next post I will talk more about how I managed my time efficiently to unblock others and focus on my tasks to be productive, a.k.a ‘managing priorities’.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Managing priorities === Deciding what not to do now!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;PS: Earlier, I mentioned how excited I was when I learned that I would get to lead a team.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2019&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-dnt=&quot;true&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;✍️ I officially signed on paper today for my new mentee :) My new colleague will join me in 2 weeks! 🎉&lt;a href=&quot;https://twitter.com/hashtag/mentorship?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#mentorship&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/opensource?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#opensource&lt;/a&gt;&lt;/p&gt;&amp;mdash; Princiya 👧‍ (@princi_ya) &lt;a href=&quot;https://twitter.com/princi_ya/status/1124252961247518720?ref_src=twsrc%5Etfw&quot;&gt;May 3, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;(https://www.linkedin.com/feed/update/urn:li:activity:6676024962941255680/)&quot;&gt;Testimony&lt;/a&gt; of my first direct report when she completed a year.&lt;/p&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 85.2994555353902%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAABYlAAAWJQFJUiTwAAADIklEQVQ4y21USY4bRxDsfxrQxe+wf+CbAAE6+AW++mT4YFiCNB5KIwyXbva+stlks/e9SYaiaqjxGFYBgVoyKyoqM6uUsizxsLjH4XBAGIZwXRemacpe2MZxxOVywTzPOJ/PEmJ+vV6fIZrwE1A0TccPr17B9i0k+0QSHY9HJEkiCeu6RtM0qKoKXdeyL0g643tNHKT0XQ/N1JGksSRM0xRt26Lve0n2jbAsC5I1aGqwH5Dn2W29lIcJP9GU0ymFoRvQtzp0XZcKNU3Der3GdruVa2IusN0ahE/YUDUVlm1Do89ms8FqtZIilDzPoRs6HMeB7/twPU+ORRw9zj3ODcOQa45jQ9c2cGwTUUBf24JlmTDoG8exvJkkFBss04BNo0MnAc91YNNR17dSnUm7ZphYOjus3BgPho8vZgDLcbGmOpFQkTAly26EbgjV8qBZDpaaAcP18XmlQjUsKvfk1aXiXQLTj2BHe1hhjF28RxRFMo6SUAQ2DAKESQCNzm7awDqU0PdEUuPYTP9NJcvkPE+4MNPzNKEscnS86vl8wYU2pa5LZKcCze4N0nCBfjij7zrW3ZnrGQ+LGJ+EKnZUGrBeUwzjTEzwggN+/ulHPH76A753RFn3IssZiixAFf6C0zFB3XZou4G1eMJi8RkfP/6Du7t7vHv3Hh8+3HHtE7KswDBMSE8Nbb9j/fAXk3cg4QClKAc0xQJl9CuqekbTNlLBbrdnOaiMnQFVFaWh4fFxRSypNJSE4zQjLxp8WTxQ4Q4Vw6NU7RX18TcU8Z9Ud2HqO76IAdMknhh49Qvjc5Vj0QsIm/ARB/sMiboUWebLaklYtz2a/VvkRxNNN1FhL527fmShDlKJVMPNAk/zUfqMJE4YGm21ocIYVTszy7WNKnqNouSzYjLal4Tc+ET2L6EY97SJpKRpBtthqS3XfGER/DiD0lYkTP+W7HXTSoUCgriVxIMkeIlvBx6oTuVzvGeyTNNH1bEOSxIV+dNn0N+uI681PuFZ3XTDTaWAOCzPS0RewKrI0I/8bY7NgL3nYurb58J9UcUSL/8+idv6/9sVXwFPQPtK6bVCkgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Ana&apos;s testimony&quot;
+        title=&quot;&quot;
+        src=&quot;http://princiya.com/blog/blog/static/d175a10b41476538758d0bbae51ad6c5/799d3/ana-testimony.png&quot;
+        srcset=&quot;/blog/static/d175a10b41476538758d0bbae51ad6c5/00d96/ana-testimony.png 148w,
+/blog/static/d175a10b41476538758d0bbae51ad6c5/0b23c/ana-testimony.png 295w,
+/blog/static/d175a10b41476538758d0bbae51ad6c5/799d3/ana-testimony.png 590w,
+/blog/static/d175a10b41476538758d0bbae51ad6c5/2a3d6/ana-testimony.png 885w,
+/blog/static/d175a10b41476538758d0bbae51ad6c5/71cb0/ana-testimony.png 1102w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;http://princiya.com/blog/do-not-be-a-bottleneck/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Reality of opensource contributions]]></title><description><![CDATA[7 real-world examples of opensource contribution experiences of being both a contributor and a maintainer.]]></description><link>http://princiya.com/blog/reality-of-opensource-contributions/</link><guid isPermaLink="false">http://princiya.com/blog/reality-of-opensource-contributions/</guid><pubDate>Fri, 16 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;After learning &lt;code class=&quot;language-text&quot;&gt;git&lt;/code&gt; for the first time in 2015, I was expecting to contribute more to opensource.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -74,10 +264,10 @@
 &lt;p&gt;Hoping to land my first-time contribution, I started observing 2016’s &lt;a href=&quot;https://hacktoberfest.digitalocean.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Hacktoberbest&lt;/a&gt;. But I was lost with the plenty of opensource projects to choose from. In 2015, I had a &lt;a href=&quot;../ace-your-outreachy-application/#not-every-attempt-is-successful&quot;&gt;first failed attempt&lt;/a&gt;, but I was very determined in 2016. The entire October went with selecting projects until I settled down with the dev tools debugger project. It took another 3 months of observation into the project before I was confident of claiming the first issue.&lt;/p&gt;
 &lt;h3 id=&quot;reality-1&quot;&gt;&lt;a href=&quot;#reality-1&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reality #1&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Although I was comfortable after my first pull request, finding the time to work on more contributions was constantly challenging.&lt;/p&gt;
+&lt;p&gt;Although I was comfortable after my first pull request, finding the time to work on more contributions has been constantly challenging.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&quot;guilt&quot;&gt;&lt;a href=&quot;#guilt&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Guilt&lt;/h2&gt;
-&lt;p&gt;When not being able to find the time to work on opensource, there was the guilt factor for leaving a pull request open for more than 2 weeks, or claiming an issue to work on but not being able to commit to work on it.&lt;/p&gt;
+&lt;p&gt;When not being able to find the time to work on opensource, there is the guilt factor for leaving a pull request open for more than 2 weeks, or claiming an issue to work on but not being able to commit to working on it.&lt;/p&gt;
 &lt;h3 id=&quot;reality-2&quot;&gt;&lt;a href=&quot;#reality-2&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reality #2&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;You have to learn to say NO without feeling guilty.&lt;/p&gt;
