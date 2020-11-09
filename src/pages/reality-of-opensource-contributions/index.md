@@ -1,117 +1,111 @@
 ---
-title: Reality of opensource contributions
+title: Dear opensource - you are not easy!
 date: '2020-10-16'
-spoiler: 7 real-world examples of opensource contribution experiences of being both a contributor and a maintainer.
-cta: 'Opensource'
-tags: ["mentorship", "opensource"]
+spoiler: My experiences of being both a contributor and a maintainer in the opensource world
+cta: 'The real talk about opensource contributions'
+tags: ["opensource", "mentorship"]
 ---
 
-After learning `git` for the first time in 2015, I was expecting to contribute more to opensource.
+Are you a first-time opensource contributor or a seasoned one and find opensource `overwhelming`? Does it happen that everyone praises opensource or talks only good things, and you are struggling to `find the time` or motivation to contribute? Bonus, are you from an under-represented group in technology and have `imposter syndrome`?
 
-![Pull request expectation](./expectation.png)
+I have gone through this phase, and this wasn't exactly what I expected. After learning `git` for the first time in 2015, I was expecting to contribute more to opensource. But the reality turned out to be different.
 
-But the reality turned out to be different.
+![Phases of opensource contribution](./phases-of-contribution.png)
 
-![Pull request reality](./reality.png)
+In this post, I will talk about the expectation and reality of opensource contributions from my perspective of being both a **contributor** and a **maintainer** and how to build a healthy and sustainable opensource culture.
 
----
+## Background
 
-In this post, I will talk about the expectation and reality of opensource contributions from my perspective of being both a contributor and a maintainer using 7 real-world examples.
+I got into opensource through [Outreachy](../ace-your-outreachy-application) internship in 2017. After the paid internship I continued contributing to [Lightbeam](http://princiya.com/) (browser extension to visualise first and third-party web trackers) and subsequently stepped up to maintain the project. I have also contributed to the Firefox devtools debugger project and served as a community maintainer.
 
-## Time
+### The funny motivation
 
-Hoping to land my first-time contribution, I started observing 2016’s [Hacktoberbest](https://hacktoberfest.digitalocean.com/). But I was lost with the plenty of opensource projects to choose from. In 2015, I had a [first failed attempt](../ace-your-outreachy-application/#not-every-attempt-is-successful), but I was very determined in 2016. The entire October went with selecting projects until I settled down with the dev tools debugger project. It took another 3 months of observation into the project before I was confident of claiming the first issue.
-
-### Reality #1
-
-> Although I was comfortable after my first pull request, finding the time to work on more contributions was constantly challenging.
-
-## Guilt
-
-When not being able to find the time to work on opensource, there was the guilt factor for leaving a pull request open for more than 2 weeks, or claiming an issue to work on but not being able to commit to work on it.
-
-### Reality #2
-
-> You have to learn to say NO without feeling guilty.
-
-## Motivation
-
-When you have the motivation it is easy to find the time to work on something. As I recall today, it does seem funny, but I wanted to get into opensource to have more green boxes in my [Github profile](https://github.com/princiya).
+It is very important to have a personal motivation before deciding to contribute to opensource. As I recall today, it does seem funny, but I wanted to get into opensource to have more green boxes in my [Github profile](https://github.com/princiya).
 
 ![Github contribution graph](./github-graph.gif)
 
-Today, I am happy with my opensource contribution graph.
+Then there was the give-back motivation; by contributing to opensource I would be able to give-back to the community for using opensource in one form or another. There was also the Hacktoberfest motivation to get some goodies in return for contributing.
 
-### Reality #3
+## Time is a crucial factor
 
-> An all green github graph is just a myth! Whoever has one, did not escape the [burnout](https://opensource.com/article/20/3/burnout).
+Hoping to land my first-time contribution, I started observing 2016’s [Hacktoberfest](https://hacktoberfest.digitalocean.com/). But I was lost with the plenty of opensource projects to choose from. In 2015, I had a [first failed attempt](../ace-your-outreachy-application/#not-every-attempt-is-successful), but I was very determined in 2016. The entire October went with selecting projects until I settled down with the Firefox devtools debugger project. It took another 3 months of observation into the project before I was confident of claiming the first issue.
 
-### Imposter Syndrome
+Although I was comfortable after my first pull request, finding the time to work on more contributions was constantly challenging. Not to forget, it took me `3 months` until I had my first pull request merged!
 
-Whenever someone leaves a comment on an issue or a pull request I have been working on, I immediately get into the 'prove-it-again' bias mode and spend more time figuring out how to explain things in the best way. The feeling of wondering if my pull request is ok or me having explained something in the pull request is ok has not faded away but improved over the years.
+![Time is a crucial factor](./time-is-a-crucial-factor.png)
+
+> Motivation is directly proportional to finding time!
+
+## Learning to say a NO without guilt
+
+When not being able to find the time to work on opensource, I feel guilty for leaving a pull request open for more than 2 weeks, or claiming an issue to work but not being able to commit to working on it.
+
+> As long as there is no paid agreement, I have learned it is totally ok to let the maintainers know about not being able to work on the claimed issues.
+
+## Having a work culture to support opensource contributions
+
+Not everyone gets to work at a company which gives an opportunity to contribute to opensource as part of the daily work. When this is the case, it's best to talk to the concerned person and see if there is a way.
+
+At [Curalie](../i-was-interim-cto) we have learning Fridays where employees can choose what they want to do; participation in opensource is highly encouraged. In the past, when I was working at Zalando I was very much interested in contributing to opensource and I changed teams to work as an Opensource Manager.
+
+I was one of the panelists last year for an online event to discuss about [diverisy in opensource](https://princiya777.wordpress.com/2019/04/07/diverse-maintainers-in-open-source/). An interesting insight was how parents (especially women) are affected from contributing to opensource when there is not a supportive work culture.
+
+## Working in the open
+
+I still remember the days how I used to fret when I was sitting next to my boss during the initial weeks of my first job as a Programmer. I used to be constantly conscious during our pair programming sessions. With practice and time I got through this fear and anxiety.
+
+Similarly, contributing to opensource means working in the open; the code and the comments are out for the public. Not everyone will be comfortable with this way of working. The opensource community needs to be more sensitive to first time contributors, especially people from under-represented groups given that the [imposter syndrome](https://princiya777.wordpress.com/2017/07/16/am-i-a-fraud/) is prevalent.
+
+I am not a native English language speaker. Some of the things which helped me gain confidence as a first-time contributor were:
+
+- Maintainers ignoring the grammatical errors made in a pull request while naming variables or functions
+- Ensuring open and clear communication and not using abbreviations in comments
+- Not treating any question asked as stupid
+
+![Not a native English speaker](./not-a-english-speaker.png)
+
+## Toxic people everywhere
+
+Whenever someone leaves a comment on an issue or a pull request I have been working on, I immediately get into the `prove-it-again` bias mode and spend more time figuring out how to explain things in the best way. The feeling of wondering if my pull request is ok or me having explained something in the pull request is ok has not faded away but improved over the years.
 
 Once I opened an issue and it was marked as duplicate. The imposter feeling kicked in and was preventing me from further exploring issues.
 
-As for the horrible experience considered, my first nightmare was when someone commented on an issue I tried to help with a negative comment.
+As for the horrible experience considered, my first nightmare was when someone commented on an issue I tried to help with a negative comment. I was using [flow](https://flow.org/) in one of the projects and I ran into an issue while using `flow` with `Docker`. My intention was to be a good samaritan, so I went up and left a comment describing the solution that worked for me. But I received the below negative reaction instead.
 
-![Negative reaction received on Github](./github.png)
+![Negative reaction received on Github](./github-negative-issue-comment.jpeg)
 
 > Why do you still use this ugly hack instead of just installing xxxxxxxxxx?
 
-What was bad about this comment, you may ask. Firstly, you cannot expect everyone to be at the same level as you in the opensource world. Obviously, I didn't know why the person referred it to be a hack and using `ugly` alongside made it even worse.
+What was bad about this comment, you may ask. Firstly, people are at different experience levels in the opensource world. Obviously, I didn't know why the person referred it to be a hack and using `ugly` alongside made it even worse. I kept thinking about this person's comment for a good number of days and it made me question my imposter once again. Had the person offered to give constructive feedback instead it would have helped me to understand what was wrong about my solution given my background of not knowing how alpine packages work.
 
-### Reality #4
+## It is unpaid work
 
-> I kept thinking about this person's comment for a good number of days and it made me question my [imposter](https://princiya777.wordpress.com/2017/07/16/am-i-a-fraud/) once again.
+![Example of a badly reported issue](./bad-issue-comment.png)
 
-**Tip:** When you offer to give suggestions, write an explanation why you think they are relevant. From the above example, it would have been very helpful for me to know what was hacky about my solution.
+Most of the maintainers do a lot of the opensource work for free! Another example I can recall of a bad experience is when I added `+1` to an already reported issue. I was a bit disappointed as to why the maintainer had downvoted my comment. I discussed this point with another maintainer, and he explained why this was not a good practice.
 
-## #5: Diversity
+Reporting issues is good, but mere spamming with unnecessary comments doesn't help anyone. In the example above, what would have helped the maintainer was me being able to replicate the issue, write detailed steps, and help them debug the issue rather than write `+1` as a comment. While we have the best intentions to contribute to opensource, we need to be mindful of everyone's time and try to do our bit to improve maintainers' life rather than just complaining. Reporting issues certainly helps maintainers to get feedback, but a lot of incomplete issues will only make their life terrible.
 
-Although there is a huge [gender gap](https://princiya777.wordpress.com/2018/04/04/working-in-the-open/) in opensource, the diversity count for opensource is definitely improving! Contributing to opensource means you are working in the open, the code is out for the public. Not everyone will be comfortable with this kind of way of working.
+A colleague of mine was once complaining about how an opensource project, although very good, wasn't up-to-date and was blaming the maintainers as to why they could not spend time maintaining it. I advised him to contribute to the project himself and thereby help the maintainers.
 
-I still remember the days how I used to fret when I was sitting next to my boss during the initial weeks of my first job as a Programmer. I used to be constantly conscious during our pair programming sessions. As with anything else, with practice and time I got through this fear and anxiety.
+## Conclusion
 
-The opensource community needs to be more sensitive to first time contributors, especially people from under-represented groups given that the imposter syndrome is prevalent.
+I certainly had a great first-time contributor experience when I contributed to the Firefox devtools debugger project. The debugger community did a great job of onboarding new contributors, they had a good documentation. The maintainers were available on slack for further questions and discussions. Most important, they had a good code of conduct.
 
-> Avoid nit-picking for first-time contributors.
+In this post I tried to highlight some of the things that people usually don't talk about but realise only after contributing or getting frustrated in an attempt to land their contributions. 
 
-![Avoid nit-picking for first-time contribution](./nit-pick.png)
+- It is very important to have a personal motivation
+- Motivation is proportional to finding the time to contribute
+- Motivation can be to learn something new, to earn money or use open source as a career bridge if you are unable to work full-time due to personal reasons
+- One also needs to have a supportive environment to find the time to contribute; be it a supporting employer, family or university
+- Nothing is easy, and opensource is not easy too
+- We need to get used to the culture of working in open
+- We are bound to find good as well as bad people
 
-### Reality #5
+## The key takeaway
 
-> Not everyone is a native English language speaker.
-
-Hence you can ignore the grammatical errors while naming variables or functions. Also, avoid using abbreviations as much as possible to avoid nit-picking for first-time contributors.
-
-### Free work
-
-Another example I can recall of a bad experience is when I added `+1` to an already reported issue. I was a bit disappointed as to why the maintainer had downvoted my comment. I discussed this point with another maintainer, and he explained why this was not a good practice.
-
-![Example of a badly reported issue](./bad-issue-example.png)
-
-**Tip:** It helps a maintainer when you explain in detail. In the example above, what would have helped the maintainer was me being able to replicate the issue, write detailed steps, and help them debug the issue rather than write `+1` as a comment.
-
-### Reality #6
-
-> Most of the maintainers do a lot of the opensource work for free!
-
-While we have the best intentions to contribute to opensource, we need to be mindful of everyone's time and try to do our bit to improve maintainers' life rather than just complaining. Reporting issues certainly helps maintainers to get feedback, but a lot of incomplete issues will only make their life terrible.
-
-At work, a colleague of mine was once complaining about how an opensource project, although very good, wasn't up-to-date and was blaming the maintainers as to why they could not spend time maintaining it. I advised him to contribute to the project himself and thereby help the maintainers.
-
-### Respect
-
-The following incident happened to a repository I have been maintaining. There is no point venting your frustration unless you are offering to be helpful.
-
-![Example of a bad comment for Lightbeam](./lightbeam-bad-example.png)
-
-### Reality #7
-
-> Every contributor and maintainer deserves respect.
-
-Remember that most of the opensource contributions happen for free of cost. Be respectful of the contributors' and maintainers' blood, energy, and sweat.
+> Showing empathy and respect to every contributor and maintainer is the fundamental thing everyone can do to keep opensource healthy and sustainable.
 
 ---
 
-**Notes**: The illustrations used in this post are from [blush.design](https://blush.design/) and the images were worked out using [vectr](https://vectr.com/).
+Can you recall your first-time experience of creating a pull request or opening an issue to an opensource project? What is the one thing you can recall about what went well or a horrible experience you have had?
