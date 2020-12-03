@@ -1,33 +1,166 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[P's Blog RSS Feed]]></title><description><![CDATA[Personal blog by Princiya Sequeira]]></description><link>http://princiya.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 29 Nov 2020 18:03:40 GMT</lastBuildDate><item><title><![CDATA[How to decide what not to do?]]></title><description><![CDATA[Learning to manage priorities by deciding what not to do.]]></description><link>http://princiya.com/blog/learn-what-not-to-do/</link><guid isPermaLink="false">http://princiya.com/blog/learn-what-not-to-do/</guid><pubDate>Sun, 29 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In the previous &lt;a href=&quot;../do-not-be-a-bottleneck&quot;&gt;post&lt;/a&gt;, I wrote about how to get better at delegating tasks.&lt;/p&gt;
-&lt;p&gt;After learning to delegate and getting better at it, the next challenging thing was finding the time to work on my tasks. Delegation meant that others were doing things, but this also meant they had frequent queries, and I had to be there to unblock them. In this post, I will talk about how I managed my time efficiently to unblock others and focus on my tasks to be productive, a.k.a &lt;code class=&quot;language-text&quot;&gt;managing priorities&lt;/code&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[P's Blog RSS Feed]]></title><description><![CDATA[Personal blog by Princiya Sequeira]]></description><link>http://princiya.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 03 Dec 2020 19:26:49 GMT</lastBuildDate><item><title><![CDATA[Procrastination or Elimination?]]></title><description><![CDATA[Learning to manage priorities by deciding what not to do and being productive.]]></description><link>http://princiya.com/blog/procrastination/</link><guid isPermaLink="false">http://princiya.com/blog/procrastination/</guid><pubDate>Thu, 03 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;not-procrastinating-the-important&quot;&gt;&lt;a href=&quot;#not-procrastinating-the-important&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;code class=&quot;language-text&quot;&gt;Not&lt;/code&gt; procrastinating the important&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Managing priorities === Deciding what not to do now!&lt;/p&gt;
+&lt;p&gt;कल करे सो आज कर, आज करे सो अब कर &lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&quot;40-hour-work&quot;&gt;&lt;a href=&quot;#40-hour-work&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;40 hour work&lt;/h2&gt;
-&lt;p&gt;At Curalie, we follow a 3 week sprint. As a &lt;code class=&quot;language-text&quot;&gt;Lead Engineer&lt;/code&gt; my responsibilities are to ensure that we stick to our sprint commitments and ensure a smooth delivery. The first week is usually meetings, sprint plannings, team retrospective for the previous week, etc. The second week is usually the calm week before the storm hitting us at the third weeek. The last (third) week of the sprint is usually busy, with bug fixes happening and supporting the QA team.&lt;/p&gt;
-&lt;p&gt;If someone from the Frontend team is sick or on vacation, I keep myself on standby and jump into the sprint to fill their void. This means I cancel meetings that are not relevant to the sprint outcome.&lt;/p&gt;
-&lt;h2 id=&quot;weekend-work&quot;&gt;&lt;a href=&quot;#weekend-work&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Weekend work&lt;/h2&gt;
-&lt;p&gt;During the first months of my leadership role, I used to spend lot of hours on the weekend. Sunday evening meants preparing for Monday mornings. I took some time to realise all the management work I had to do was part of work. Until then I was used to the norm that coding and fixing tickets where I contributed to the team’s velocity chart was core work and all the work which dealt with managaing emails, scheduling hiring interviews, or reading through others pull requests or confluence notes etc. was secondary work.&lt;/p&gt;
-&lt;p&gt;Once I got into the mode of accepting the fact that secondary work was part of the primary work too, I got used to the flow.&lt;/p&gt;
-&lt;p&gt;By learning that I had to spend only 8 hours everyday doing office work, I got more time to work on my side projects.&lt;/p&gt;
-&lt;h2 id=&quot;learning-to-identify-what-is-more-important&quot;&gt;&lt;a href=&quot;#learning-to-identify-what-is-more-important&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Learning to identify what is more important&lt;/h2&gt;
-&lt;p&gt;At the time of writing this article, we were on the 3rd sprint week. The bi-weekly accountability blog group was expecting us to have our submissions posted today, 29th November 2020 (I started jotting down my ideas only today). I had to decide on the priorities —&gt; sprint release or publish a blog post. Although, publising blog post is just my side project, which I do for fun. This sprint was busy, mainly due to colleagues’ sickness and vacations. We successfully completed the sprint, but I did not publish the blog on time. Did I lose anything? No, did I gain something? Yes offcourse, my colleagues were very happy, and so were our stakeholders.&lt;/p&gt;
-&lt;h2 id=&quot;everything-cannot-be-achieved-at-once&quot;&gt;&lt;a href=&quot;#everything-cannot-be-achieved-at-once&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Everything cannot be achieved at once&lt;/h2&gt;
-&lt;p&gt;I often have a ton of ideas running in my head when I am working on something. For example: I sat down to write this post, but I have so many ideas that I want to write. Can I include all of them, yes, why not! But, will people read or will it be engaging? Probably not! Now I have to decide what is most important for this article. What is the priority right now? I want readers to read this entire article, so I have to identity what not to write! Tada…&lt;/p&gt;
-&lt;h2 id=&quot;fighting-with-your-brain&quot;&gt;&lt;a href=&quot;#fighting-with-your-brain&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Fighting with your brain&lt;/h2&gt;
-&lt;p&gt;I like to follow some habits like maintaining clean email inboxes —&gt; personal + professional. Recently, I have been getting time to clean my personal inbox only on weekends or once in two weeks. There is something that triggers my brain when I see the unread email / slack notification count in the browser and I want to act on it immediately. But, I stop by and ask myself, is it important? Can it wait? If it’s not important and it can wait, then why not!&lt;/p&gt;
-&lt;h2 id=&quot;too-many-things-yet-too-little-time&quot;&gt;&lt;a href=&quot;#too-many-things-yet-too-little-time&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Too many things, yet too little time&lt;/h2&gt;
-&lt;p&gt;There are only 24 hours in a day. Sometimes I have productive weekends, sometimes lazy. Why are the lazy weekends not considered productive? It is just a thing to convince my brain. What matters in the end is really if I was happy or not. If my body wants to sleep the whole day, then why not? Why is it called lazy? If I like a particular Netflix episode and want to binge watch it, then why not? But don’t stress the eyes, that’s the only important thing.&lt;/p&gt;
-&lt;h2 id=&quot;finding-the-niche-area&quot;&gt;&lt;a href=&quot;#finding-the-niche-area&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Finding the niche area&lt;/h2&gt;
-&lt;p&gt;Starting yesterday, I have uninstalled Facebook and Twitter apps on my mobile phone. Why? Because I want to be productive. I want to be productive in what I do. This year has been incredibly well for me. I have been promoted at work and plus I now successfully balance my time with two jobs. My secondary job is being a Developer coach.&lt;/p&gt;
-&lt;h2 id=&quot;how-to-be-productive&quot;&gt;&lt;a href=&quot;#how-to-be-productive&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;How to be productive&lt;/h2&gt;
+&lt;p&gt;This is a popular Hindi verse written by &lt;a href=&quot;https://en.wikipedia.org/wiki/Kabir&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Kabir Das&lt;/a&gt;. It means the following -&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;http://princiya.com/blog/blog/static/2249d350ae757ef830d183a90719818c/c1daa/kabir-dohe.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 27.12691771269177%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsSAAALEgHS3X78AAAA5klEQVQY04WQ226DQAxE+f//4iWIIG5SRWhId4EmXAIqtwCB0wVVfYqUkSyPZ6xd2xpvsMwzRZ5TFAVZlpH/cVh3P5aSMAxxXZeyLNG+spbzrSEuOxIV31WPJypk0XKtH/iXDNfzMQ4HbNsmiiLMo0WQ1Kq3IzxHeJ6Lrus4joPWj0/6caYZJjb+mJ5U7bjnQekqvUSnvPWFrr1buW8bNYGHYRiYpkldV/9eksQIIZimiWVZWNcVTeQtn9cf0nu/r7nVvqwQim/ahyxJ0pTT6YRlHbnIlCjvudUDQRDsn83qzhu2B38B0fB7nUSZynUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;English version of Kabir ke Dohe&quot;
+        title=&quot;&quot;
+        src=&quot;http://princiya.com/blog/blog/static/2249d350ae757ef830d183a90719818c/799d3/kabir-dohe.png&quot;
+        srcset=&quot;/blog/static/2249d350ae757ef830d183a90719818c/00d96/kabir-dohe.png 148w,
+/blog/static/2249d350ae757ef830d183a90719818c/0b23c/kabir-dohe.png 295w,
+/blog/static/2249d350ae757ef830d183a90719818c/799d3/kabir-dohe.png 590w,
+/blog/static/2249d350ae757ef830d183a90719818c/2a3d6/kabir-dohe.png 885w,
+/blog/static/2249d350ae757ef830d183a90719818c/ae92f/kabir-dohe.png 1180w,
+/blog/static/2249d350ae757ef830d183a90719818c/c1daa/kabir-dohe.png 1434w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;If an email can be answered right away, then I prefer to reply instantly. If a slack message can be attended instantly, I do it so. It helps me take off the mental load about too many pending tasks for the day. Offcourse like I wrote earlier, priorities are important and have decided not to reply to interview applicants right away when the sprint was in a crucial phase. This instance was not about procrastination but rather realising what not to do for that time period.&lt;/p&gt;
+&lt;h3 id=&quot;being-productive-by-being-lazy&quot;&gt;&lt;a href=&quot;#being-productive-by-being-lazy&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;being productive by being lazy&lt;/h3&gt;
+&lt;p&gt;Sometimes I have productive weekends, sometimes lazy. Why are the lazy weekends not considered productive? It is just a thing to convince my brain. What matters in the end is really if I was happy or not. If my body wants to sleep the whole day, then why not? Why is it called lazy? If I like a particular Netflix episode and want to binge watch it, then why not? The only priority to keep in mind is not to stress the eyes or mind.&lt;/p&gt;
+&lt;p&gt;I also apply the same principle at work. Not every day is a sunny day. Sometimes I don’t feel like working, but as long as I admit it and use to do something else, I am fine with it. Not acknowledging this fact and rather sitting  and staring at the monitor for mircales to happen and solve a problem will not serve the purpose. If you are my employer or colleague reading this, please don’t take me wrong. I do accept that I have this feeling, but I instead use to watch or read something interesting or even crack upon a blog idea.&lt;/p&gt;
+&lt;p&gt;It’s a matter of time, and within an hour I would be refreshed enough to get back to work.&lt;/p&gt;
+&lt;p&gt;This year has been fairly well for me 💪 ✌️. I have been promoted at &lt;a href=&quot;../tags/leadership&quot;&gt;Curalie&lt;/a&gt; as Head of Frontend Engineering and plus I now successfully balance my time with two jobs. My secondary (part-time) job is being a Developer coach with &lt;a href=&quot;https://raise.dev/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Raise&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;People who know me personally do know that I am known to be doing multiple things at the same time. Over time I have come to realise that this is a skill which only few possess. Recently I was suprised when I &lt;a href=&quot;../i-was-interim-cto&quot;&gt;discovered&lt;/a&gt; that I could code while also listening and replying in between meetings.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;In this post, I will mainly focus on my primary job!&lt;/em&gt;&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;http://princiya.com/blog/procrastination/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[How to decide what not to do?]]></title><description><![CDATA[Learning to manage priorities by deciding what not to do and being productive.]]></description><link>http://princiya.com/blog/learn-what-not-to-do/</link><guid isPermaLink="false">http://princiya.com/blog/learn-what-not-to-do/</guid><pubDate>Thu, 03 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;http://princiya.com/blog/blog/static/e519c3f3ccf09ef801ec8b9bc98b2c88/f4dcc/steve-job-quote.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 77.14987714987714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAAB30lEQVQ4y5VU2YoiQRDs/38Wn3wSxQMEfVFEGfA+EMcDFS9E8WJ1PPG2ja1IpnYbcXZ2EpLOrs6KisjMagOfdr/fxa3vj8dD3DTNP/5QTpP1ywX34xHXjw+Y57OsG4fDAfv9HlY7f378ygi2envDr0AAm0wG23z+L+BwOITH40EoFEIkEkE4HIbL5UIikcBgMMBoNEIymUQ0GhUvv7/Lxstmg6siIqzVu0k1KjZ2ux0IWiqVkMvl0O12MZlMUCwWkVGnL5dLTKdTtNtt1Gq1b9kbZFEoFHA6nTAejxFQMq7XK5rNprDbbreoVqtYrVbYKFatVgt5JVET4N5up4NUKiWKDLKpVCrCoqM+xONxqWmj0ZDN8/lc1gg6m83g9/vh9XpFAXPq9bqA0dfrNQx2kyffbjd5MomAZJROp6UcPzGD0tiEcrksMu12OxwOB2KxmMgPBoPw+XySbB0fErHGeswMJnJ0WLeLmisdLxYLASFbdpnJemSeY6sbZMaacGzcbrd0knV1Op3o9/vIZrOw2WzSIM1SA76UTDZM0gytxnXWVst7ZvgS8NUt+GrDszzN1hobr+rwL/+2y/87DhqMTI7qh8C5Za05arxNHGo29MeAfPK68irytvR6PXHGPOQ3PmZrgQk15AMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Deciding what not to do - Steve Jobs quote&quot;
+        title=&quot;&quot;
+        src=&quot;http://princiya.com/blog/blog/static/e519c3f3ccf09ef801ec8b9bc98b2c88/799d3/steve-job-quote.png&quot;
+        srcset=&quot;/blog/static/e519c3f3ccf09ef801ec8b9bc98b2c88/00d96/steve-job-quote.png 148w,
+/blog/static/e519c3f3ccf09ef801ec8b9bc98b2c88/0b23c/steve-job-quote.png 295w,
+/blog/static/e519c3f3ccf09ef801ec8b9bc98b2c88/799d3/steve-job-quote.png 590w,
+/blog/static/e519c3f3ccf09ef801ec8b9bc98b2c88/f4dcc/steve-job-quote.png 814w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;This is part 2 of the &lt;a href=&quot;../tags/transition&quot;&gt;series&lt;/a&gt;, where I summarise how the transition was for me from an individual contributor to a lead role. In the previous &lt;a href=&quot;../do-not-be-a-bottleneck&quot;&gt;post&lt;/a&gt;, I wrote about how I got better at delegating tasks.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;After learning to delegate and getting better at it, the next challenging thing was finding the time to work on my tasks. While delegation meant others were doing things, it also meant they had frequent queries. I was being interrupted often to unblock them while working on my tasks being delegated to me by my seniors. In this post, I will talk about how I managed my time efficiently to focus on my tasks to be productive, a.k.a &lt;code class=&quot;language-text&quot;&gt;managing priorities&lt;/code&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Managing priorities === Deciding what not to do&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;not-doing-additional-hours&quot;&gt;&lt;a href=&quot;#not-doing-additional-hours&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;code class=&quot;language-text&quot;&gt;Not&lt;/code&gt; doing additional hours&lt;/h2&gt;
+&lt;p&gt;As a Lead Engineer at &lt;a href=&quot;../tags/leadership&quot;&gt;Curalie&lt;/a&gt;, my responsibilities are to ensure that we stick to our sprint commitments across multiple feature teams and ensure a smooth, continuous product delivery. In a 3-week sprint, the last week is mostly busy for me, with bug fixes happening and supporting the QA team. If someone from the Frontend team is sick or on vacation, I need to jump in to fill their void. This is part-1 of my responsibility. Part-2 of my responsibility includes the following:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Manage priorities&lt;/li&gt;
-&lt;li&gt;Identify what not to do&lt;/li&gt;
-&lt;li&gt;Identify what is important, and the need for  the hour&lt;/li&gt;
-&lt;li&gt;All the other things can go into the backlog&lt;/li&gt;
-&lt;li&gt;Based on time, they might seem less relevant later&lt;/li&gt;
+&lt;li&gt;reading and replying to emails&lt;/li&gt;
+&lt;li&gt;cross-team discussions&lt;/li&gt;
+&lt;li&gt;scheduling hiring interviews&lt;/li&gt;
+&lt;li&gt;reviewing others pull requests&lt;/li&gt;
+&lt;li&gt;pair programming to unblock others&lt;/li&gt;
+&lt;li&gt;documenting things&lt;/li&gt;
+&lt;li&gt;1:1 with direct reports&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;I had accustomed to the norm that writing code or closing tickets myself was core work. All the work which dealt with managing as secondary work. As a result, during the initial months, I used to spend a lot of hours on the weekend. Saturday mornings or Sunday evenings meant writing code I could not complete during the week due to the management tasks.&lt;/p&gt;
+&lt;p&gt;I had to learn not to do additional hours, especially on weekends, but instead realize that I was doing my job, although not coding all the time.&lt;/p&gt;
+&lt;h2 id=&quot;everything-is-not-important&quot;&gt;&lt;a href=&quot;#everything-is-not-important&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Everything is &lt;code class=&quot;language-text&quot;&gt;not&lt;/code&gt; important&lt;/h2&gt;
+&lt;p&gt;While accepting the fact that the management work was now part of my core work, I had to maintain a healthy balance between my tasks. The second thing I learned was that not everything is important.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What is important doesn’t have to include doing everything at once!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I like to have a clean email inbox and often have the tendency to reply to an email or respond to a slack message instantly. Given that I have decided to stick to my commitments to not over-work, when the sprint is in a crucial phase I decide to let the hiring application emails wait for sometime while concentrating on the sprint tasks.&lt;/p&gt;
+&lt;h3 id=&quot;how-to-identify-what-is-not-important&quot;&gt;&lt;a href=&quot;#how-to-identify-what-is-not-important&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;How to identify what is &lt;code class=&quot;language-text&quot;&gt;not&lt;/code&gt; important&lt;/h3&gt;
+&lt;p&gt;At the time of writing this article, we were in the 3rd sprint week. The &lt;a href=&quot;https://bloggingfordevs.com/pro/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;bi-weekly accountability blog group&lt;/a&gt; was expecting us to have our submissions ready on 29th November 2020, the day I started jotting down my ideas for this post. I had to decide on the priorities —&gt; sprint release or publish a blog post. The sprint was busy, mainly due to colleagues’ sickness and vacations. We completed the sprint, but I did not publish the blog on time. Did I lose anything? No! Did I gain something? Yes, my colleagues and our stakeholders were very happy for a timely release despite being understaffed.&lt;/p&gt;
+&lt;p&gt;Another example is leaving &lt;code class=&quot;language-text&quot;&gt;n&lt;/code&gt; number of browser tabs open to read everything. I personally do not like the chaos here and try to optimize as much as possible. If something can be read immediately, then I read it right away. If I am sure not to read it today, tomorrow, or even the next couple of days, then I bookmark it. I still struggle to manage my bookmarks, but it’s a topic for another blog post 😬.&lt;/p&gt;
+&lt;p&gt;How is this example relevant to managing priorities or deciding what not to do? It is these small habits that help us better align our brain to do what we want to do. Building up to the above two rules that I mentioned -&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;how much can I read in one day&lt;/li&gt;
+&lt;li&gt;what is really important to read for today&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;elimination-of-non-priorities&quot;&gt;&lt;a href=&quot;#elimination-of-non-priorities&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Elimination of non-priorities&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nobody is busy; it is only a matter of prioritising what is important!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Having said all of the above, I do have a lot to do, but I never consider myself busy. I do feel overwhelmed at times, but I have got better with time in learning to identify the less important things.&lt;/p&gt;
+&lt;p&gt;Often during sprint planning, everything seems to be important. To stay focused on our sprint goals I constantly ask our product owners “why do we need this feature or a bug fix”. WHY is a simple word, yet a powerful decisive factor when answered right. At one point, when the team was going through a stressful time period we even decided to reduce the sprint scope. The health and well-being of our colleagues were above the sprint goal.&lt;/p&gt;
+&lt;p&gt;Another example I can recall from a friend when she was a first-time mother is that when her baby slept during the day all she could think of was if to eat, take a shower or use the toilet peacefully without getting interrupted. These words have stuck to me eversince and always force me to think about my priorities for the moment. The house could remain uncleaned and so the dishes; it’s only by saying NO that she could concentrate on the things that really mattered.&lt;/p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;&lt;a href=&quot;#conclusion&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Timing is everything! Once we learn to identify the important things, it gets better over time to decide sooner what not to do. In the next post in this &lt;a href=&quot;../tags/transition&quot;&gt;series&lt;/a&gt;, I will talk about one of the time management strategies called the &lt;a href=&quot;https://en.wikipedia.org/wiki/Time_management&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Eisenhower Method&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;http://princiya.com/blog/blog/static/96154f43b248d5758c951bc10374076f/94061/eisenhower-method.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 55.952380952380956%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABc0lEQVQoz31T7XaDIAz1/R9uf7a16zZ1tfVjWhUVARG8A6yd7drlnJyQEC+5SfRgZJqmP7rET98CcdiDlIONQOv5zvp5zNHUEsdguQc8nGUNsracKZesRnPmHIwxFx+EguAKUmhUhTC+ngFvK7rYVXwRC9afAW211zLnuwqLlOPrvXMU0gNzr1+nzsKHAQMX+E8coFIT5KChjVXjXPokBOSpwEiIU2W0LwpkpELeN8hpg7itULIOWUcQ1jlO5uzd0tJag/Y9aF2j9QPQJAGvarAwRGn8IEuwTQ/w8wRvaeTsLonwGgXYF9lvDxe1UxzHEVIp1FKglQOIYCDKWNZDdNRQMiwsddOCyTyOVVHeo15wA/QUB3jJIjxne2zzI+K6RBcdwHwfdLMB3e3Qf35AnQflhkLbEYyOsLZrJFoi3TrcE2HWZpnyulFrhl5pFreppJuwnXaecAd+m3hZG0vxzt0F8BHlOfH6I2Emb5f73t+1xH4AwFpawWxfXiMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;eisenhower-method&quot;
+        title=&quot;&quot;
+        src=&quot;http://princiya.com/blog/blog/static/96154f43b248d5758c951bc10374076f/799d3/eisenhower-method.png&quot;
+        srcset=&quot;/blog/static/96154f43b248d5758c951bc10374076f/00d96/eisenhower-method.png 148w,
+/blog/static/96154f43b248d5758c951bc10374076f/0b23c/eisenhower-method.png 295w,
+/blog/static/96154f43b248d5758c951bc10374076f/799d3/eisenhower-method.png 590w,
+/blog/static/96154f43b248d5758c951bc10374076f/2a3d6/eisenhower-method.png 885w,
+/blog/static/96154f43b248d5758c951bc10374076f/ae92f/eisenhower-method.png 1180w,
+/blog/static/96154f43b248d5758c951bc10374076f/94061/eisenhower-method.png 1428w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We encounter ideas all the time and often want to do everything at once. But time is limited. We only have 24 hours in a day. At work, I often encounter this situation. Before learning the art of delegation, I did take it on me to do everything. I was naturally interested in doing many things or dive into different topics, for example, automating tests, fixing security bugs, web performance, GraphQL, Amplify, DynamoDB, the list goes on. I will explain more in detail on how to effectively use the Eisenhower method to be efficient and productive.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meanwhile, let me know the things you have learned not to do to increase your productivity!&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;http://princiya.com/blog/learn-what-not-to-do/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item><item><title><![CDATA[Are you a bottleneck in your team?]]></title><description><![CDATA[Unlearn from doing everything yourself and learn to delegate.]]></description><link>http://princiya.com/blog/do-not-be-a-bottleneck/</link><guid isPermaLink="false">http://princiya.com/blog/do-not-be-a-bottleneck/</guid><pubDate>Fri, 06 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;span
