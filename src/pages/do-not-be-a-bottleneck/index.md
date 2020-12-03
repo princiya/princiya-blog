@@ -3,7 +3,7 @@ title: Are you a bottleneck in your team?
 date: '2020-11-06'
 spoiler: Unlearn from doing everything yourself and learn to delegate.
 cta: 'Art of delegation'
-tags: ["leadership"]
+tags: ["leadership", "transition"]
 ---
 
 ![Bottleneck](./bottleneck.jpg)
