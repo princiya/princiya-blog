@@ -1,8 +1,8 @@
 ---
-title: How to decide what not to do?
+title: How I learned to manage my time as a new Manager
 date: '2020-12-03'
 spoiler: Learning to manage priorities by deciding what not to do and being productive.
-cta: 'Manage priorities'
+cta: 'Time management tips for new managers'
 tags: ["leadership", "transition"]
 ---
 
@@ -10,7 +10,7 @@ tags: ["leadership", "transition"]
 
 This is part 2 of the [series](../tags/transition), where I summarise how the transition was for me from an individual contributor to a lead role. In the previous [post](../do-not-be-a-bottleneck), I wrote about how I got better at delegating tasks.
 
-*After learning to delegate and getting better at it, the next challenging thing was finding the time to work on my tasks. While delegation meant others were doing things, it also meant they had frequent queries. I was being interrupted often to unblock them while working on my tasks being delegated to me by my seniors. In this post, I will talk about how I managed my time efficiently to focus on my tasks to be productive, a.k.a `managing priorities`.*
+*After learning to delegate and getting better at it, the next challenging thing was finding the time to work on my tasks. While delegation meant others were doing things, it also meant they had frequent queries. I was being interrupted often to unblock them while working on my tasks being delegated to me by my seniors. In this post, I will share time management tips for new managers and talk about how I managed my time efficiently to focus on my tasks to be productive.*
 
 > Managing priorities === Deciding what not to do
 
@@ -61,7 +61,7 @@ Another example I can recall from a friend when she was a first-time mother is t
 
 ## Conclusion
 
-Timing is everything! Once we learn to identify the important things, it gets better over time to decide sooner what not to do. In the next post in this [series](../tags/transition), I will talk about one of the time management strategies called the [Eisenhower Method](https://en.wikipedia.org/wiki/Time_management). 
+Timing is everything! Once I learned to identify the important things, it got better over time to decide what not to do. In the next post in this [series](../tags/transition), I will talk about one of the time management strategies called the [Eisenhower Method](https://en.wikipedia.org/wiki/Time_management). 
 
 ![eisenhower-method](./eisenhower-method.png)
 
