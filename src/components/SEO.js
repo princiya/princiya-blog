@@ -57,8 +57,8 @@ function SEO({ meta, image, title, description, slug, lang = 'en' }) {
                 content: metaDescription,
               },
               {
-                name: 'twitter:summary_large_image',
-                content: 'summary',
+                name: 'twitter:card',
+                content: `summary_large_image`,
               },
               {
                 name: 'twitter:creator',
