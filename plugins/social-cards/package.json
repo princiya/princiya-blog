@@ -1,0 +1,9 @@
+{
+  "name": "social-cards",
+  "private": true,
+  "version": "1.0.0",
+  "author": "Princiya Sequeira",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}

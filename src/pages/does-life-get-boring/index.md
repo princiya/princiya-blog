@@ -1,5 +1,5 @@
 ---
-title: Does life as a software developer ever get boring after years of work
+title: Does life as a software developer ever get boring
 date: '2020-12-05'
 spoiler: Motivational career advice from a mentor to juniors in tech
 cta: 'Career advice for juniors in tech'
