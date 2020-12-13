@@ -1,7 +1,7 @@
 ---
 title: The first problem to solve as a leader
 date: '2020-10-05'
-spoiler: 4 effective patterns to bridge the communication gap
+spoiler: The problem is people and the solution is people
 cta: 'People management'
 tags: ["leadership"]
 ---
