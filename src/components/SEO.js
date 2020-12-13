@@ -41,6 +41,14 @@ function SEO({ meta, image, title, description, slug, lang = 'en' }) {
                 })}
             meta={[
               {
+                name: 'og:image:width',
+                content: 700,
+              },
+              {
+                name: 'og:image:height',
+                content: 300,
+              },
+              {
                 name: 'description',
                 content: metaDescription,
               },
