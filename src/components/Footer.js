@@ -26,7 +26,7 @@ const Footer = ({ marginTop = true }) => (
     </a>{' '}
     &bull;{' '}
     <a
-      href="http://princiya.com/blog/rss.xml"
+      href="https://princiya.com/blog/rss.xml"
       target="_blank"
       rel="noopener noreferrer"
     >

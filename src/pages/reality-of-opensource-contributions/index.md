@@ -14,7 +14,7 @@ I have gone through this phase, and this wasn't exactly what I expected. In this
 
 ## Background
 
-I got into opensource through an [Outreachy](../ace-your-outreachy-application) internship in 2017. After the paid internship, I continued contributing to [Lightbeam](http://princiya.com/) (browser extension to visualise first and third-party web trackers) and subsequently stepped up to maintain the project. I have also contributed to the Firefox devtools debugger project and served as a community maintainer.
+I got into opensource through an [Outreachy](../ace-your-outreachy-application) internship in 2017. After the paid internship, I continued contributing to [Lightbeam](https://princiya.com/) (browser extension to visualise first and third-party web trackers) and subsequently stepped up to maintain the project. I have also contributed to the Firefox devtools debugger project and served as a community maintainer.
 
 ## Time is a crucial factor
 

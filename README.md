@@ -1,4 +1,4 @@
-# [P's Blog](http://princiya.com/blog)
+# [P's Blog](https://princiya.com/blog)
 
 My personal blog. Forked from [Dan Abramov's blog](https://github.com/gaearon/overreacted.io).
 

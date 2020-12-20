@@ -26,8 +26,8 @@ class Bio extends React.Component {
         />
         <div>
           <p style={{ maxWidth: 310, marginBottom: 0 }}>
-            Personal blog by <a href="http://princiya.com">Princiya Sequeira</a>
-            .
+            Personal blog by{' '}
+            <a href="https://princiya.com">Princiya Sequeira</a>.
           </p>
           <p>
             I blog about my journey into a technical leadership role and how I
@@ -35,7 +35,7 @@ class Bio extends React.Component {
             juniors, hiring and interview best practices, scaling
             infrastructures and securing them.
           </p>
-          <a href="http://princiya.com/blog/tags" rel="noopener noreferrer">
+          <a href="https://princiya.com/blog/tags" rel="noopener noreferrer">
             See all blog categories
           </a>
           <Footer marginTop={false} />

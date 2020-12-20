@@ -3,7 +3,7 @@ module.exports = {
     title: 'P`s Blog',
     author: 'Princiya Sequeira',
     description: 'Personal blog by Princiya Sequeira',
-    siteUrl: 'http://princiya.com/blog',
+    siteUrl: 'https://princiya.com/blog',
     social: {
       twitter: '@princi_ya',
     },
@@ -20,7 +20,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `http://princiya.com/blog`,
+        siteUrl: `https://princiya.com/blog`,
       },
     },
     `gatsby-transformer-sharp`,
