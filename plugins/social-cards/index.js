@@ -28,7 +28,7 @@ module.exports = async ({ markdownNode }) => {
             alignmentY: jimp.VERTICAL_ALIGN_MIDDLE,
           },
           300,
-          250
+          220
         )
         .write(location)
     }
