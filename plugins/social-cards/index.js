@@ -25,10 +25,10 @@ module.exports = async ({ markdownNode }) => {
           {
             text: cleanedTitle,
             alignmentX: jimp.HORIZONTAL_ALIGN_LEFT,
-            alignmentY: jimp.VERTICAL_ALIGN_MIDDLE,
+            alignmentY: jimp.VERTICAL_ALIGN_TOP,
           },
           280,
-          220
+          150
         )
         .write(location)
     }
