@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[P's Blog RSS Feed]]></title><description><![CDATA[Personal blog by Princiya Sequeira]]></description><link>https://princiya.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Jan 2021 16:41:33 GMT</lastBuildDate><item><title><![CDATA[Automated GIFs for social sharing]]></title><description><![CDATA[Add GIFs for social sharing cards using Gatsby]]></description><link>https://princiya.com/blog/gif-for-social-card-images-gatsby/</link><guid isPermaLink="false">https://princiya.com/blog/gif-for-social-card-images-gatsby/</guid><pubDate>Fri, 08 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://princiya.com/blog/blog/6ae8be663a62ca68f1f863548e6ac8ce/card.gif&quot; alt=&quot;Add GIFS for social sharing using Gatsby&quot;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[P's Blog RSS Feed]]></title><description><![CDATA[Personal blog by Princiya Sequeira]]></description><link>https://princiya.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 21 Feb 2021 08:37:09 GMT</lastBuildDate><item><title><![CDATA[Automated GIFs for social sharing]]></title><description><![CDATA[Add GIFs for social sharing cards using Gatsby]]></description><link>https://princiya.com/blog/gif-for-social-card-images-gatsby/</link><guid isPermaLink="false">https://princiya.com/blog/gif-for-social-card-images-gatsby/</guid><pubDate>Fri, 08 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://princiya.com/blog/blog/6ae8be663a62ca68f1f863548e6ac8ce/card.gif&quot; alt=&quot;Add GIFS for social sharing using Gatsby&quot;&gt;&lt;/p&gt;
 &lt;h1 id=&quot;coming-soon&quot;&gt;&lt;a href=&quot;#coming-soon&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;COMING SOON&lt;/h1&gt;
 &lt;p&gt;A detailed tutorial post on how to add GIFS for social sharing cards using Gatsby.&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/gif-for-social-card-images-gatsby/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
@@ -32,56 +32,6 @@
 &lt;p&gt;Nothing is easy and you need to keep learning and working hard all the time. Work hard, but smart!&lt;/p&gt;
 &lt;p&gt;I wish you all the best!&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/does-life-get-boring/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
-              </content:encoded></item><item><title><![CDATA[Procrastination or Elimination?]]></title><description><![CDATA[Learning to manage priorities by deciding what not to do and being productive.]]></description><link>https://princiya.com/blog/procrastination/</link><guid isPermaLink="false">https://princiya.com/blog/procrastination/</guid><pubDate>Thu, 03 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;not-procrastinating-the-important&quot;&gt;&lt;a href=&quot;#not-procrastinating-the-important&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;code class=&quot;language-text&quot;&gt;Not&lt;/code&gt; procrastinating the important&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;कल करे सो आज कर, आज करे सो अब कर &lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;This is a popular Hindi verse written by &lt;a href=&quot;https://en.wikipedia.org/wiki/Kabir&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Kabir Das&lt;/a&gt;. It means the following -&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://princiya.com/blog/blog/static/2249d350ae757ef830d183a90719818c/c1daa/kabir-dohe.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 27.12691771269177%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsSAAALEgHS3X78AAAA5klEQVQY04WQ226DQAxE+f//4iWIIG5SRWhId4EmXAIqtwCB0wVVfYqUkSyPZ6xd2xpvsMwzRZ5TFAVZlpH/cVh3P5aSMAxxXZeyLNG+spbzrSEuOxIV31WPJypk0XKtH/iXDNfzMQ4HbNsmiiLMo0WQ1Kq3IzxHeJ6Lrus4joPWj0/6caYZJjb+mJ5U7bjnQekqvUSnvPWFrr1buW8bNYGHYRiYpkldV/9eksQIIZimiWVZWNcVTeQtn9cf0nu/r7nVvqwQim/ahyxJ0pTT6YRlHbnIlCjvudUDQRDsn83qzhu2B38B0fB7nUSZynUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;English version of Kabir ke Dohe&quot;
-        title=&quot;&quot;
-        src=&quot;https://princiya.com/blog/blog/static/2249d350ae757ef830d183a90719818c/799d3/kabir-dohe.png&quot;
-        srcset=&quot;/blog/static/2249d350ae757ef830d183a90719818c/00d96/kabir-dohe.png 148w,
-/blog/static/2249d350ae757ef830d183a90719818c/0b23c/kabir-dohe.png 295w,
-/blog/static/2249d350ae757ef830d183a90719818c/799d3/kabir-dohe.png 590w,
-/blog/static/2249d350ae757ef830d183a90719818c/2a3d6/kabir-dohe.png 885w,
-/blog/static/2249d350ae757ef830d183a90719818c/ae92f/kabir-dohe.png 1180w,
-/blog/static/2249d350ae757ef830d183a90719818c/c1daa/kabir-dohe.png 1434w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;If an email can be answered right away, then I prefer to reply instantly. If a slack message can be attended instantly, I do it so. It helps me take off the mental load about too many pending tasks for the day. Offcourse like I wrote earlier, priorities are important and have decided not to reply to interview applicants right away when the sprint was in a crucial phase. This instance was not about procrastination but rather realising what not to do for that time period.&lt;/p&gt;
-&lt;h3 id=&quot;being-productive-by-being-lazy&quot;&gt;&lt;a href=&quot;#being-productive-by-being-lazy&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;being productive by being lazy&lt;/h3&gt;
-&lt;p&gt;Sometimes I have productive weekends, sometimes lazy. Why are the lazy weekends not considered productive? It is just a thing to convince my brain. What matters in the end is really if I was happy or not. If my body wants to sleep the whole day, then why not? Why is it called lazy? If I like a particular Netflix episode and want to binge watch it, then why not? The only priority to keep in mind is not to stress the eyes or mind.&lt;/p&gt;
-&lt;p&gt;I also apply the same principle at work. Not every day is a sunny day. Sometimes I don’t feel like working, but as long as I admit it and use to do something else, I am fine with it. Not acknowledging this fact and rather sitting  and staring at the monitor for mircales to happen and solve a problem will not serve the purpose. If you are my employer or colleague reading this, please don’t take me wrong. I do accept that I have this feeling, but I instead use to watch or read something interesting or even crack upon a blog idea.&lt;/p&gt;
-&lt;p&gt;It’s a matter of time, and within an hour I would be refreshed enough to get back to work.&lt;/p&gt;
-&lt;p&gt;This year has been fairly well for me 💪 ✌️. I have been promoted at &lt;a href=&quot;../tags/leadership&quot;&gt;Curalie&lt;/a&gt; as Head of Frontend Engineering and plus I now successfully balance my time with two jobs. My secondary (part-time) job is being a Developer coach with &lt;a href=&quot;https://raise.dev/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Raise&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;People who know me personally do know that I am known to be doing multiple things at the same time. Over time I have come to realise that this is a skill which only few possess. Recently I was suprised when I &lt;a href=&quot;../i-was-interim-cto&quot;&gt;discovered&lt;/a&gt; that I could code while also listening and replying in between meetings.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;In this post, I will mainly focus on my primary job!&lt;/em&gt;&lt;/p&gt;
-                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/procrastination/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item><item><title><![CDATA[How I learned to manage my time as a new Manager]]></title><description><![CDATA[Learning to manage priorities by deciding what not to do and being productive.]]></description><link>https://princiya.com/blog/learn-what-not-to-do/</link><guid isPermaLink="false">https://princiya.com/blog/learn-what-not-to-do/</guid><pubDate>Thu, 03 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -196,6 +146,86 @@
 &lt;p&gt;&lt;em&gt;We encounter ideas all the time and often want to do everything at once. But time is limited. We only have 24 hours in a day. At work, I often encounter this situation. Before learning the art of delegation, I did take it on me to do everything. I was naturally interested in doing many things or dive into different topics, for example, automating tests, fixing security bugs, web performance, GraphQL, Amplify, DynamoDB, the list goes on. I will explain more in detail on how to effectively use the Eisenhower method to be efficient and productive.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Meanwhile, let me know the things you have learned not to do to increase your productivity!&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/learn-what-not-to-do/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Procrastination or Elimination?]]></title><description><![CDATA[Learning to manage priorities by deciding what not to do and being productive.]]></description><link>https://princiya.com/blog/procrastination/</link><guid isPermaLink="false">https://princiya.com/blog/procrastination/</guid><pubDate>Thu, 03 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;not-procrastinating-the-important&quot;&gt;&lt;a href=&quot;#not-procrastinating-the-important&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;code class=&quot;language-text&quot;&gt;Not&lt;/code&gt; procrastinating the important&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;कल करे सो आज कर, आज करे सो अब कर &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is a popular Hindi verse written by &lt;a href=&quot;https://en.wikipedia.org/wiki/Kabir&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Kabir Das&lt;/a&gt;. It means the following -&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://princiya.com/blog/blog/static/2249d350ae757ef830d183a90719818c/c1daa/kabir-dohe.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 27.12691771269177%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsSAAALEgHS3X78AAAA5klEQVQY04WQ226DQAxE+f//4iWIIG5SRWhId4EmXAIqtwCB0wVVfYqUkSyPZ6xd2xpvsMwzRZ5TFAVZlpH/cVh3P5aSMAxxXZeyLNG+spbzrSEuOxIV31WPJypk0XKtH/iXDNfzMQ4HbNsmiiLMo0WQ1Kq3IzxHeJ6Lrus4joPWj0/6caYZJjb+mJ5U7bjnQekqvUSnvPWFrr1buW8bNYGHYRiYpkldV/9eksQIIZimiWVZWNcVTeQtn9cf0nu/r7nVvqwQim/ahyxJ0pTT6YRlHbnIlCjvudUDQRDsn83qzhu2B38B0fB7nUSZynUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;English version of Kabir ke Dohe&quot;
+        title=&quot;&quot;
+        src=&quot;https://princiya.com/blog/blog/static/2249d350ae757ef830d183a90719818c/799d3/kabir-dohe.png&quot;
+        srcset=&quot;/blog/static/2249d350ae757ef830d183a90719818c/00d96/kabir-dohe.png 148w,
+/blog/static/2249d350ae757ef830d183a90719818c/0b23c/kabir-dohe.png 295w,
+/blog/static/2249d350ae757ef830d183a90719818c/799d3/kabir-dohe.png 590w,
+/blog/static/2249d350ae757ef830d183a90719818c/2a3d6/kabir-dohe.png 885w,
+/blog/static/2249d350ae757ef830d183a90719818c/ae92f/kabir-dohe.png 1180w,
+/blog/static/2249d350ae757ef830d183a90719818c/c1daa/kabir-dohe.png 1434w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;If an email can be answered right away, then I prefer to reply instantly. If a slack message can be attended instantly, I do it so. It helps me take off the mental load about too many pending tasks for the day. Offcourse like I wrote earlier, priorities are important and have decided not to reply to interview applicants right away when the sprint was in a crucial phase. This instance was not about procrastination but rather realising what not to do for that time period.&lt;/p&gt;
+&lt;h3 id=&quot;being-productive-by-being-lazy&quot;&gt;&lt;a href=&quot;#being-productive-by-being-lazy&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;being productive by being lazy&lt;/h3&gt;
+&lt;p&gt;Sometimes I have productive weekends, sometimes lazy. Why are the lazy weekends not considered productive? It is just a thing to convince my brain. What matters in the end is really if I was happy or not. If my body wants to sleep the whole day, then why not? Why is it called lazy? If I like a particular Netflix episode and want to binge watch it, then why not? The only priority to keep in mind is not to stress the eyes or mind.&lt;/p&gt;
+&lt;p&gt;I also apply the same principle at work. Not every day is a sunny day. Sometimes I don’t feel like working, but as long as I admit it and use to do something else, I am fine with it. Not acknowledging this fact and rather sitting  and staring at the monitor for mircales to happen and solve a problem will not serve the purpose. If you are my employer or colleague reading this, please don’t take me wrong. I do accept that I have this feeling, but I instead use to watch or read something interesting or even crack upon a blog idea.&lt;/p&gt;
+&lt;p&gt;It’s a matter of time, and within an hour I would be refreshed enough to get back to work.&lt;/p&gt;
+&lt;p&gt;This year has been fairly well for me 💪 ✌️. I have been promoted at &lt;a href=&quot;../tags/leadership&quot;&gt;Curalie&lt;/a&gt; as Head of Frontend Engineering and plus I now successfully balance my time with two jobs. My secondary (part-time) job is being a Developer coach with &lt;a href=&quot;https://raise.dev/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Raise&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;People who know me personally do know that I am known to be doing multiple things at the same time. Over time I have come to realise that this is a skill which only few possess. Recently I was suprised when I &lt;a href=&quot;../i-was-interim-cto&quot;&gt;discovered&lt;/a&gt; that I could code while also listening and replying in between meetings.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;In this post, I will mainly focus on my primary job!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;write before you’re an expert on a subject; write to become an expert on a subject; share the best of what you’re learning.&lt;/p&gt;
+&lt;p&gt;character, connection, and competence.&lt;/p&gt;
+&lt;h2 id=&quot;using-privilege&quot;&gt;&lt;a href=&quot;#using-privilege&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;using privilege!&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;accept mistakes in public - accountability&lt;/li&gt;
+&lt;li&gt;appreciate others - pull others up&lt;/li&gt;
+&lt;li&gt;improve offboarding, not just onboarding&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;when-only-one-female&quot;&gt;&lt;a href=&quot;#when-only-one-female&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;when only one female&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;don’t say “ladies first”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;building-communities-within-tech-team&quot;&gt;&lt;a href=&quot;#building-communities-within-tech-team&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;building communities within tech team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;biweekly knowledge sharing&lt;/li&gt;
+&lt;li&gt;study accountability groups&lt;/li&gt;
+&lt;li&gt;friday project hack usergroups&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;website-illustrations&quot;&gt;&lt;a href=&quot;#website-illustrations&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;website illustrations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;resources for beautifying websites&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;women-bloggers&quot;&gt;&lt;a href=&quot;#women-bloggers&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;women bloggers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;showcase upcoming women bloggers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;time-management&quot;&gt;&lt;a href=&quot;#time-management&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;time management&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;distribution of responsibilities and time like this graph &lt;a href=&quot;https://shekhargulati.com/2021/01/03/being-chief-technology-officer-lessons-learned-in-my-first-year/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://shekhargulati.com/2021/01/03/being-chief-technology-officer-lessons-learned-in-my-first-year/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/procrastination/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item><item><title><![CDATA[Are you a bottleneck in your team?]]></title><description><![CDATA[Unlearn from doing everything yourself and learn to delegate.]]></description><link>https://princiya.com/blog/do-not-be-a-bottleneck/</link><guid isPermaLink="false">https://princiya.com/blog/do-not-be-a-bottleneck/</guid><pubDate>Fri, 06 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
@@ -707,7 +737,7 @@
 &lt;/ul&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/i-was-interim-cto/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item><item><title><![CDATA[How to ace your Outreachy application]]></title><description><![CDATA[Lessons from a past Outreachy alumna]]></description><link>https://princiya.com/blog/ace-your-outreachy-application/</link><guid isPermaLink="false">https://princiya.com/blog/ace-your-outreachy-application/</guid><pubDate>Sat, 29 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;what-is-outreachy&quot;&gt;&lt;a href=&quot;#what-is-outreachy&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What is Outreachy&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.outreachy.org/apply/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Outreachy&lt;/a&gt; supports diversity in open source &amp;#x26; free software and provides 3 months paid remote internships. Interns are paid an internship stipend of $5,500 USD + $500 USD travel stipend to attend conferences or events.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.outreachy.org/apply/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Outreachy&lt;/a&gt; supports diversity in open source &amp;#x26; free software and provides 3 months paid remote internships. Interns are paid a stipend of $6000 USD.&lt;/p&gt;
 &lt;blockquote class=&quot;twitter-tweet&quot; data-dnt=&quot;true&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Cannot recommend this program enough. Definitely worth participating.. Thank you &lt;a href=&quot;https://twitter.com/outreachy?ref_src=twsrc%5Etfw&quot;&gt;@outreachy&lt;/a&gt; for the best 3 months &lt;a href=&quot;https://t.co/yfsBrRJCJi&quot;&gt;https://t.co/yfsBrRJCJi&lt;/a&gt;&lt;/p&gt;&amp;mdash; Princiya 👧‍ (@princi_ya) &lt;a href=&quot;https://twitter.com/princi_ya/status/900247719985524737?ref_src=twsrc%5Etfw&quot;&gt;August 23, 2017&lt;/a&gt;&lt;/blockquote&gt;
 
 &lt;p&gt;In 2017, I was one of the 39 participants selected for Outreachy’s summer internship. You can read my excitement &lt;a href=&quot;https://princiya777.wordpress.com/2017/05/05/outreachy-suspense-unfolds/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt; and all the Outreachy blog post series &lt;a href=&quot;https://princiya777.wordpress.com/category/outreachy/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
