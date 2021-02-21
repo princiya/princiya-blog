@@ -8,7 +8,7 @@ tags: ["opensource", "advice"]
 
 ## What is Outreachy
 
-[Outreachy](https://www.outreachy.org/apply/) supports diversity in open source & free software and provides 3 months paid remote internships. Interns are paid an internship stipend of $5,500 USD + $500 USD travel stipend to attend conferences or events.
+[Outreachy](https://www.outreachy.org/apply/) supports diversity in open source & free software and provides 3 months paid remote internships. Interns are paid a stipend of $6000 USD.
 
 https://twitter.com/princi_ya/status/900247719985524737
 
