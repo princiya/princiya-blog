@@ -1,4 +1,140 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[P's Blog RSS Feed]]></title><description><![CDATA[Personal blog by Princiya Sequeira]]></description><link>https://princiya.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 21 Feb 2021 08:37:09 GMT</lastBuildDate><item><title><![CDATA[Automated GIFs for social sharing]]></title><description><![CDATA[Add GIFs for social sharing cards using Gatsby]]></description><link>https://princiya.com/blog/gif-for-social-card-images-gatsby/</link><guid isPermaLink="false">https://princiya.com/blog/gif-for-social-card-images-gatsby/</guid><pubDate>Fri, 08 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://princiya.com/blog/blog/6ae8be663a62ca68f1f863548e6ac8ce/card.gif&quot; alt=&quot;Add GIFS for social sharing using Gatsby&quot;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[P's Blog RSS Feed]]></title><description><![CDATA[Personal blog by Princiya Sequeira]]></description><link>https://princiya.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 22 Mar 2021 14:18:42 GMT</lastBuildDate><item><title><![CDATA[Finding my focus]]></title><description><![CDATA[Getting started with the Blogging for Devs Spring Accelerator]]></description><link>https://princiya.com/blog/finding-my-focus/</link><guid isPermaLink="false">https://princiya.com/blog/finding-my-focus/</guid><pubDate>Sun, 21 Mar 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;background&quot;&gt;&lt;a href=&quot;#background&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Background&lt;/h2&gt;
+&lt;p&gt;I signed up for the Blogging for Devs Spring Accelerator program with the intention to gain more Twitter followers, or atleast that was my pitch when I applied to the program. I was not too sure, but in general I wanted to increase my Twitter engagement and visibility. I signed up in early February 2021, the accelerator was due to begin from March 2021. In order to get a feel of how Twitter would treat me, I started tweeting more often.&lt;/p&gt;
+&lt;h3 id=&quot;expectations&quot;&gt;&lt;a href=&quot;#expectations&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Expectations&lt;/h3&gt;
+&lt;p&gt;I was hoping my tweets to get more attention and to be liked my many 😬, after all a little more publicity wouldn’t have harmed me, but thanks to the Twitter’s engagement algorithm, virality works in a different way.&lt;/p&gt;
+&lt;h3 id=&quot;reality&quot;&gt;&lt;a href=&quot;#reality&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reality&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://princiya.com/blog/blog/static/d23ba1d9182f9ead07454e280b5e429e/72325/twitter.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 37.6923076923077%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAABYlAAAWJQFJUiTwAAABP0lEQVQoz1WR207DMAyG+/7PAoIrxNUkEEI8ANo6yuGCg9jWNG167pL82E7TDUtWnOSz89tJlC6xO+QwdYNxmjCME47W4ni0su/7AWVlUJQGe1UgL0ph2K114iFvpNgi4QQOnHNgm+hSFRpKa4nZdFmSV8Iwy8ZxrhQOuZJi0ZIIeO9lrYzBNsvw+fUNR2d8riiRi55z/Ng6TfGSvUpxP7NJ1/enAwK53Y5UBwCiqG4aUlOA2VA0cJWpl86cmws+rzcYhmGRXNc13t4/MAvhdFG4SbeyRpPZkmrmuBhzUrDtevmAKJmdB83AOHpoTYq7Bk3b0X5amFP7wX93ISfhHzyfY1RmrcfltcXqzpGyH+z2+fwQ/s3SGI+LK4vHp3CXxNnFGQTO09A97h8c2s5SPC6zY44/K7QJ+kCHm9uToD8ycG6KPC5S+wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Twitter stats&quot;
+        title=&quot;&quot;
+        src=&quot;https://princiya.com/blog/blog/static/d23ba1d9182f9ead07454e280b5e429e/799d3/twitter.png&quot;
+        srcset=&quot;/blog/static/d23ba1d9182f9ead07454e280b5e429e/00d96/twitter.png 148w,
+/blog/static/d23ba1d9182f9ead07454e280b5e429e/0b23c/twitter.png 295w,
+/blog/static/d23ba1d9182f9ead07454e280b5e429e/799d3/twitter.png 590w,
+/blog/static/d23ba1d9182f9ead07454e280b5e429e/2a3d6/twitter.png 885w,
+/blog/static/d23ba1d9182f9ead07454e280b5e429e/ae92f/twitter.png 1180w,
+/blog/static/d23ba1d9182f9ead07454e280b5e429e/72325/twitter.png 1300w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I got 61 new followers. I tweeted on wide variety of subjects, and below are my observations:&lt;/p&gt;
+&lt;h3 id=&quot;what-didnt-work-♀️&quot;&gt;&lt;a href=&quot;#what-didnt-work-%E2%99%80%EF%B8%8F&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What didn’t work 🙅‍♀️&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Random programming memes. &lt;a href=&quot;https://twitter.com/princi_ya/status/1364887924030857219&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Tweet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;General advice without a personal context. &lt;a href=&quot;https://twitter.com/princi_ya/status/1365267325650280459&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Tweet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;what-worked-&quot;&gt;&lt;a href=&quot;#what-worked-&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What worked 👍&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Meme with a programming example. &lt;a href=&quot;https://twitter.com/princi_ya/status/1364488330742620160&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Tweet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;General advice with a personal context. &lt;a href=&quot;https://twitter.com/princi_ya/status/1365584288838639616&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Tweet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Participating in discussions. &lt;a href=&quot;https://twitter.com/princi_ya/status/1367381320666472451&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Tweet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Detailed &lt;a href=&quot;../ace-your-outreachy-application&quot;&gt;blog post&lt;/a&gt; on submitting Outreachy application. &lt;a href=&quot;https://twitter.com/princi_ya/status/1358824692992249856&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Tweet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I must admit that I was disappointed when tweets like asking for pet animal pictures worked, but mine didn’t. I managed to get over the Twitter fatigue phase and this was a good exercise for me.&lt;/p&gt;
+&lt;h2 id=&quot;not-ready-to-quit-yet&quot;&gt;&lt;a href=&quot;#not-ready-to-quit-yet&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Not ready to quit yet&lt;/h2&gt;
+&lt;p&gt;Although Twitter didn’t work this time, it does not mean it will not work again in the near future. But until then, I had to find my motivation and use the Spring Accelerator as a platform to get back to blogging consistently. I recalled the days when I used to &lt;a href=&quot;https://princiya777.wordpress.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;blog&lt;/a&gt; for fun.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://princiya.com/blog/blog/static/00418b5a7135f5a1d3ec9a0f5a91c287/5309d/old.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 158.79917184265008%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAgCAYAAAASYli2AAAACXBIWXMAABYlAAAWJQFJUiTwAAAF5UlEQVRIx1VWS4wUVRStLRtjXLjTYMZo1JUhI2sXuDAhEbe6kOAnsDCEhW4IRqNBjYAQjEZiVOSzIIDDkDGRyBACYWYYwuDwm+mZYT79qa5P17+rurq6j/e8mtfBl7lTVe+9e9/9nHteG6ZpwrZtEUuJZVloNpvgPN8dx1lft/+3xm/XddS6I+963uh0Omh5vkgMzw8QJTE48jxHFMVoWo5atx0XYRih3++DOr7sbTRMMdKUtZbS6fV6MLKso5Sz1ESH7+0++rKYZSniJFFSFD10u10UokCldruNhuViabWBatNFFIfoFbTToYc99HsOesnnyJb2o7h7TMzVkaaZMhpFkXgWIggoAXJ6FyZYbYqHpocilD32I0ThfWRtiwaBJJqEX9uN1Xs78GDiLYSNo+IRxFiIRr0OU0Kr19ZEamIwgxckmH2whqmZVdgrVVTXKojNSXSSBowkSVFd+Rn/Tn2I2cmdWLv3PvJ4Ap1cDmrHMFuSdN8TD3xJSSohFwijBA9rbSzWAthyWBC24FbnEdpSFN9vobb6B0LrSxStPSjcTyW7LtKsi7yQ3EpGu/0+9GBREslhIVN5J1VpyLJMCpWjnbQZci7JBOLYQeRPIwvHlWKalvmLJH8UFoKKfCZSKFVVMc49LBhHURSscsZz1Z8UE92i9IKKLAaVo7gsTFmcQM3pA+M4VvP8JloMvlgCTrMpQBZgu46tFLhIrFUWH6Faaygs0gPChjqufNelYAQ0hUbpqfLQSxM44kUkSe+vY43zqQg9SpkzMUbPtUEe0Gg00JTuYLfQU+Whcl8UmFBu7OS5WlChMoeCv1yQoIc26Pu+eGai1ZIKu+4glwYXtOgccVMg32xFN+kjSPtqc553B53CQxkB5zmn29XgvzCKVZ/atiub04EnSlHw0ZVweZjleCoChseDKQQ/v3VHGUtLS5ivLOLO7KwQgY0zZ8/hwMGDmJyaKnHXK/s4EqUsTdVB7G8WrOV5cCWaOE5Uq9KwMTIyggOHDuPg94fx6+/HlVy+cgVT07dUYTSFMU8UMg1zSCNeS9LihXJQxJgUiRgTExO4eu06Tp46jQujF7F332d4b8cHOPfnBWGQAtVqVfEcocHc0mAYSHjSko3lihiU4tQXkCYu4iiFMT8/jxsTkyrE2zN38M/4OEZHR8F5nUdVfTGkC2ALRzabtjI8N1dRhsIox4oQhaGVEiY2LBOsi8IkK+iI0Kg2btuOItbAdwT0VYRuHc7KrBwqsOEmhlQTaiJQ+c7qcV5XkvK48VaLEPNlvi5GZJ81j6R2XXKIslN00zMsekZyKedSRe+kf67rQS+5HkVldTPxTCCKgsDWYNbNnyTtQZe028m6cle8igWPHSlCCRMerhmoKLqKJxWwacQTPJWdosMLlNJKdQk1cxm+uwjLrAjmVhSZ8vKijuf7CotsimDdMSMTPgxiYRzXg8lOSTMVVsbbUOZqzQXEgSWEGggeTUWkBHghnuVkcLmYeiTUvuCQl9TY6Bh+OnYCYzeXcbXiY3zyAb7+5hDGL5dEyysiTTtiJFdtxwTb0iU3Hi5i/PZd/H1zBn/dmMZUZRnzpg3ju6/24s3XX8P+b/dj5PxJ7Nm9C9ve2IzRsyeEkSHVrypQEwE14T/JPMZm7uOZfUexYfsnGD5wDFtPX8DwiYvY+sNxGAsLc5i+eR1z929h8eFtLM7dwcrSXWkrSxWItx45jwYpHBevTWDDK5uw4Z2PsfnQb9h2/Dy2/HIGb/94qgQ2C+CyL/1QPTuCga7cBbyMLKlqK/AV4FlxjvPSSYZhwHjiKRgbX8aT27bj6Z17seWLIyWw6UFTgbr0QkGFwp8jkuh2Nx+wNcelS5cwNDSEF58fwgvPbcRLm4bx7KvDePejXXKnkOYFb4ko5opE8wErqy4hnNZxqnlPP0kMpLWQEYi05RpRlxSNRVm63iX9wa1HRf18XAh8EkUJ6mLQQSRiBexw3RPdq5QkidXvmUfLq5JXT4kOmeuP97k+iPP/AWAZPozsyKbiAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Old wordpress blog&quot;
+        title=&quot;&quot;
+        src=&quot;https://princiya.com/blog/blog/static/00418b5a7135f5a1d3ec9a0f5a91c287/799d3/old.png&quot;
+        srcset=&quot;/blog/static/00418b5a7135f5a1d3ec9a0f5a91c287/00d96/old.png 148w,
+/blog/static/00418b5a7135f5a1d3ec9a0f5a91c287/0b23c/old.png 295w,
+/blog/static/00418b5a7135f5a1d3ec9a0f5a91c287/799d3/old.png 590w,
+/blog/static/00418b5a7135f5a1d3ec9a0f5a91c287/2a3d6/old.png 885w,
+/blog/static/00418b5a7135f5a1d3ec9a0f5a91c287/5309d/old.png 966w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Some of those &lt;a href=&quot;https://princiya.com/pages/articles.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;articles&lt;/a&gt; got lot of traction too. I had blogged consistently during my &lt;a href=&quot;https://princiya777.wordpress.com/category/outreachy/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Outreachy&lt;/a&gt; days and didn’t worry about views and likes. I had also used the last six months in 2020 to blog consistently.&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-dnt=&quot;true&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I joined the &lt;a href=&quot;https://twitter.com/bloggingfordevs?ref_src=twsrc%5Etfw&quot;&gt;@bloggingfordevs&lt;/a&gt; community earlier in May this year. 6 months later, I am happy to share my work as I have been able to write consistently following her advice from the newsletters. Thank you &lt;a href=&quot;https://twitter.com/monicalent?ref_src=twsrc%5Etfw&quot;&gt;@monicalent&lt;/a&gt; 🤗&lt;a href=&quot;https://t.co/mM2L4EWXKG&quot;&gt;https://t.co/mM2L4EWXKG&lt;/a&gt; &lt;a href=&quot;https://t.co/kD3OPp7XDx&quot;&gt;https://t.co/kD3OPp7XDx&lt;/a&gt;&lt;/p&gt;&amp;mdash; Princiya 👧‍ (@princi_ya) &lt;a href=&quot;https://twitter.com/princi_ya/status/1340746583588089859?ref_src=twsrc%5Etfw&quot;&gt;December 20, 2020&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;But somewhere in between, I got into the competitive band and lost my focus when success didn’t come to me as I had expected. I am generally optimistic with my life and its choices, but I do have my fair share of blues. And this Twitter drama was one of it. Success does not happen overnight, I am very well aware of this. So I decided to blog again, consistently and most important to have fun. I write, because I like to and it was necessary for me to step back and realise what I was missing the last couple of months.&lt;/p&gt;
+&lt;h2 id=&quot;next-steps&quot;&gt;&lt;a href=&quot;#next-steps&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Next steps&lt;/h2&gt;
+&lt;p&gt;As an immediate first step, I redesigned my blog and improved the landing page.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://princiya.com/blog/blog/static/c6a6848b564e3e54d82915d99d789797/a4cd0/current.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 108.0223880597015%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAACXBIWXMAABYlAAAWJQFJUiTwAAADwElEQVQ4y5VU247cRBD1N/GSj4jEE7wk7+EJrcQH5Ed4YCVYkAApoCSzIZsEsstuQi57Zdi52Dvj8Xguscdjj+1ut9v2odqXySzhAVqqvnd11alTpeV5joQJOEMXfMXRtKIo/pd43gJKl6Y61TzXw8SewJk68D0fjDGwmFUjSRzHpTTzZr+RJElKPZrq3JmJQe8vOJMF/IUPKeXayizLSpFqlPW8HjelaVpBneAM0dKH7wbw/QBRFCEIAnD+HoL/0pQBmuoE/biME1xeGnjx+1sc/XGCvd+O0L7oQ/ICcSoRMQkRS8Kb5kKSmxI8TJGl+VpZ5TJNYnIxyeigOkNYXwLdiXlKa0mAF8jpjs8FeFq5mGUFuZ9fC6KmHiVSoHvUQ+d5F4EfwaGgnPx8AuvcAsskxvoE57sX0F/oCDOBwfGwvLvyY6TKslpZhSGNgi4NO0OY/RHihMFdejjbO0f/jY4Vj2FdjXH8+AS2biPOOEa6Bf1MJ6xjyCJrnEHhOLXClOHNyXFJhxwZgtjDYGTCssdgaYyQ+Zg5MySCk0UMl90OXr5+jfm7eYlSQdQr9vZQPLhf0abIJVIh1tEa2yZau09gGEOFFK4MHU+f7aPd7pBrCabTGQx9CC/wAUn8e/AQuHuXYkDELolJpnPGK9KGSyK5U9JHpgKrwCVcA3hL2vdchP4CaZpSgDKiVUh0c8G+/wFM1ylYKbSls4Q7XYAT0xvWc56UHFSiMkBJFEQQ5IXau5Y56h3hxokpE4JI44mgBynhKNeSEi+VjKwxhuYIk8EMVtfGkoivFMTkzeZ9QTqESKF0VQrrRSk0Z/RA75yi1++T6OjrBvp9gzAdYDKdYjZ/B0ZeXHtX69HUweZGQlmQkGtze4TFlHCb++uP3n9+XdGmaCn5LuvkT2iDEUarMEIUczizBQWJIaPoNXdUYSgl+3fRGoarpn4ICWjTHJfujWybeFdXGko7mVei8N18VydLlSmqHjaHyr0/Dy7RfaUTYQuYZxZOH12QlZwUZbDaE/T2dTimV2XGRsqtq82mwiWVsD4FwjAMKCj09hUOdg+h94zSqoNfD7H95dd49uT5RoUpKFAFHj3OKNL/UOgSZm+fnmL/3iF4IPDNdzu4+fFN3PnsDhHbx61PPoWmafjoxo3GJpijAp9/kaL1S/ahy6tVSNZdYTAwy/XOzre4fes2tra2sPA8tFotfLW9jZ/uP1wrfPkqx4/3VKCKDxUqflljuySuCoJad3s9yu0JpZukYuCURI8ocNWToqyTmxj+DWg3grr9i7uIAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Updated blog layout&quot;
+        title=&quot;&quot;
+        src=&quot;https://princiya.com/blog/blog/static/c6a6848b564e3e54d82915d99d789797/799d3/current.png&quot;
+        srcset=&quot;/blog/static/c6a6848b564e3e54d82915d99d789797/00d96/current.png 148w,
+/blog/static/c6a6848b564e3e54d82915d99d789797/0b23c/current.png 295w,
+/blog/static/c6a6848b564e3e54d82915d99d789797/799d3/current.png 590w,
+/blog/static/c6a6848b564e3e54d82915d99d789797/2a3d6/current.png 885w,
+/blog/static/c6a6848b564e3e54d82915d99d789797/a4cd0/current.png 1072w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;For next steps, I want to continue writing however small it might be. My strectch goal is to write like &lt;a href=&quot;https://seths.blog/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Seth Godin&lt;/a&gt; 🤞, I really enjoy his style.&lt;/p&gt;
+&lt;p&gt;Let’s see how this goes. Happy blogging to myself 🎉.&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/finding-my-focus/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Automated GIFs for social sharing]]></title><description><![CDATA[Add GIFs for social sharing cards using Gatsby]]></description><link>https://princiya.com/blog/gif-for-social-card-images-gatsby/</link><guid isPermaLink="false">https://princiya.com/blog/gif-for-social-card-images-gatsby/</guid><pubDate>Fri, 08 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://princiya.com/blog/blog/2ef6dad5c6ad1213618b4b8c2daa9b44/card.gif&quot; alt=&quot;Add GIFS for social sharing using Gatsby&quot;&gt;&lt;/p&gt;
 &lt;h1 id=&quot;coming-soon&quot;&gt;&lt;a href=&quot;#coming-soon&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;COMING SOON&lt;/h1&gt;
 &lt;p&gt;A detailed tutorial post on how to add GIFS for social sharing cards using Gatsby.&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/gif-for-social-card-images-gatsby/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
@@ -32,6 +168,86 @@
 &lt;p&gt;Nothing is easy and you need to keep learning and working hard all the time. Work hard, but smart!&lt;/p&gt;
 &lt;p&gt;I wish you all the best!&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/does-life-get-boring/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Procrastination or Elimination?]]></title><description><![CDATA[Learning to manage priorities by deciding what not to do and being productive.]]></description><link>https://princiya.com/blog/procrastination/</link><guid isPermaLink="false">https://princiya.com/blog/procrastination/</guid><pubDate>Thu, 03 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;not-procrastinating-the-important&quot;&gt;&lt;a href=&quot;#not-procrastinating-the-important&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;code class=&quot;language-text&quot;&gt;Not&lt;/code&gt; procrastinating the important&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;कल करे सो आज कर, आज करे सो अब कर &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is a popular Hindi verse written by &lt;a href=&quot;https://en.wikipedia.org/wiki/Kabir&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Kabir Das&lt;/a&gt;. It means the following -&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://princiya.com/blog/blog/static/2249d350ae757ef830d183a90719818c/c1daa/kabir-dohe.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 27.12691771269177%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsSAAALEgHS3X78AAAA5klEQVQY04WQ226DQAxE+f//4iWIIG5SRWhId4EmXAIqtwCB0wVVfYqUkSyPZ6xd2xpvsMwzRZ5TFAVZlpH/cVh3P5aSMAxxXZeyLNG+spbzrSEuOxIV31WPJypk0XKtH/iXDNfzMQ4HbNsmiiLMo0WQ1Kq3IzxHeJ6Lrus4joPWj0/6caYZJjb+mJ5U7bjnQekqvUSnvPWFrr1buW8bNYGHYRiYpkldV/9eksQIIZimiWVZWNcVTeQtn9cf0nu/r7nVvqwQim/ahyxJ0pTT6YRlHbnIlCjvudUDQRDsn83qzhu2B38B0fB7nUSZynUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;English version of Kabir ke Dohe&quot;
+        title=&quot;&quot;
+        src=&quot;https://princiya.com/blog/blog/static/2249d350ae757ef830d183a90719818c/799d3/kabir-dohe.png&quot;
+        srcset=&quot;/blog/static/2249d350ae757ef830d183a90719818c/00d96/kabir-dohe.png 148w,
+/blog/static/2249d350ae757ef830d183a90719818c/0b23c/kabir-dohe.png 295w,
+/blog/static/2249d350ae757ef830d183a90719818c/799d3/kabir-dohe.png 590w,
+/blog/static/2249d350ae757ef830d183a90719818c/2a3d6/kabir-dohe.png 885w,
+/blog/static/2249d350ae757ef830d183a90719818c/ae92f/kabir-dohe.png 1180w,
+/blog/static/2249d350ae757ef830d183a90719818c/c1daa/kabir-dohe.png 1434w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;If an email can be answered right away, then I prefer to reply instantly. If a slack message can be attended instantly, I do it so. It helps me take off the mental load about too many pending tasks for the day. Offcourse like I wrote earlier, priorities are important and have decided not to reply to interview applicants right away when the sprint was in a crucial phase. This instance was not about procrastination but rather realising what not to do for that time period.&lt;/p&gt;
+&lt;h3 id=&quot;being-productive-by-being-lazy&quot;&gt;&lt;a href=&quot;#being-productive-by-being-lazy&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;being productive by being lazy&lt;/h3&gt;
+&lt;p&gt;Sometimes I have productive weekends, sometimes lazy. Why are the lazy weekends not considered productive? It is just a thing to convince my brain. What matters in the end is really if I was happy or not. If my body wants to sleep the whole day, then why not? Why is it called lazy? If I like a particular Netflix episode and want to binge watch it, then why not? The only priority to keep in mind is not to stress the eyes or mind.&lt;/p&gt;
+&lt;p&gt;I also apply the same principle at work. Not every day is a sunny day. Sometimes I don’t feel like working, but as long as I admit it and use to do something else, I am fine with it. Not acknowledging this fact and rather sitting  and staring at the monitor for mircales to happen and solve a problem will not serve the purpose. If you are my employer or colleague reading this, please don’t take me wrong. I do accept that I have this feeling, but I instead use to watch or read something interesting or even crack upon a blog idea.&lt;/p&gt;
+&lt;p&gt;It’s a matter of time, and within an hour I would be refreshed enough to get back to work.&lt;/p&gt;
+&lt;p&gt;This year has been fairly well for me 💪 ✌️. I have been promoted at &lt;a href=&quot;../tags/leadership&quot;&gt;Curalie&lt;/a&gt; as Head of Frontend Engineering and plus I now successfully balance my time with two jobs. My secondary (part-time) job is being a Developer coach with &lt;a href=&quot;https://raise.dev/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Raise&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;People who know me personally do know that I am known to be doing multiple things at the same time. Over time I have come to realise that this is a skill which only few possess. Recently I was suprised when I &lt;a href=&quot;../i-was-interim-cto&quot;&gt;discovered&lt;/a&gt; that I could code while also listening and replying in between meetings.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;In this post, I will mainly focus on my primary job!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;write before you’re an expert on a subject; write to become an expert on a subject; share the best of what you’re learning.&lt;/p&gt;
+&lt;p&gt;character, connection, and competence.&lt;/p&gt;
+&lt;h2 id=&quot;using-privilege&quot;&gt;&lt;a href=&quot;#using-privilege&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;using privilege!&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;accept mistakes in public - accountability&lt;/li&gt;
+&lt;li&gt;appreciate others - pull others up&lt;/li&gt;
+&lt;li&gt;improve offboarding, not just onboarding&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;when-only-one-female&quot;&gt;&lt;a href=&quot;#when-only-one-female&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;when only one female&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;don’t say “ladies first”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;building-communities-within-tech-team&quot;&gt;&lt;a href=&quot;#building-communities-within-tech-team&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;building communities within tech team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;biweekly knowledge sharing&lt;/li&gt;
+&lt;li&gt;study accountability groups&lt;/li&gt;
+&lt;li&gt;friday project hack usergroups&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;website-illustrations&quot;&gt;&lt;a href=&quot;#website-illustrations&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;website illustrations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;resources for beautifying websites&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;women-bloggers&quot;&gt;&lt;a href=&quot;#women-bloggers&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;women bloggers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;showcase upcoming women bloggers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;time-management&quot;&gt;&lt;a href=&quot;#time-management&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;time management&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;distribution of responsibilities and time like this graph &lt;a href=&quot;https://shekhargulati.com/2021/01/03/being-chief-technology-officer-lessons-learned-in-my-first-year/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://shekhargulati.com/2021/01/03/being-chief-technology-officer-lessons-learned-in-my-first-year/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/procrastination/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item><item><title><![CDATA[How I learned to manage my time as a new Manager]]></title><description><![CDATA[Learning to manage priorities by deciding what not to do and being productive.]]></description><link>https://princiya.com/blog/learn-what-not-to-do/</link><guid isPermaLink="false">https://princiya.com/blog/learn-what-not-to-do/</guid><pubDate>Thu, 03 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -146,86 +362,6 @@
 &lt;p&gt;&lt;em&gt;We encounter ideas all the time and often want to do everything at once. But time is limited. We only have 24 hours in a day. At work, I often encounter this situation. Before learning the art of delegation, I did take it on me to do everything. I was naturally interested in doing many things or dive into different topics, for example, automating tests, fixing security bugs, web performance, GraphQL, Amplify, DynamoDB, the list goes on. I will explain more in detail on how to effectively use the Eisenhower method to be efficient and productive.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Meanwhile, let me know the things you have learned not to do to increase your productivity!&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/learn-what-not-to-do/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
-              </content:encoded></item><item><title><![CDATA[Procrastination or Elimination?]]></title><description><![CDATA[Learning to manage priorities by deciding what not to do and being productive.]]></description><link>https://princiya.com/blog/procrastination/</link><guid isPermaLink="false">https://princiya.com/blog/procrastination/</guid><pubDate>Thu, 03 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;not-procrastinating-the-important&quot;&gt;&lt;a href=&quot;#not-procrastinating-the-important&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;code class=&quot;language-text&quot;&gt;Not&lt;/code&gt; procrastinating the important&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;कल करे सो आज कर, आज करे सो अब कर &lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;This is a popular Hindi verse written by &lt;a href=&quot;https://en.wikipedia.org/wiki/Kabir&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Kabir Das&lt;/a&gt;. It means the following -&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://princiya.com/blog/blog/static/2249d350ae757ef830d183a90719818c/c1daa/kabir-dohe.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; border: 1px solid #efefef max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 27.12691771269177%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsSAAALEgHS3X78AAAA5klEQVQY04WQ226DQAxE+f//4iWIIG5SRWhId4EmXAIqtwCB0wVVfYqUkSyPZ6xd2xpvsMwzRZ5TFAVZlpH/cVh3P5aSMAxxXZeyLNG+spbzrSEuOxIV31WPJypk0XKtH/iXDNfzMQ4HbNsmiiLMo0WQ1Kq3IzxHeJ6Lrus4joPWj0/6caYZJjb+mJ5U7bjnQekqvUSnvPWFrr1buW8bNYGHYRiYpkldV/9eksQIIZimiWVZWNcVTeQtn9cf0nu/r7nVvqwQim/ahyxJ0pTT6YRlHbnIlCjvudUDQRDsn83qzhu2B38B0fB7nUSZynUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;English version of Kabir ke Dohe&quot;
-        title=&quot;&quot;
-        src=&quot;https://princiya.com/blog/blog/static/2249d350ae757ef830d183a90719818c/799d3/kabir-dohe.png&quot;
-        srcset=&quot;/blog/static/2249d350ae757ef830d183a90719818c/00d96/kabir-dohe.png 148w,
-/blog/static/2249d350ae757ef830d183a90719818c/0b23c/kabir-dohe.png 295w,
-/blog/static/2249d350ae757ef830d183a90719818c/799d3/kabir-dohe.png 590w,
-/blog/static/2249d350ae757ef830d183a90719818c/2a3d6/kabir-dohe.png 885w,
-/blog/static/2249d350ae757ef830d183a90719818c/ae92f/kabir-dohe.png 1180w,
-/blog/static/2249d350ae757ef830d183a90719818c/c1daa/kabir-dohe.png 1434w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;If an email can be answered right away, then I prefer to reply instantly. If a slack message can be attended instantly, I do it so. It helps me take off the mental load about too many pending tasks for the day. Offcourse like I wrote earlier, priorities are important and have decided not to reply to interview applicants right away when the sprint was in a crucial phase. This instance was not about procrastination but rather realising what not to do for that time period.&lt;/p&gt;
-&lt;h3 id=&quot;being-productive-by-being-lazy&quot;&gt;&lt;a href=&quot;#being-productive-by-being-lazy&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;being productive by being lazy&lt;/h3&gt;
-&lt;p&gt;Sometimes I have productive weekends, sometimes lazy. Why are the lazy weekends not considered productive? It is just a thing to convince my brain. What matters in the end is really if I was happy or not. If my body wants to sleep the whole day, then why not? Why is it called lazy? If I like a particular Netflix episode and want to binge watch it, then why not? The only priority to keep in mind is not to stress the eyes or mind.&lt;/p&gt;
-&lt;p&gt;I also apply the same principle at work. Not every day is a sunny day. Sometimes I don’t feel like working, but as long as I admit it and use to do something else, I am fine with it. Not acknowledging this fact and rather sitting  and staring at the monitor for mircales to happen and solve a problem will not serve the purpose. If you are my employer or colleague reading this, please don’t take me wrong. I do accept that I have this feeling, but I instead use to watch or read something interesting or even crack upon a blog idea.&lt;/p&gt;
-&lt;p&gt;It’s a matter of time, and within an hour I would be refreshed enough to get back to work.&lt;/p&gt;
-&lt;p&gt;This year has been fairly well for me 💪 ✌️. I have been promoted at &lt;a href=&quot;../tags/leadership&quot;&gt;Curalie&lt;/a&gt; as Head of Frontend Engineering and plus I now successfully balance my time with two jobs. My secondary (part-time) job is being a Developer coach with &lt;a href=&quot;https://raise.dev/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Raise&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;People who know me personally do know that I am known to be doing multiple things at the same time. Over time I have come to realise that this is a skill which only few possess. Recently I was suprised when I &lt;a href=&quot;../i-was-interim-cto&quot;&gt;discovered&lt;/a&gt; that I could code while also listening and replying in between meetings.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;In this post, I will mainly focus on my primary job!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;write before you’re an expert on a subject; write to become an expert on a subject; share the best of what you’re learning.&lt;/p&gt;
-&lt;p&gt;character, connection, and competence.&lt;/p&gt;
-&lt;h2 id=&quot;using-privilege&quot;&gt;&lt;a href=&quot;#using-privilege&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;using privilege!&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;accept mistakes in public - accountability&lt;/li&gt;
-&lt;li&gt;appreciate others - pull others up&lt;/li&gt;
-&lt;li&gt;improve offboarding, not just onboarding&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;when-only-one-female&quot;&gt;&lt;a href=&quot;#when-only-one-female&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;when only one female&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;don’t say “ladies first”&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;building-communities-within-tech-team&quot;&gt;&lt;a href=&quot;#building-communities-within-tech-team&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;building communities within tech team&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;biweekly knowledge sharing&lt;/li&gt;
-&lt;li&gt;study accountability groups&lt;/li&gt;
-&lt;li&gt;friday project hack usergroups&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;website-illustrations&quot;&gt;&lt;a href=&quot;#website-illustrations&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;website illustrations&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;resources for beautifying websites&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;women-bloggers&quot;&gt;&lt;a href=&quot;#women-bloggers&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;women bloggers&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;showcase upcoming women bloggers&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;time-management&quot;&gt;&lt;a href=&quot;#time-management&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;time management&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;distribution of responsibilities and time like this graph &lt;a href=&quot;https://shekhargulati.com/2021/01/03/being-chief-technology-officer-lessons-learned-in-my-first-year/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://shekhargulati.com/2021/01/03/being-chief-technology-officer-lessons-learned-in-my-first-year/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/procrastination/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item><item><title><![CDATA[Are you a bottleneck in your team?]]></title><description><![CDATA[Unlearn from doing everything yourself and learn to delegate.]]></description><link>https://princiya.com/blog/do-not-be-a-bottleneck/</link><guid isPermaLink="false">https://princiya.com/blog/do-not-be-a-bottleneck/</guid><pubDate>Fri, 06 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
@@ -775,7 +911,7 @@
 &lt;p&gt;This project already has many applicants applying!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Since I was late to apply and some of the projects which I was interested in were appealing to others too, I settled with a project which was out of my comfort zone. I applied for &lt;a href=&quot;https://ignitionrobotics.org/home&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Ignition Robotics&lt;/a&gt; which was from &lt;a href=&quot;https://www.openrobotics.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Open Robotics&lt;/a&gt;. The initial work involved working with C++ and Node.js. Back then, I was not comfortable to ask questions to strangers on the internet and chose to do most of the preparatory work myself and when I had a working prototype I contacted the project’s mentor and emailed them my &lt;a href=&quot;https://github.com/princiya/Ign3DViz&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;solution&lt;/a&gt;. I was happy that I did a fair job in attempting to work with C++ and find a solution for D3.js visualisation with Node.js but when the results were announced I was not accepted.&lt;/p&gt;
-&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-dnt=&quot;true&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Didn&amp;#39;t get through &lt;a href=&quot;https://twitter.com/hashtag/outreachy?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#outreachy&lt;/a&gt; this time :-( Trying for March :-) renewed energy and enthusiasm. @OSRFoundation &lt;a href=&quot;https://twitter.com/hashtag/d3?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#d3&lt;/a&gt;&lt;/p&gt;&amp;mdash; Princiya 👧‍ (@princi_ya) &lt;a href=&quot;https://twitter.com/princi_ya/status/666765603936407552?ref_src=twsrc%5Etfw&quot;&gt;November 17, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-dnt=&quot;true&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Didn&amp;#39;t get through &lt;a href=&quot;https://twitter.com/hashtag/outreachy?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#outreachy&lt;/a&gt; this time :-( Trying for March :-) renewed energy and enthusiasm. &lt;a href=&quot;https://twitter.com/osrfoundation?ref_src=twsrc%5Etfw&quot;&gt;@OSRFoundation&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/d3?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#d3&lt;/a&gt;&lt;/p&gt;&amp;mdash; Princiya 👧‍ (@princi_ya) &lt;a href=&quot;https://twitter.com/princi_ya/status/666765603936407552?ref_src=twsrc%5Etfw&quot;&gt;November 17, 2015&lt;/a&gt;&lt;/blockquote&gt;
 
 &lt;h2 id=&quot;faqs-and-tips-for-acing-your-application&quot;&gt;&lt;a href=&quot;#faqs-and-tips-for-acing-your-application&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;FAQs and tips for acing your application&lt;/h2&gt;
 &lt;ul&gt;
@@ -1010,31 +1146,6 @@ Imagine you are planning to buy / rent a house. First you will see the house its
 &lt;p&gt;Whereas for the integration tests to be run, the application first needs to be deployed.&lt;/p&gt;
 &lt;p&gt;Let me know what your thoughts are.&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/contract-tests-introduction/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
-              </content:encoded></item><item><title><![CDATA[What would I advice my younger self]]></title><description><![CDATA[Lessons from my younger self]]></description><link>https://princiya.com/blog/lessons-from-my-younger-self/</link><guid isPermaLink="false">https://princiya.com/blog/lessons-from-my-younger-self/</guid><pubDate>Sun, 12 Jul 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Many a times I come across Twitter posts which ask -&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;What would you advice your younger self?&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I was very good at academics and when I enrolled into the university for my under graduate studies I knew that I would definitely crack the campus recruitment and would be placed in a company with handsome salary. But &lt;code class=&quot;language-text&quot;&gt;11 years ago&lt;/code&gt;, in 2009, there was a &lt;a href=&quot;https://www.forbes.com/2009/01/14/global-recession-2009-oped-cx_nr_0115roubini.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;global recession&lt;/a&gt; and things didn’t go as planned with me in securing a job.&lt;/p&gt;
-&lt;p&gt;I still remember that day; the first company which came for campus placement was &lt;a href=&quot;https://www.tcs.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;TCS&lt;/a&gt;. I was shocked to find out that I hadn’t cleared the aptitude test.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;This was the first failure in my life.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Although I used to actively participate in extra curriculars since my school days, I did lose quite a few competitions but that was all in a sportive mood and my life wasn’t hanging around those failures.&lt;/p&gt;
-&lt;p&gt;I cried profusely that day after the first failed campus placement results. I was hopeful that I would make it to the next company but this kept happening couple more times and I had no clue about what was going wrong. I gave up after a few attempts.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I felt like I needed a break after studying all those years so hard and not being able to find my dream job. &lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;That year, I took up a teaching job and for the next two years I worked as a Lecturer in Computer Science at an engineering college. I was happy, some of my colleagues were my best friends.&lt;/p&gt;
-&lt;p&gt;Alongside teaching I took up some freelance web development work and I realised that I was ready for newer challenges. In 2011, I quit the teaching job and joined as a full time Software Engineer and rest is &lt;a href=&quot;../two-years-into-leadership&quot;&gt;history&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I have worked hard all through these years and if there’s any advice I could give my younger self then that is -&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Everything happens for good&lt;/strong&gt;. You will never realise at that point of time, so instead of being sad when things don’t turn your way try to find the positive side of things and keep working hard. There comes a time when all the hard work will be worth it and you will realise for yourself that &lt;code class=&quot;language-text&quot;&gt;everything does happen for good&lt;/code&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;The following quote from &lt;a href=&quot;https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Dr. Abdul Kalam&lt;/a&gt; is my all time favorite.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Dream is not what you get in sleep, Dream is what makes you lose your sleep!&lt;/p&gt;
-&lt;/blockquote&gt;
-                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/lessons-from-my-younger-self/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item><item><title><![CDATA[Career advice for freshers]]></title><description><![CDATA[Career advice for freshers]]></description><link>https://princiya.com/blog/career-advice/</link><guid isPermaLink="false">https://princiya.com/blog/career-advice/</guid><pubDate>Sun, 12 Jul 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Many a times I come across Twitter posts which ask -&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;What would you advice your younger self?&lt;/p&gt;
@@ -1084,6 +1195,31 @@ Imagine you are planning to buy / rent a house. First you will see the house its
 &lt;p&gt;So as a leader, I suggest people to chase their dreams. Create a learning curve of yourself, get it verified from my peers or mentors. Find yourself a mentor. Nowadays there is internet and lot of options to find a mentor. Do things out of your comfort zone, try to push yourself hard. Pick one topic where you want to get good at and draw out an effective plan or a strategy to achieve it.&lt;/p&gt;
 &lt;p&gt;Do not be afraid to ask questions and most importantly make sure it makes you happy!&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/career-advice/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[What would I advice my younger self]]></title><description><![CDATA[Lessons from my younger self]]></description><link>https://princiya.com/blog/lessons-from-my-younger-self/</link><guid isPermaLink="false">https://princiya.com/blog/lessons-from-my-younger-self/</guid><pubDate>Sun, 12 Jul 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Many a times I come across Twitter posts which ask -&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What would you advice your younger self?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I was very good at academics and when I enrolled into the university for my under graduate studies I knew that I would definitely crack the campus recruitment and would be placed in a company with handsome salary. But &lt;code class=&quot;language-text&quot;&gt;11 years ago&lt;/code&gt;, in 2009, there was a &lt;a href=&quot;https://www.forbes.com/2009/01/14/global-recession-2009-oped-cx_nr_0115roubini.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;global recession&lt;/a&gt; and things didn’t go as planned with me in securing a job.&lt;/p&gt;
+&lt;p&gt;I still remember that day; the first company which came for campus placement was &lt;a href=&quot;https://www.tcs.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;TCS&lt;/a&gt;. I was shocked to find out that I hadn’t cleared the aptitude test.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This was the first failure in my life.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Although I used to actively participate in extra curriculars since my school days, I did lose quite a few competitions but that was all in a sportive mood and my life wasn’t hanging around those failures.&lt;/p&gt;
+&lt;p&gt;I cried profusely that day after the first failed campus placement results. I was hopeful that I would make it to the next company but this kept happening couple more times and I had no clue about what was going wrong. I gave up after a few attempts.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I felt like I needed a break after studying all those years so hard and not being able to find my dream job. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;That year, I took up a teaching job and for the next two years I worked as a Lecturer in Computer Science at an engineering college. I was happy, some of my colleagues were my best friends.&lt;/p&gt;
+&lt;p&gt;Alongside teaching I took up some freelance web development work and I realised that I was ready for newer challenges. In 2011, I quit the teaching job and joined as a full time Software Engineer and rest is &lt;a href=&quot;../two-years-into-leadership&quot;&gt;history&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I have worked hard all through these years and if there’s any advice I could give my younger self then that is -&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Everything happens for good&lt;/strong&gt;. You will never realise at that point of time, so instead of being sad when things don’t turn your way try to find the positive side of things and keep working hard. There comes a time when all the hard work will be worth it and you will realise for yourself that &lt;code class=&quot;language-text&quot;&gt;everything does happen for good&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The following quote from &lt;a href=&quot;https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Dr. Abdul Kalam&lt;/a&gt; is my all time favorite.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dream is not what you get in sleep, Dream is what makes you lose your sleep!&lt;/p&gt;
+&lt;/blockquote&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/lessons-from-my-younger-self/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item><item><title><![CDATA[OKRs for a personal career path]]></title><description><![CDATA[Objectives and key results can help you achieve your career goals]]></description><link>https://princiya.com/blog/okr/</link><guid isPermaLink="false">https://princiya.com/blog/okr/</guid><pubDate>Sat, 11 Jul 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;context&quot;&gt;&lt;a href=&quot;#context&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Context&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;For Q3, we are working on launching &lt;a href=&quot;https://en.wikipedia.org/wiki/OKR&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Objectives and key results (OKRs)&lt;/a&gt; for the company.&lt;/li&gt;
@@ -1134,7 +1270,7 @@ Imagine you are planning to buy / rent a house. First you will see the house its
 &lt;p&gt;Dart is similar to React Native, but doesn’t need to use a bridge like React Native and is even faster.&lt;/p&gt;
 &lt;p&gt;So if you are looking for a single codebase, multiple platforms, Flutter is your framework of choice.&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/dart/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
-              </content:encoded></item><item><title><![CDATA[Two year work anniversary]]></title><description><![CDATA[It's official, I now have 2 years work experience as a leader]]></description><link>https://princiya.com/blog/two-years-into-leadership/</link><guid isPermaLink="false">https://princiya.com/blog/two-years-into-leadership/</guid><pubDate>Thu, 02 Jul 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;July 01, 2020 is my two year work anniversary with &lt;a href=&quot;https://curalie.de&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Curalie GmbH&lt;/a&gt;. It’s been great two years until now, I have enjoyed working here every single day (there have been very few blue days) and I look forward to the upcoming challenges.&lt;/p&gt;
+              </content:encoded></item><item><title><![CDATA[Two year work anniversary]]></title><description><![CDATA[It's official, I now have 2 years work experience as an engineering leader]]></description><link>https://princiya.com/blog/two-years-into-leadership/</link><guid isPermaLink="false">https://princiya.com/blog/two-years-into-leadership/</guid><pubDate>Thu, 02 Jul 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;July 01, 2020 is my two year work anniversary with &lt;a href=&quot;https://curalie.de&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Curalie GmbH&lt;/a&gt;. It’s been great two years until now, I have enjoyed working here every single day (there have been very few blue days) and I look forward to the upcoming challenges.&lt;/p&gt;
 &lt;p&gt;2 years ago, I was looking for a job change and was very much open to take bigger responsibilities and the Open Source Manager job at Zalando happened. Prior to this, I was working as a Software Engineer at Collabary (by Zalando). Although the job was challenging, I didn’t qualify there to a higher pay grade. And my previous manager said I was going through the Dunning Kruger effect.&lt;/p&gt;
 &lt;p&gt;I was determined to get a better job, title and offcourse higher pay. 2 years now and I could not have been happier from where I am currently.&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/two-years-into-leadership/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
