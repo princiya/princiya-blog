@@ -35,7 +35,7 @@ class BlogIndexTemplate extends React.Component {
               .
             </Panel>
           )}
-          <div>
+          <div style={{ textAlign: 'center' }}>
             <span>Featured categories: &nbsp;</span>
             {this.props.data.allMarkdownRemark.group.map(tag => {
               const featuredTags = ['leadership', 'technical', 'mentorship'];

@@ -2,6 +2,7 @@
   display: grid;
   grid-gap: 2em;
   grid-template-columns: repeat(auto-fit, minmax(30ch, 30ch));
+  justify-content: center;
   list-style: none;
 }
 
