@@ -4,6 +4,7 @@ date: '2020-09-29'
 spoiler: Handling different python versions on MacOS
 cta: 'Pythons on MacOS'
 tags: ["technical", "notes"]
+cover: './python.png'
 ---
 
 This post is more of a personal notes. Recently, I had to run a script on my machine which until then was only run by one person in our office. The problem started with us having different [openssl](https://www.openssl.org/) versions. I had `LibreSSL` vs the other person had `OpenSSL`.

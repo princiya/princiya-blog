@@ -4,6 +4,7 @@ date: '2020-12-05'
 spoiler: Motivational career advice from a mentor to juniors in tech
 cta: 'Career advice for juniors in tech'
 tags: ["mentorship", "advice", "q&a"]
+cover: './boring.jpg'
 ---
 
 It's been 3 months now and I work as a part-time Software Developer Coach (JavaScript) with [Raise.dev](http://raise.dev/). During this term I have been mentoring for the [MLH Fellowship](https://fellowship.mlh.io/) program. The graduation is on 18th December and I was asked to record a ~2 minute graduation speech.

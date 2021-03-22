@@ -10,6 +10,7 @@
   "dependencies": {
     "@weknow/gatsby-remark-twitter": "^0.2.3",
     "gatsby": "^2.0.76",
+    "gatsby-image": "2.3.5",
     "gatsby-plugin-canonical-urls": "^2.3.10",
     "gatsby-plugin-catch-links": "^2.0.9",
     "gatsby-plugin-ebook": "^1.0.2",
@@ -56,7 +57,7 @@
     "format": "prettier --write '{gatsby-*.js,src/**/*.{js,jsx,json,css}}'",
     "develop": "gatsby clean && gatsby develop",
     "start": "npm run develop",
-    "build": "rm -rf public && rm -rf .cache && gatsby build",
+    "build": "rm -rf public && rm -rf .cache && gatsby clean && gatsby build",
     "now-build": "gatsby build",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "dry": "yarn build && cp now.json public/ && cd public && now",

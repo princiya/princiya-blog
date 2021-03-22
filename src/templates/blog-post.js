@@ -177,17 +177,6 @@ class BlogPostTemplate extends React.Component {
               <TagLabels tags={post.frontmatter.tags || []} />
             </header>
             <div dangerouslySetInnerHTML={{ __html: html }} />
-            <footer>
-              <p>
-                <a href={discussUrl} target="_blank" rel="noopener noreferrer">
-                  Discuss on Twitter
-                </a>
-                {` • `}
-                <a href={editUrl} target="_blank" rel="noopener noreferrer">
-                  Edit on GitHub
-                </a>
-              </p>
-            </footer>
           </article>
         </main>
         <aside>
@@ -199,24 +188,6 @@ class BlogPostTemplate extends React.Component {
           >
             {/* <Signup cta={post.frontmatter.cta} /> */}
           </div>
-          <h3
-            style={{
-              fontFamily: 'Montserrat, sans-serif',
-              marginTop: rhythm(0.25),
-            }}
-          >
-            <Link
-              style={{
-                boxShadow: 'none',
-                textDecoration: 'none',
-                color: 'var(--textLink)',
-              }}
-              to={'/'}
-            >
-              P's Blog
-            </Link>
-          </h3>
-          <Bio />
           <nav>
             <ul
               style={{

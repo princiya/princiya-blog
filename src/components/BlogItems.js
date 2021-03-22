@@ -1,10 +1,12 @@
 import React from 'react';
 import get from 'lodash/get';
 import { Link } from 'gatsby';
+import Img from 'gatsby-image';
 
 import { rhythm } from '../utils/typography';
 import { formatPostDate, formatReadingTime } from '../utils/helpers';
 import TagLabels from './TagLabels';
+import card from '../assets/card.gif';
 
 const BlogItems = ({ posts, langKey }) => (
   <div className="blog-items">
@@ -20,7 +22,7 @@ const BlogItems = ({ posts, langKey }) => (
               <h3
                 style={{
                   fontFamily: 'Montserrat, sans-serif',
-                  fontSize: rhythm(1),
+                  fontSize: rhythm(0.8),
                   marginBottom: rhythm(1 / 4),
                 }}
               >
@@ -37,11 +39,34 @@ const BlogItems = ({ posts, langKey }) => (
                 {` • ${formatReadingTime(node.timeToRead)}`}
               </small>
             </header>
+            {node.frontmatter.cover && node.frontmatter.cover.childImageSharp && (
+              <Img
+                sizes={node.frontmatter.cover.childImageSharp.sizes}
+                style={{
+                  zIndex: 1,
+                  marginTop: rhythm(1),
+                }}
+              />
+            )}
+            {title.indexOf('GIF') > 0 && (
+              <img
+                src={card}
+                alt={title}
+                style={{
+                  zIndex: 1,
+                  marginTop: rhythm(1),
+                }}
+              />
+            )}
             <p
               dangerouslySetInnerHTML={{
                 __html: node.frontmatter.spoiler,
               }}
-              style={{ zIndex: 1 }}
+              style={{
+                zIndex: 1,
+                fontSize: rhythm(0.7),
+                marginTop: rhythm(1),
+              }}
             />
             <TagLabels tags={node.frontmatter.tags || []} />
           </div>

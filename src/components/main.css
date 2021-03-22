@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 5rem;
+}
+
+.bio {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--bg-secondary);
+  padding: 2rem 0;
+}
+
+.layout__body {
+  margin-left: 16vw;
+  margin-right: 16vw;
+}
+
+.bg-secondary {
+  background-color: var(--bg-secondary);
+}

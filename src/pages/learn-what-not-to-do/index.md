@@ -4,6 +4,7 @@ date: '2020-12-03'
 spoiler: Learning to manage priorities by deciding what not to do and being productive.
 cta: 'Time management tips for new managers'
 tags: ["leadership", "transition"]
+cover: './time.jpg'
 ---
 
 ![Deciding what not to do - Steve Jobs quote](./steve-job-quote.png)

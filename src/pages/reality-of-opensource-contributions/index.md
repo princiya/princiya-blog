@@ -4,6 +4,7 @@ date: '2020-10-16'
 spoiler: My experiences of being both a contributor and a maintainer in the opensource world
 cta: 'The real talk about opensource contributions'
 tags: ["opensource", "mentorship"]
+cover: './phases-of-contribution.png'
 ---
 
 Are you a first-time opensource contributor or a seasoned one and find opensource `overwhelming`? Does it happen that everyone praises opensource or talks only good things, and you are struggling to `find the time` or motivation to contribute? Bonus, are you from an under-represented group in tech and have `imposter syndrome`?

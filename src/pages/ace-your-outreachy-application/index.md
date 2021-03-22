@@ -4,6 +4,7 @@ date: '2020-08-29'
 spoiler: Lessons from a past Outreachy alumna
 cta: 'Outreachy'
 tags: ["opensource", "advice"]
+cover: './outreachy-results.png'
 ---
 
 ## What is Outreachy

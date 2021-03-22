@@ -4,6 +4,7 @@ date: '2020-09-04'
 spoiler: And just like that it happened, I was the interim CTO for two weeks
 cta: 'Interim CTO'
 tags: ["leadership"]
+cover: './cto.jpg'
 ---
 
 I was officially the Interim CTO at my [company](../two-years-into-leadership) for two weeks in the beginning of September 2020. Although I was assisting the CTO or taking care of tasks during his vacations earlier, this just happened because the CTO was on sick leave to cater to his family medical emergency. There was no time for me to react / accept / reject this thing but just feel it! It's rightly said:

@@ -2,7 +2,6 @@ import { graphql, Link } from 'gatsby';
 import React from 'react';
 import { get, kebabCase } from 'lodash';
 
-import Bio from '../components/Bio';
 import Footer from '../components/Footer';
 import Layout from '../components/Layout';
 import Panel from '../components/Panel';
@@ -22,9 +21,6 @@ class BlogIndexTemplate extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle} margin="custom">
         <SEO />
-        <aside>
-          <Bio />
-        </aside>
         <main>
           {langKey !== 'en' && langKey !== 'ru' && (
             <Panel>
@@ -61,7 +57,6 @@ class BlogIndexTemplate extends React.Component {
           </div>
           <BlogItems posts={posts} langKey={this.props.pageContext.langKey} />
         </main>
-        <Footer />
       </Layout>
     );
   }
@@ -97,6 +92,13 @@ export const pageQuery = graphql`
             title
             tags
             spoiler
+            cover {
+              childImageSharp {
+                sizes(maxWidth: 630) {
+                  ...GatsbyImageSharpSizes
+                }
+              }
+            }
           }
         }
       }

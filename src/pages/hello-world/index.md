@@ -4,6 +4,7 @@ date: '2020-03-09'
 spoiler: Setting up a Gatsby Blog
 cta: 'gatsby'
 tags: ["gatsby"]
+cover: './hello.jpg'
 ---
 
 I recently subsribed to [Monica Lent's](https://bloggingfordevs.com/) newsletter to get better with blogging, writing content and mainly learning and getting better with SEO.

@@ -15,7 +15,7 @@ async function init() {
         10,
         10,
         {
-          text: "Does life get boring",
+          text: "This is an automated GIF",
           alignmentX: jimp.HORIZONTAL_ALIGN_LEFT,
           alignmentY: jimp.VERTICAL_ALIGN_TOP,
         },

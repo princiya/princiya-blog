@@ -1,5 +1,5 @@
 ---
-title: How to add GIFs for social sharing
+title: Automated GIFs for social sharing
 date: '2021-01-08'
 spoiler: Add GIFs for social sharing cards using Gatsby
 cta: 'Gatsby'

@@ -6,6 +6,9 @@ import Helmet from 'react-helmet';
 import { rhythm, scale } from '../utils/typography';
 import sun from '../assets/sun.png';
 import moon from '../assets/moon.png';
+import Bio from './Bio';
+
+import './main.css';
 
 class Layout extends React.Component {
   state = {
@@ -22,32 +25,51 @@ class Layout extends React.Component {
     const rootPath = `${__PATH_PREFIX__}/`;
 
     return (
-      <h1
-        style={{
-          ...scale(0.75),
-          marginBottom: 0,
-          marginTop: 0,
-        }}
-      >
-        <Link
+      <>
+        <h1
           style={{
-            boxShadow: 'none',
-            textDecoration: 'none',
-            color: 'var(--textLink)',
+            ...scale(0.25),
+            marginBottom: 0,
+            marginTop: 0,
           }}
-          to={'/'}
         >
-          {title}
-        </Link>
-      </h1>
+          <Link
+            style={{
+              boxShadow: 'none',
+              textDecoration: 'none',
+              color: 'var(--textLink)',
+            }}
+            to={'/'}
+          >
+            {title}
+          </Link>
+        </h1>
+        <h1
+          style={{
+            ...scale(0.25),
+            marginBottom: 0,
+            marginTop: 0,
+            fontFamily: 'cursive',
+          }}
+        >
+          <a
+            style={{
+              boxShadow: 'none',
+              textDecoration: 'none',
+              color: 'var(--textLink)',
+            }}
+            href="https://princiya.com"
+          >
+            Princiya
+          </a>
+        </h1>
+      </>
     );
   }
   render() {
     const { children, maxWidth = false, margin = 'auto' } = this.props;
     const bodyStyle = {
-      marginLeft: '8vw',
-      marginRight: '8vw',
-      padding: `2.625rem ${rhythm(3 / 4)}`,
+      padding: `0 ${rhythm(3 / 4)} 2.625rem`,
     };
 
     if (margin === 'auto') {
@@ -76,15 +98,8 @@ class Layout extends React.Component {
             },
           ]}
         />
-        <div style={bodyStyle}>
-          <header
-            style={{
-              display: 'flex',
-              justifyContent: 'space-between',
-              alignItems: 'center',
-              marginBottom: '2.625rem',
-            }}
-          >
+        <div>
+          <header className="header">
             {this.renderHeader()}
             {this.state.theme !== null ? (
               <Toggle
@@ -119,7 +134,15 @@ class Layout extends React.Component {
               <div style={{ height: '24px' }} />
             )}
           </header>
-          {children}
+          <aside className="bg-secondary">
+            <Bio />
+          </aside>
+          <div style={bodyStyle} className="layout__body">
+            {children}
+          </div>
+          <aside className="bg-secondary">
+            <Bio />
+          </aside>
         </div>
       </div>
     );

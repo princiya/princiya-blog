@@ -4,6 +4,7 @@ date: '2020-10-05'
 spoiler: The problem is people and the solution is people
 cta: 'People management'
 tags: ["leadership"]
+cover: './jimp.png'
 ---
 
 > The problem is people and the solution is people!

@@ -4,6 +4,7 @@ date: '2020-08-08'
 spoiler: You may not necessarily need D3.js for visualisations
 cta: 'D3.js'
 tags: ["d3.js", "technical", "visualisations"]
+cover: './slide1.png'
 ---
 
 Earlier this year, I spoke at [AgentConf 2020, Dornbirn, Austria](https://agent.sh/agent-conf-2020) on `To D3 or not`.

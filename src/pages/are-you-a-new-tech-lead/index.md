@@ -4,6 +4,7 @@ date: '2020-08-23'
 spoiler: Are you trying to find tech lead resources and don't know where to start? In this post I talk about what have I found so far
 cta: 'Leadership'
 tags: ["leadership"]
+cover: './tweet.png'
 ---
 
 Last week I asked on twitter for communities or groups that female leaders in tech were a part of.

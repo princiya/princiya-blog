@@ -4,6 +4,7 @@ date: '2020-11-06'
 spoiler: Unlearn from doing everything yourself and learn to delegate.
 cta: 'Art of delegation'
 tags: ["leadership", "transition"]
+cover: './bottleneck.jpg'
 ---
 
 ![Bottleneck](./bottleneck.jpg)
