@@ -1,5 +1,5 @@
 ---
-title: How to create automated GIF social sharing cards for Gatsby blog posts
+title: How to create automated GIF social sharing cards
 date: '2021-01-08'
 spoiler: A 3 step tutorial on creating automated GIF social sharing cards for your Gatsby blog post using Node.js
 cta: 'Gatsby'
