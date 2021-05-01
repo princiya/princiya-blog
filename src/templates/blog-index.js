@@ -8,6 +8,9 @@ import Panel from '../components/Panel';
 import SEO from '../components/SEO';
 import BlogItems from '../components/BlogItems';
 import { rhythm } from '../utils/typography';
+import webTracking from '../assets/web-tracking.jpeg';
+import redux from '../assets/redux.png';
+import webrtc from '../assets/webrtc.jpg';
 
 import './blog.css';
 
@@ -35,8 +38,140 @@ class BlogIndexTemplate extends React.Component {
               .
             </Panel>
           )}
+          <div style={{ textAlign: 'center', margin: '2rem' }}>
+            <span>Featured articles</span>
+          </div>
+          <div className="blog-items">
+            <article className="blog-item">
+              <div className="blog-item__content">
+                <header style={{ zIndex: 1 }}>
+                  <h3
+                    style={{
+                      fontFamily: 'Montserrat, sans-serif',
+                      fontSize: rhythm(0.8),
+                      marginBottom: rhythm(1 / 4),
+                    }}
+                  >
+                    <a
+                      style={{ boxShadow: 'none' }}
+                      href="https://medium.com/free-code-camp/how-to-connect-react-to-redux-a-diagrammatic-guide-d2687c14750a"
+                      rel="noopener"
+                      target="_blank"
+                    >
+                      How to connect react to redux - a diagrammatic guide
+                    </a>
+                  </h3>
+                  <small>April 23, 2019</small>
+                </header>
+                <img
+                  src={redux}
+                  alt={'Connect react to redux'}
+                  style={{
+                    zIndex: 1,
+                    marginTop: rhythm(1),
+                  }}
+                />
+                <p
+                  style={{
+                    zIndex: 1,
+                    fontSize: rhythm(0.7),
+                    marginTop: rhythm(1),
+                  }}
+                >
+                  Here is a diagrammatic guide to better understand how Redux
+                  connects to React.
+                </p>
+              </div>
+            </article>
+            <article className="blog-item">
+              <div className="blog-item__content">
+                <header style={{ zIndex: 1 }}>
+                  <h3
+                    style={{
+                      fontFamily: 'Montserrat, sans-serif',
+                      fontSize: rhythm(0.8),
+                      marginBottom: rhythm(1 / 4),
+                    }}
+                  >
+                    <a
+                      style={{ boxShadow: 'none' }}
+                      href="https://medium.com/free-code-camp/what-you-should-know-about-web-tracking-and-how-it-affects-your-online-privacy-42935355525"
+                      rel="noopener"
+                      target="_blank"
+                    >
+                      Web Tracking - what you should know about your privacy
+                      online
+                    </a>
+                  </h3>
+                  <small>April 23, 2018</small>
+                </header>
+                <img
+                  src={webTracking}
+                  alt={'Web Tracking'}
+                  style={{
+                    zIndex: 1,
+                    marginTop: rhythm(1),
+                  }}
+                />
+                <p
+                  style={{
+                    zIndex: 1,
+                    fontSize: rhythm(0.7),
+                    marginTop: rhythm(1),
+                  }}
+                >
+                  This is my attempt to explain how web tracking works in a
+                  nutshell.
+                </p>
+              </div>
+            </article>
+            <article className="blog-item">
+              <div className="blog-item__content">
+                <header style={{ zIndex: 1 }}>
+                  <h3
+                    style={{
+                      fontFamily: 'Montserrat, sans-serif',
+                      fontSize: rhythm(0.8),
+                      marginBottom: rhythm(1 / 4),
+                    }}
+                  >
+                    <a
+                      style={{ boxShadow: 'none' }}
+                      href="https://medium.com/free-code-camp/how-to-connect-react-to-redux-a-diagrammatic-guide-d2687c14750a"
+                      rel="noopener"
+                      target="_blank"
+                    >
+                      WebRTC - a detailed history
+                    </a>
+                  </h3>
+                  <small>August 06, 2017</small>
+                </header>
+                <img
+                  src={webrtc}
+                  alt={'WebRTC'}
+                  style={{
+                    zIndex: 1,
+                    marginTop: rhythm(1),
+                  }}
+                />
+                <p
+                  style={{
+                    zIndex: 1,
+                    fontSize: rhythm(0.7),
+                    marginTop: rhythm(1),
+                  }}
+                >
+                  The initial version of the OpenWebRTC implementation was
+                  developed internally at Ericsson Research. The latter is
+                  maintained by the Google Chrome team.
+                </p>
+              </div>
+            </article>
+          </div>
           <div style={{ textAlign: 'center' }}>
-            <span>Featured categories: &nbsp;</span>
+            <span style={{ display: 'inline-block', margin: '3rem' }}>
+              Featured categories: &nbsp;
+            </span>
             {this.props.data.allMarkdownRemark.group.map(tag => {
               const featuredTags = ['leadership', 'technical', 'mentorship'];
 

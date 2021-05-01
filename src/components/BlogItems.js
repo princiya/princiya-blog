@@ -73,6 +73,45 @@ const BlogItems = ({ posts, langKey }) => (
         </article>
       );
     })}
+    <article className="blog-item">
+      <div className="blog-item__content">
+        <header style={{ zIndex: 1 }}>
+          <h3
+            style={{
+              fontFamily: 'Montserrat, sans-serif',
+              fontSize: rhythm(0.8),
+              marginBottom: rhythm(1 / 4),
+            }}
+          >
+            <a
+              style={{ boxShadow: 'none' }}
+              href="https://princiya777.wordpress.com/"
+              rel="noopener"
+              target="_blank"
+            >
+              From the archives
+            </a>
+          </h3>
+        </header>
+        {/* <img
+          src={webrtc}
+          alt={"WebRTC"}
+          style={{
+            zIndex: 1,
+            marginTop: rhythm(1),
+          }}
+        /> */}
+        <p
+          style={{
+            zIndex: 1,
+            fontSize: rhythm(0.7),
+            marginTop: rhythm(1),
+          }}
+        >
+          All old posts can be found under princiya777.wordpress.com.
+        </p>
+      </div>
+    </article>
   </div>
 );
 

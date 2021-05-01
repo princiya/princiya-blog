@@ -35,11 +35,17 @@ class Bio extends React.Component {
             Personal blog by{' '}
             <a href="https://princiya.com">Princiya Sequeira</a>.
           </p>
-          <p>
-            I blog about my journey into a technical leadership role and how I
+          <p>I blog about my journey into a technical leadership role.</p>
+          {/* <p> and how I
             manage the balance between leading technical teams, mentoring
             juniors, hiring and interview best practices, scaling
             infrastructures and securing them.
+          </p> */}
+          <p>
+            I am a skilled programmer with strong communication skills and 12+
+            years of experience building full-stack web & mobile apps,
+            implementing CI/CD solutions and supporting infrastructures,
+            including 3+ years of experience leading technical teams at scale.
           </p>
           <a href="https://princiya.com/blog/tags" rel="noopener noreferrer">
             See all blog categories
