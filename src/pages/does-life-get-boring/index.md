@@ -1,19 +1,21 @@
 ---
 title: Does life as a software developer ever get boring
 date: '2020-12-05'
-spoiler: Motivational career advice from a mentor to juniors in tech
+spoiler: Motivational speech from an MLH mentor to the December 2020 graduating batch
 cta: 'Career advice for juniors in tech'
 tags: ["mentorship", "advice", "q&a"]
 cover: './boring.jpg'
 ---
 
-It's been 3 months now and I work as a part-time Software Developer Coach (JavaScript) with [Raise.dev](http://raise.dev/). During this term I have been mentoring for the [MLH Fellowship](https://fellowship.mlh.io/) program. The graduation is on 18th December and I was asked to record a ~2 minute graduation speech.
+It's been 3 months now and I work as a part-time Software Developer Coach (JavaScript) with [Raise.dev](http://raise.dev/). During this term I have been mentoring for the [Major League Hacking - MLH Fellowship](https://fellowship.mlh.io/) program. The graduation is on 18th December and I was asked to record a ~2 minute graduation speech.
 
-The following is an excerpt from my speech.
+## Major League Hacking - MLH graduation speech December 2020
+
+The following is an excerpt from my graduation speech to the MLH fellows graduating in December 2020.
 
 Hello everyone, congratulations to the graduating batch. You have come this far, finished a term successfully despite the pandemic, so this is something you will definitely cherish one day. At the beginning of the fellowship, we had a Q&A and one fellow asked -
 
-**Does life as a software developer ever get boring after years of work?**
+### Does life as a software developer ever get boring after years of work?
 
 Now that you have completed a term, I would like to answer by asking all of you,
 
@@ -31,6 +33,8 @@ Now, take a moment to reflect on the thing you did prior to this fellowship. It 
 
 Life as a software developer too goes through these phases, most of the time!
 
+## Failures and success
+
 Failures will come along the way; you may not get your desired promotion or it might take a lot of time until you land your first job.
 
 When I graduated in 2009, almost 11 years ago, there was a global recession and things didn't go as planned for me. I cried a lot the day after my first failed job interview. It was the first biggest failure for me.
@@ -38,6 +42,8 @@ When I graduated in 2009, almost 11 years ago, there was a global recession and 
 Looking back at it, If I were to [advice](../lessons-from-my-younger-self) my younger self, then I would say that everything happens for good.
 
 If you aren't being rejected more than accepted, you're not asking for enough, reaching high enough and valuing yourself enough. Try new things, do things you are scared of. 
+
+## Goals and habits
 
 If the plan does not work, change the plan, have a plan B! Avoid changing the goal itself! Most importantly, have a goal in your life, always!
 
