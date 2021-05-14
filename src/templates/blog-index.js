@@ -137,7 +137,7 @@ class BlogIndexTemplate extends React.Component {
                   >
                     <a
                       style={{ boxShadow: 'none' }}
-                      href="https://medium.com/free-code-camp/how-to-connect-react-to-redux-a-diagrammatic-guide-d2687c14750a"
+                      href="https://princiya777.wordpress.com/2017/08/06/webrtc-a-detailed-history/"
                       rel="noopener"
                       target="_blank"
                     >
