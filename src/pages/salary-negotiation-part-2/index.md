@@ -9,7 +9,7 @@ cover: './offer.jpg'
 
 This is Part 2 of my post about [salary negotiation](../tags/salary). This post summarises the 3 mistakes to avoid and tips to ace at your next salary negotiation.
 
-The [previous post](../salary-negotiation-part-1/index.md) summarised the following:
+The [previous post](../salary-negotiation-part-1/) summarised the following:
 
 - Why I got paid less at my previous job
 - How to close the gender pay gap in tech

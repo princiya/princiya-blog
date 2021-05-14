@@ -14,7 +14,7 @@ This is Part 1 of my post about [salary negotiation](../tags/salary). This post 
 - Useful resources for tech salaries
 - Knowing what to negotiate
 
-In the [next post](../salary-negotiation-part-2/index.md) I will talk about 3 mistakes to avoid and tips to ace at your next salary negotiation.
+In the [next post](../salary-negotiation-part-2/) I will talk about 3 mistakes to avoid and tips to ace at your next salary negotiation.
 
 ## Background
 
