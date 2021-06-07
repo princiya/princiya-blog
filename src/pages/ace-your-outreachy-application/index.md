@@ -67,7 +67,7 @@ The following is a compilation of the FAQs I receive on Twitter and my tips and 
 
 Each project will have many applicants, so it's better you let the project's mentor know that you are interested too. Discuss how you plan to apply, ask questions while making the initial contributions, or propose some enhancements to the initial expected contribution.
 
-Be specific with your question to the mentor. Do respect their time, becuase they would be receiving queries from many applicants. Following is a bad example because it shows a lazy behaviour.
+Be specific with your question to the mentor. Do respect their time, because they would be receiving queries from many applicants. Following is a bad example because it shows a lazy behaviour.
 
 > `Hey, I am interested to apply, can you please help me`.
 
