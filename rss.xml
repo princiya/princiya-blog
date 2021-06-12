@@ -1,4 +1,115 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[P's Blog RSS Feed]]></title><description><![CDATA[Personal blog by Princiya Sequeira]]></description><link>https://princiya.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 14 May 2021 14:43:55 GMT</lastBuildDate><item><title><![CDATA[Salary negotiation tips for Software Engineers]]></title><description><![CDATA[3 mistakes to avoid and tips to ace at your next salary negotiation]]></description><link>https://princiya.com/blog/salary-negotiation-part-2/</link><guid isPermaLink="false">https://princiya.com/blog/salary-negotiation-part-2/</guid><pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is Part 2 of my post about &lt;a href=&quot;../tags/salary&quot;&gt;salary negotiation&lt;/a&gt;. This post summarises the 3 mistakes to avoid and tips to ace at your next salary negotiation.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[P's Blog RSS Feed]]></title><description><![CDATA[Personal blog by Princiya Sequeira]]></description><link>https://princiya.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 12 Jun 2021 11:17:42 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://princiya.com/blog/js-interview/</link><guid isPermaLink="false">https://princiya.com/blog/js-interview/</guid><content:encoded>&lt;p&gt;var a = [{a:1}, {a:1}, {a:1}]
+var b = a.filter(o =&gt; o.a === 1)&lt;/p&gt;
+&lt;p&gt;if(a[0] === b[0]) {
+console.log(1)
+}&lt;/p&gt;
+&lt;p&gt;if(a === b) {
+console.log(2)
+}&lt;/p&gt;
+&lt;p&gt;if(a[0].a === b[1].a) {
+console.log(3)
+}&lt;/p&gt;
+&lt;p&gt;function a() {
+console.log(this)
+}&lt;/p&gt;
+&lt;p&gt;console.log(a())
+console.log(new a())&lt;/p&gt;
+&lt;p&gt;var cls1 = function(){};
+cls1.prototype.method = function(val) {
+ return val*val;
+}&lt;/p&gt;
+&lt;p&gt;var cls2 = function() {
+  this.method = function(val) {
+  return val*val;
+}
+}&lt;/p&gt;
+&lt;p&gt;var instance1 = new cls1();
+var instance2 = new cls2();&lt;/p&gt;
+&lt;p&gt;new Promise((resolve) =&gt; {
+resolve();
+console.log(1);
+}).then(() =&gt; console.log(4))&lt;/p&gt;
+&lt;p&gt;setTimeout(() =&gt; console.log(2))
+console.log(3)&lt;/p&gt;
+&lt;p&gt;const closure = {
+a: {abc: 1},
+b: function() {
+adsaslkj;
+}
+}&lt;/p&gt;
+&lt;p&gt;function closure() {
+const a;&lt;/p&gt;
+&lt;p&gt;}&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/js-interview/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Grieving over a job break up]]></title><description><![CDATA[job break up]]></description><link>https://princiya.com/blog/grieving-over-job-break-up/</link><guid isPermaLink="false">https://princiya.com/blog/grieving-over-job-break-up/</guid><pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;what’s been the most fulfilling thing?
+succession plan&lt;/p&gt;
+&lt;p&gt;evaluating phases of burnout before deciding to quit. &lt;a href=&quot;https://hbr.org/2019/07/6-causes-of-burnout-and-how-to-avoid-them&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://hbr.org/2019/07/6-causes-of-burnout-and-how-to-avoid-them&lt;/a&gt;
+stages of grief: &lt;a href=&quot;https://www.healthline.com/health/stages-of-grief#order&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.healthline.com/health/stages-of-grief#order&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;observations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;name pronouncing (signavio)&lt;/li&gt;
+&lt;li&gt;not leaving the zoom call until the candidate left&lt;/li&gt;
+&lt;li&gt;interview scheduling hell&lt;/li&gt;
+&lt;li&gt;30 min interviews are a rush!&lt;/li&gt;
+&lt;li&gt;fav Q: what takes for a person to succeed or fail in this role?&lt;/li&gt;
+&lt;/ul&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/grieving-over-job-break-up/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Marketing pitch]]></title><description><![CDATA[About me]]></description><link>https://princiya.com/blog/my-pitch/</link><guid isPermaLink="false">https://princiya.com/blog/my-pitch/</guid><pubDate>Tue, 18 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Describe yourself in a short phrase.&lt;/p&gt;
+&lt;p&gt;strategic technical leader while also being hands-on delivery lead while encouraging a healthy, supportive and autonomous team environment.&lt;/p&gt;
+&lt;p&gt;As a creative mind, I take pride in knowing when to throw the rule books out of the window and think outside the box. I am able to work in a fast paced work environment and manage multiple projects at once.&lt;/p&gt;
+&lt;p&gt;A skilled programmer with strong communication skills and 12 years of experience building full-stack web &amp;#x26; mobile apps, implementing CI/CD solutions, and supporting infrastructures, including 3+ years of experience leading technical teams at scale.&lt;/p&gt;
+&lt;p&gt;What are you looking for in your next role? What would you like to avoid? (Might include aspects like technologies you want to work with, industries you’re interested in, team dynamics, software development practices … whatever is important to you)&lt;/p&gt;
+&lt;p&gt;I am looking for a technical leadership role with a focus on hands-on work. Although I am an empathetic people leader, I would prefer to have dedicated coaches focused on people management to take over this role while I get to focus more on technical and hands-on development and deployment efforts.
+I have started focusing more on the security side of things and currently learning ethical hacking, penetration testing, etc. and it would be nice if there is scope for me to learn and grow in this area.&lt;/p&gt;
+&lt;p&gt;Optionally, describe a project that you worked on that you are proud of. It’s best if you can describe it from start to finish including the motivation and technical details. If you are describing a team effort, please be specific about your personal contribution.&lt;/p&gt;
+&lt;p&gt;Recently, I was part of the team where we converted a single product offering to a platform. At Curalie GmbH, we had started out catering to hip and knee digital rehabilitation offerings and in April 2021 we launched a new platform that can support digital therapies and rehabilitation services to any chronic illness. It took us about 6 months time to launch the first version of the platform from start to finish.
+This was my 4th successful product launch at this company and as the Head of Frontend I was responsible for the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Frontend architecture discussions. This was a real-time web and mobile application. We didn’t use the Redux-based store but used Freezer.js to enable reactive programming.&lt;/li&gt;
+&lt;li&gt;built a custom charting library from scratch to visualize complex medical symptoms and patient monitoring data to support React and React Native. My prior experience working with D3.js and visualizations was very helpful here to fasten the development time. &lt;/li&gt;
+&lt;li&gt;explaining technical concepts using mental models and metaphors to align stakeholders and various departments so that they could understand the platform better.&lt;/li&gt;
+&lt;li&gt;setup of test automation both for web and mobile and supporting the manual QA team.&lt;/li&gt;
+&lt;li&gt;infrastructure setup for mobile apps CI/CD from distributing apps internally to automated play and app store releases.&lt;/li&gt;
+&lt;li&gt;timely pair programming and mentorship support to the team when in need.&lt;/li&gt;
+&lt;li&gt;It did take lot of additional hours, since we also had to hire and onboard new people during this time. I am especially proud of this project because there was a lot of organisational chaos too which had to be sorted alongside implementing the technical solution. My special knack at managing and getting multiple things done, strong &amp;#x26; open communication skills and good emphasis on documentation was appreciated by everyone.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finding the next job notes: &lt;a href=&quot;https://www.annashipman.co.uk/jfdi/finding-next-level-job.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.annashipman.co.uk/jfdi/finding-next-level-job.html&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meaningful work + company&lt;/li&gt;
+&lt;li&gt;Must be able to speak publically about the work and ideally blog.&lt;/li&gt;
+&lt;li&gt;I want to be able to make things better. what is the scope and what is the first task that i would work in 1st 3 months. the company or team needs to have a plan with the new hire&lt;/li&gt;
+&lt;li&gt;Must be a culture where you are allowed to take breaks, e.g. a lunch break, leaving on time. if extra hours then overtime.&lt;/li&gt;
+&lt;li&gt;Not a person manager role, i.e. not head of development unless that is a technology leading role. I don’t mind managing people, but I don’t want that to be my entire job.&lt;/li&gt;
+&lt;li&gt;possibility of advancement in the job role.&lt;/li&gt;
+&lt;li&gt;Possibly a person who sits between the design, product, QA technology team; influencing all.&lt;/li&gt;
+&lt;li&gt;I didn’t want to be the diversity hire.&lt;/li&gt;
+&lt;li&gt;no Scrum master things&lt;/li&gt;
+&lt;li&gt;no Product owner writing tickets&lt;/li&gt;
+&lt;li&gt;i like compliance. documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;questions to ask:
+How are products/new features committed to?
+How are tech decision made/sold?
+What does success look like in this role?
+What’s the biggest challenge facing the organisation?
+What are you hoping to improve/how is that measured?
+how do product, design, tech, QA, devops talk?
+how is the management? do they care for people?&lt;/p&gt;
+&lt;p&gt;questions I will be asked:
+What are your main values, and how do they influence your work?
+What does good leadership look like? Followed by: How do you make sure people who report to you get that?
+Describe your leadership style.
+Looking back over your career, what has been your biggest failure?
+What are you most proud of?
+What would your direct reports say is your best quality and what would they wish you would change?
+How do you measure success of your work? Give some examples.
+What would you say your best quality is – what’s your superpower? Followed by: How do you pass this on to your reports?
+Can you give me an example of a time that a project was running behind, how you knew this and what you did?
+what is a good leader&lt;/p&gt;
+&lt;p&gt;illustration &lt;a href=&quot;https://qaspire.com/2020/10/04/leading-the-self-in-tough-times-drucker-revisited/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://qaspire.com/2020/10/04/leading-the-self-in-tough-times-drucker-revisited/&lt;/a&gt;
+ikigai illustration to find strength &lt;a href=&quot;https://www.performanceexcellencenetwork.org/pensights/finding-lifes-meaning-quest-discover-ikigai-pen-august-2017/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.performanceexcellencenetwork.org/pensights/finding-lifes-meaning-quest-discover-ikigai-pen-august-2017/&lt;/a&gt;&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/my-pitch/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Salary negotiation tips for Software Engineers]]></title><description><![CDATA[3 mistakes to avoid and tips to ace at your next salary negotiation]]></description><link>https://princiya.com/blog/salary-negotiation-part-2/</link><guid isPermaLink="false">https://princiya.com/blog/salary-negotiation-part-2/</guid><pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is Part 2 of my post about &lt;a href=&quot;../tags/salary&quot;&gt;salary negotiation&lt;/a&gt;. This post summarises the 3 mistakes to avoid and tips to ace at your next salary negotiation.&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&quot;../salary-negotiation-part-1/&quot;&gt;previous post&lt;/a&gt; summarised the following:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Why I got paid less at my previous job&lt;/li&gt;
@@ -22,7 +133,7 @@
 &lt;p&gt;In this twitter thread, I have found 2 job advertisements with transparent salary information.&lt;/p&gt;
 &lt;h3 id=&quot;do-not-assume-that-your-employer-will-notice-your-hard-work-and-offer-a-salary-raise&quot;&gt;&lt;a href=&quot;#do-not-assume-that-your-employer-will-notice-your-hard-work-and-offer-a-salary-raise&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Do not assume that your employer will notice your hard work and offer a salary raise&lt;/h3&gt;
 &lt;p&gt;This one is a classic example. People who have accepted job offers without negotiating will be able to relate to this. When I &lt;a href=&quot;../salary-negotiation-part-1/#background&quot;&gt;accepted&lt;/a&gt; my first international job offer I didn’t negotiate and believed that my work would be noticed and I would get a salary that matched my worth. But alas, this did not happen.&lt;/p&gt;
-&lt;p&gt;Also what happens is that when there are defined pay bands, it is very unlikely that you get a salary raise unless you switch jobs or jump to another level internally. Internal job switching also depends on organizational policies and does not seem easy. When I was frustrated about being underpaid and wanted to fix my pay gap, I did apply and qualify for a job that was in another team at a higher pay band. But the company policy didn’t let me get a pay raise. The irony was that I would have easily qualified for the higher pay if I had applied as an external to the same job post. I left the company and the job to a better place and money where I am not working &lt;a href=&quot;../two-years-into-leadership/&quot;&gt;currently&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Also what happens is that when there are defined pay bands, it is very unlikely that you get a salary raise unless you switch jobs or jump to another level internally. Internal job switching also depends on organizational policies and does not seem easy. When I was frustrated about being underpaid and wanted to fix my pay gap, I did apply and qualify for a job that was in another team at a higher pay band. But the company policy didn’t let me get a pay raise. The irony was that I would have easily qualified for the higher pay if I had applied as an external to the same job post. I left the company and the job to a better place and money where I am now working &lt;a href=&quot;../two-years-into-leadership/&quot;&gt;currently&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&quot;do-not-prepare-at-the-last-minute&quot;&gt;&lt;a href=&quot;#do-not-prepare-at-the-last-minute&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Do not prepare at the last minute&lt;/h3&gt;
 &lt;p&gt;Interviews are best performed when you are not under stress. You need to add the salary negotiation as a top priority into your interview preparation checklist to be able to do well.&lt;/p&gt;
 &lt;h2 id=&quot;tips-for-negotiating-a-better-salary&quot;&gt;&lt;a href=&quot;#tips-for-negotiating-a-better-salary&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tips for negotiating a better salary&lt;/h2&gt;
@@ -89,7 +200,7 @@
 &lt;p&gt;When I negotiated better pay at my current company, I also asked them if I could work on my side projects or attend conferences as a speaker. I proposed to them that I could add value to the employer branding and this was a win-win for both of us.&lt;/p&gt;
 &lt;h3 id=&quot;ask-for-mentorship-if-you-are-at-the-beginning-of-your-career&quot;&gt;&lt;a href=&quot;#ask-for-mentorship-if-you-are-at-the-beginning-of-your-career&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Ask for mentorship if you are at the beginning of your career&lt;/h3&gt;
 &lt;p&gt;If this is your first job or you are in the initial years of your career, then ask for mentorship and how does this look like in your organization. Get to know your mentors and see what you can learn from them. This is very important during the initial years of your career.&lt;/p&gt;
-&lt;p&gt;In the &lt;a href=&quot;https://princiya.com/blog/blog/d69a01cc7cf8504dfe2935e258ee2177/index.md&quot;&gt;next post&lt;/a&gt; I will talk about 3 mistakes to avoid and tips to ace at your next salary negotiation.&lt;/p&gt;
+&lt;p&gt;In the &lt;a href=&quot;../salary-negotiation-part-2/&quot;&gt;next post&lt;/a&gt; I will talk about 3 mistakes to avoid and tips to ace at your next salary negotiation.&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/salary-negotiation-part-1/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item><item><title><![CDATA[MLH Graduation 2021]]></title><description><![CDATA[Major league hacking graduation speech to the April 2021 graduating batch]]></description><link>https://princiya.com/blog/mlh-april-2021/</link><guid isPermaLink="false">https://princiya.com/blog/mlh-april-2021/</guid><pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;major-league-hacking---mlh-graduation-speech-april-2021&quot;&gt;&lt;a href=&quot;#major-league-hacking---mlh-graduation-speech-april-2021&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Major League Hacking - MLH graduation speech April 2021&lt;/h2&gt;
 &lt;p&gt;The following is an excerpt from my graduation speech to the MLH fellows graduating in April 2020.&lt;/p&gt;
@@ -1426,6 +1537,9 @@ Imagine you are planning to buy / rent a house. First you will see the house its
 &lt;p&gt;Dart is similar to React Native, but doesn’t need to use a bridge like React Native and is even faster.&lt;/p&gt;
 &lt;p&gt;So if you are looking for a single codebase, multiple platforms, Flutter is your framework of choice.&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/dart/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Cypress TypeScript code coverage report]]></title><description><![CDATA[So I tried Flutter today for the first time]]></description><link>https://princiya.com/blog/cypress-typescript-code-coverage/</link><guid isPermaLink="false">https://princiya.com/blog/cypress-typescript-code-coverage/</guid><pubDate>Sat, 04 Jul 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://github.com/lluia/cypress-typescript-coverage-example&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://github.com/lluia/cypress-typescript-coverage-example&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.mariedrake.com/post/generating-code-coverage-report-for-cypress&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.mariedrake.com/post/generating-code-coverage-report-for-cypress&lt;/a&gt;&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/cypress-typescript-code-coverage/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item><item><title><![CDATA[Two year work anniversary]]></title><description><![CDATA[It's official, I now have 2 years work experience as an engineering leader]]></description><link>https://princiya.com/blog/two-years-into-leadership/</link><guid isPermaLink="false">https://princiya.com/blog/two-years-into-leadership/</guid><pubDate>Thu, 02 Jul 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;July 01, 2020 is my two year work anniversary with &lt;a href=&quot;https://curalie.de&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Curalie GmbH&lt;/a&gt;. It’s been great two years until now, I have enjoyed working here every single day (there have been very few blue days) and I look forward to the upcoming challenges.&lt;/p&gt;
 &lt;p&gt;2 years ago, I was looking for a job change and was very much open to take bigger responsibilities and the Open Source Manager job at Zalando happened. Prior to this, I was working as a Software Engineer at Collabary (by Zalando). Although the job was challenging, I didn’t qualify there to a higher pay grade. And my previous manager said I was going through the Dunning Kruger effect.&lt;/p&gt;
 &lt;p&gt;I was determined to get a better job, title and offcourse higher pay. 2 years now and I could not have been happier from where I am currently.&lt;/p&gt;
