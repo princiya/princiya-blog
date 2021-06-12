@@ -82,5 +82,5 @@ When I negotiated better pay at my current company, I also asked them if I could
 
 If this is your first job or you are in the initial years of your career, then ask for mentorship and how does this look like in your organization. Get to know your mentors and see what you can learn from them. This is very important during the initial years of your career.
 
-In the [next post](../salary-negotiation-part-2/index.md) I will talk about 3 mistakes to avoid and tips to ace at your next salary negotiation.
+In the [next post](../salary-negotiation-part-2/) I will talk about 3 mistakes to avoid and tips to ace at your next salary negotiation.
 
