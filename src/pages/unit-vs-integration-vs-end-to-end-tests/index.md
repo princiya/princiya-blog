@@ -3,8 +3,11 @@ title: How to know if you are writing integration tests or end to end tests
 date: '2020-07-22'
 spoiler: Unit tests vs Integration tests vs End to end tests
 cta: 'Tests'
-tags: ["tests", "technical"]
+tags: ["testing", "technical"]
 ---
+
+
+
 
 - **Unit tests**: Unit tests are atomic. They are within the scope of one component or action or reducer or saga and do not go beyond the scope of this atomic component.
   - Example: Unit tests do not involve `reducer && saga` being tested together or `component && action && reducer && saga` being tested together.

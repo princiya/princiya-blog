@@ -3,7 +3,7 @@ title: Introduction to contract tests
 date: '2020-07-15'
 spoiler: An introduction to contract tests and comparison with integration tests
 cta: 'Contract tests'
-tags: ["tests", "technical"]
+tags: ["testing", "technical"]
 ---
 
 ## Context
