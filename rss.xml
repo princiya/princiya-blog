@@ -1,47 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[P's Blog RSS Feed]]></title><description><![CDATA[Personal blog by Princiya Sequeira]]></description><link>https://princiya.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 12 Jun 2021 11:17:42 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://princiya.com/blog/js-interview/</link><guid isPermaLink="false">https://princiya.com/blog/js-interview/</guid><content:encoded>&lt;p&gt;var a = [{a:1}, {a:1}, {a:1}]
-var b = a.filter(o =&gt; o.a === 1)&lt;/p&gt;
-&lt;p&gt;if(a[0] === b[0]) {
-console.log(1)
-}&lt;/p&gt;
-&lt;p&gt;if(a === b) {
-console.log(2)
-}&lt;/p&gt;
-&lt;p&gt;if(a[0].a === b[1].a) {
-console.log(3)
-}&lt;/p&gt;
-&lt;p&gt;function a() {
-console.log(this)
-}&lt;/p&gt;
-&lt;p&gt;console.log(a())
-console.log(new a())&lt;/p&gt;
-&lt;p&gt;var cls1 = function(){};
-cls1.prototype.method = function(val) {
- return val*val;
-}&lt;/p&gt;
-&lt;p&gt;var cls2 = function() {
-  this.method = function(val) {
-  return val*val;
-}
-}&lt;/p&gt;
-&lt;p&gt;var instance1 = new cls1();
-var instance2 = new cls2();&lt;/p&gt;
-&lt;p&gt;new Promise((resolve) =&gt; {
-resolve();
-console.log(1);
-}).then(() =&gt; console.log(4))&lt;/p&gt;
-&lt;p&gt;setTimeout(() =&gt; console.log(2))
-console.log(3)&lt;/p&gt;
-&lt;p&gt;const closure = {
-a: {abc: 1},
-b: function() {
-adsaslkj;
-}
-}&lt;/p&gt;
-&lt;p&gt;function closure() {
-const a;&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/js-interview/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
-              </content:encoded></item><item><title><![CDATA[Grieving over a job break up]]></title><description><![CDATA[job break up]]></description><link>https://princiya.com/blog/grieving-over-job-break-up/</link><guid isPermaLink="false">https://princiya.com/blog/grieving-over-job-break-up/</guid><pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;what’s been the most fulfilling thing?
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[P's Blog RSS Feed]]></title><description><![CDATA[Personal blog by Princiya Sequeira]]></description><link>https://princiya.com/blog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Jun 2021 12:06:46 GMT</lastBuildDate><item><title><![CDATA[Grieving over a job break up]]></title><description><![CDATA[job break up]]></description><link>https://princiya.com/blog/grieving-over-job-break-up/</link><guid isPermaLink="false">https://princiya.com/blog/grieving-over-job-break-up/</guid><pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;what’s been the most fulfilling thing?
 succession plan&lt;/p&gt;
 &lt;p&gt;evaluating phases of burnout before deciding to quit. &lt;a href=&quot;https://hbr.org/2019/07/6-causes-of-burnout-and-how-to-avoid-them&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://hbr.org/2019/07/6-causes-of-burnout-and-how-to-avoid-them&lt;/a&gt;
 stages of grief: &lt;a href=&quot;https://www.healthline.com/health/stages-of-grief#order&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.healthline.com/health/stages-of-grief#order&lt;/a&gt;&lt;/p&gt;
@@ -1574,6 +1531,49 @@ Imagine you are planning to buy / rent a house. First you will see the house its
 &lt;/li&gt;
 &lt;/ul&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/interview-advice/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[JS Interview]]></title><description><![CDATA[interview with miro]]></description><link>https://princiya.com/blog/js-interview/</link><guid isPermaLink="false">https://princiya.com/blog/js-interview/</guid><pubDate>Wed, 24 Jun 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;var a = [{a:1}, {a:1}, {a:1}]
+var b = a.filter(o =&gt; o.a === 1)&lt;/p&gt;
+&lt;p&gt;if(a[0] === b[0]) {
+console.log(1)
+}&lt;/p&gt;
+&lt;p&gt;if(a === b) {
+console.log(2)
+}&lt;/p&gt;
+&lt;p&gt;if(a[0].a === b[1].a) {
+console.log(3)
+}&lt;/p&gt;
+&lt;p&gt;function a() {
+console.log(this)
+}&lt;/p&gt;
+&lt;p&gt;console.log(a())
+console.log(new a())&lt;/p&gt;
+&lt;p&gt;var cls1 = function(){};
+cls1.prototype.method = function(val) {
+ return val*val;
+}&lt;/p&gt;
+&lt;p&gt;var cls2 = function() {
+  this.method = function(val) {
+  return val*val;
+}
+}&lt;/p&gt;
+&lt;p&gt;var instance1 = new cls1();
+var instance2 = new cls2();&lt;/p&gt;
+&lt;p&gt;new Promise((resolve) =&gt; {
+resolve();
+console.log(1);
+}).then(() =&gt; console.log(4))&lt;/p&gt;
+&lt;p&gt;setTimeout(() =&gt; console.log(2))
+console.log(3)&lt;/p&gt;
+&lt;p&gt;const closure = {
+a: {abc: 1},
+b: function() {
+adsaslkj;
+}
+}&lt;/p&gt;
+&lt;p&gt;function closure() {
+const a;&lt;/p&gt;
+&lt;p&gt;}&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at princiya.com/blog. You can read it online by &lt;a href=&quot;https://princiya.com/blog/js-interview/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[Setting up a Gatsby Blog]]></description><link>https://princiya.com/blog/hello-world/</link><guid isPermaLink="false">https://princiya.com/blog/hello-world/</guid><pubDate>Mon, 09 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I recently subsribed to &lt;a href=&quot;https://bloggingfordevs.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Monica Lent’s&lt;/a&gt; newsletter to get better with blogging, writing content and mainly learning and getting better with SEO.&lt;/p&gt;
 &lt;p&gt;As a first step, I am migrating away from my old &lt;a href=&quot;https://princiya777.wordpress.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Wordpress blog&lt;/a&gt; to a self owned one and I choose Gatsby.&lt;/p&gt;
 &lt;p&gt;In the past, I’ve tried Jekyll and Hugo static site generators but was not happy when I had to make some small changes and the learning curve there was too high.&lt;/p&gt;
